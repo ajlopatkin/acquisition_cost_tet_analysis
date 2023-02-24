@@ -1,0 +1,496 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:86 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 86 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:86 features have inconsistent gene locations.
+SUSPECT_PRODUCT_NAMES:2 product_names contain suspect phrase or characters
+	May contain database identifier more appropriate in note; remove from product name
+		2 features contains three or more numbers together that may be identifiers more appropriate in note
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:87 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::86 proteins halid nvalid IDs.
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_1 (length 242)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_2 (length 318)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_3 (length 341)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_4 (length 302)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_5 (length 80)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_6 (length 225)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_7 (length 399)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_8 (length 158)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_9 (length 382)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_10 (length 116)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_11 (length 121)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_12 (length 319)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_13 (length 145)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_14 (length 103)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_15 (length 852)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_16 (length 252)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_17 (length 297)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_18 (length 160)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_19 (length 463)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_20 (length 258)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_21 (length 69)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_22 (length 528)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_23 (length 199)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_24 (length 234)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_25 (length 87)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_26 (length 244)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_27 (length 139)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_28 (length 231)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_29 (length 220)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_30 (length 207)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_31 (length 177)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_32 (length 97)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_33 (length 83)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_34 (length 103)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_35 (length 286)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_36 (length 96)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_37 (length 146)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_38 (length 1061)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_39 (length 87)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_40 (length 737)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_41 (length 177)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_42 (length 635)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_43 (length 732)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_44 (length 123)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_45 (length 134)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_46 (length 241)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_47 (length 145)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_48 (length 448)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_49 (length 115)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_50 (length 239)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_51 (length 175)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_52 (length 167)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_53 (length 358)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_54 (length 259)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_55 (length 104)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_56 (length 317)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_57 (length 378)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_58 (length 257)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_59 (length 104)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_60 (length 107)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_61 (length 144)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_62 (length 116)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_63 (length 91)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_64 (length 153)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_65 (length 564)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_66 (length 120)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_67 (length 78)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_68 (length 239)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_69 (length 514)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_70 (length 504)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_71 (length 261)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_72 (length 166)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_73 (length 279)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_74 (length 115)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_75 (length 259)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_76 (length 337)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_77 (length 116)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_78 (length 186)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_79 (length 988)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_80 (length 76)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_81 (length 71)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_82 (length 77)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_83 (length 85)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_84 (length 461)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_85 (length 146)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_86 (length 994)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 86 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1 (length 76639)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::86 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	putative oxidoreductase	AL02_R124_AD7_CIRCLE_76639_l1:c966-238	ACHBFCDE_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Aldo-keto reductase IolS	AL02_R124_AD7_CIRCLE_76639_l1:c1964-1008	ACHBFCDE_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	NADPH dehydrogenase	AL02_R124_AD7_CIRCLE_76639_l1:c3297-2272	ACHBFCDE_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	HTH-type transcriptional activator RhaS	AL02_R124_AD7_CIRCLE_76639_l1:3554-4462	ACHBFCDE_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:4652-4894	ACHBFCDE_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Tetracycline repressor protein class A from transposon 1721	AL02_R124_AD7_CIRCLE_76639_l1:c5603-4926	ACHBFCDE_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Tetracycline resistance protein, class C	AL02_R124_AD7_CIRCLE_76639_l1:5682-6881	ACHBFCDE_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c7288-6812	ACHBFCDE_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Plasmid replication initiator protein TrfA	AL02_R124_AD7_CIRCLE_76639_l1:c8592-7444	ACHBFCDE_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Single-stranded DNA-binding protein	AL02_R124_AD7_CIRCLE_76639_l1:c8991-8641	ACHBFCDE_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:9112-9477	ACHBFCDE_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Putative conjugal transfer protein	AL02_R124_AD7_CIRCLE_76639_l1:9748-10707	ACHBFCDE_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:10720-11157	ACHBFCDE_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:11160-11471	ACHBFCDE_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Type IV secretion system protein virB4	AL02_R124_AD7_CIRCLE_76639_l1:11468-14026	ACHBFCDE_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:14023-14781	ACHBFCDE_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:14793-15686	ACHBFCDE_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:15690-16172	ACHBFCDE_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:16177-17568	ACHBFCDE_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:17585-18361	ACHBFCDE_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:18373-18582	ACHBFCDE_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:18589-20175	ACHBFCDE_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:20199-20798	ACHBFCDE_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:20814-21518	ACHBFCDE_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:21549-21812	ACHBFCDE_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:21849-22583	ACHBFCDE_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:22600-23019	ACHBFCDE_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Protein osa	AL02_R124_AD7_CIRCLE_76639_l1:23034-23729	ACHBFCDE_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:23765-24427	ACHBFCDE_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Putative transposon Tn552 DNA-invertase bin3	AL02_R124_AD7_CIRCLE_76639_l1:c25074-24451	ACHBFCDE_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c25604-25071	ACHBFCDE_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c25894-25601	ACHBFCDE_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Antitoxin ParD	AL02_R124_AD7_CIRCLE_76639_l1:26045-26296	ACHBFCDE_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Toxin ParE	AL02_R124_AD7_CIRCLE_76639_l1:26293-26604	ACHBFCDE_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Aminoglycoside 3'-phosphotransferase	AL02_R124_AD7_CIRCLE_76639_l1:26682-27542	ACHBFCDE_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c27916-27626	ACHBFCDE_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Protein TraB	AL02_R124_AD7_CIRCLE_76639_l1:c28364-27924	ACHBFCDE_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	DNA primase TraC	AL02_R124_AD7_CIRCLE_76639_l1:c31565-28380	ACHBFCDE_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c31835-31572	ACHBFCDE_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	DNA topoisomerase 3	AL02_R124_AD7_CIRCLE_76639_l1:c34054-31841	ACHBFCDE_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c34602-34069	ACHBFCDE_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Conjugal transfer protein TraG	AL02_R124_AD7_CIRCLE_76639_l1:c36506-34599	ACHBFCDE_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Protein TraI	AL02_R124_AD7_CIRCLE_76639_l1:c38701-36503	ACHBFCDE_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Protein TraJ	AL02_R124_AD7_CIRCLE_76639_l1:c39107-38736	ACHBFCDE_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Protein TraK	AL02_R124_AD7_CIRCLE_76639_l1:39475-39879	ACHBFCDE_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Protein TraL	AL02_R124_AD7_CIRCLE_76639_l1:39879-40604	ACHBFCDE_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Protein TraM	AL02_R124_AD7_CIRCLE_76639_l1:40601-41038	ACHBFCDE_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c42437-41091	ACHBFCDE_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Protein TraB	AL02_R124_AD7_CIRCLE_76639_l1:c42813-42466	ACHBFCDE_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c43690-42971	ACHBFCDE_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c44582-44055	ACHBFCDE_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c45095-44592	ACHBFCDE_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Transcriptional repressor protein KorB	AL02_R124_AD7_CIRCLE_76639_l1:c46242-45166	ACHBFCDE_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Chromosome-partitioning ATPase Soj	AL02_R124_AD7_CIRCLE_76639_l1:c47018-46239	ACHBFCDE_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	TrfB transcriptional repressor protein	AL02_R124_AD7_CIRCLE_76639_l1:c47329-47015	ACHBFCDE_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c48447-47494	ACHBFCDE_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	TelA-like protein	AL02_R124_AD7_CIRCLE_76639_l1:c49580-48444	ACHBFCDE_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c50371-49598	ACHBFCDE_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c50808-50494	ACHBFCDE_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c51159-50836	ACHBFCDE_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	ISL3 family transposase ISStma11	AL02_R124_AD7_CIRCLE_76639_l1:c51851-51417	ACHBFCDE_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Mercuric transport protein MerT	AL02_R124_AD7_CIRCLE_76639_l1:51923-52273	ACHBFCDE_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Mercuric transport protein periplasmic component	AL02_R124_AD7_CIRCLE_76639_l1:52287-52562	ACHBFCDE_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Mercuric transport protein MerC	AL02_R124_AD7_CIRCLE_76639_l1:52559-53020	ACHBFCDE_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Mercuric reductase	AL02_R124_AD7_CIRCLE_76639_l1:53072-54766	ACHBFCDE_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:54784-55146	ACHBFCDE_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:55143-55379	ACHBFCDE_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	putative signaling protein	AL02_R124_AD7_CIRCLE_76639_l1:55376-56095	ACHBFCDE_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	IS3 family transposase IS1353	AL02_R124_AD7_CIRCLE_76639_l1:c57481-55937	ACHBFCDE_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:57613-59127	ACHBFCDE_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	IS21 family transposase IS1326	AL02_R124_AD7_CIRCLE_76639_l1:59114-59899	ACHBFCDE_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c60575-60075	ACHBFCDE_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Dihydropteroate synthase	AL02_R124_AD7_CIRCLE_76639_l1:c61542-60703	ACHBFCDE_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Multidrug transporter EmrE	AL02_R124_AD7_CIRCLE_76639_l1:c61883-61536	ACHBFCDE_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Streptomycin 3''-adenylyltransferase	AL02_R124_AD7_CIRCLE_76639_l1:c62826-62047	ACHBFCDE_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Tyrosine recombinase XerC	AL02_R124_AD7_CIRCLE_76639_l1:62987-64000	ACHBFCDE_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:64203-64553	ACHBFCDE_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	DNA-invertase hin	AL02_R124_AD7_CIRCLE_76639_l1:64679-65239	ACHBFCDE_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Tn3 family transposase TnAs3	AL02_R124_AD7_CIRCLE_76639_l1:65242-68208	ACHBFCDE_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c68598-68368	ACHBFCDE_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c68966-68751	ACHBFCDE_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c69248-69015	ACHBFCDE_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	hypothetical protein	AL02_R124_AD7_CIRCLE_76639_l1:c69731-69474	ACHBFCDE_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Protein KlcB	AL02_R124_AD7_CIRCLE_76639_l1:c71139-69754	ACHBFCDE_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Antirestriction protein KlcA	AL02_R124_AD7_CIRCLE_76639_l1:c71625-71185	ACHBFCDE_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Tn3 family transposase ISSba14	AL02_R124_AD7_CIRCLE_76639_l1:c76006-73022	ACHBFCDE_00086
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::2 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::2 features contains three or more numbers together that may be identifiers more appropriate in note
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Tetracycline repressor protein class A from transposon 1721	AL02_R124_AD7_CIRCLE_76639_l1:c5603-4926	ACHBFCDE_00006
+./../output/plasmids/R702/gb_match/default/pk_results/R702:CDS	Putative transposon Tn552 DNA-invertase bin3	AL02_R124_AD7_CIRCLE_76639_l1:c25074-24451	ACHBFCDE_00030
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1 (length 76639)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1 (length 76639)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1 (length 76639)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1 (length 76639)
+
+DiscRep_ALL:MISSING_PROJECT::87 sequences do not include project.
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1 (length 76639)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_1 (length 242)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_2 (length 318)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_3 (length 341)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_4 (length 302)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_5 (length 80)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_6 (length 225)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_7 (length 399)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_8 (length 158)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_9 (length 382)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_10 (length 116)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_11 (length 121)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_12 (length 319)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_13 (length 145)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_14 (length 103)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_15 (length 852)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_16 (length 252)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_17 (length 297)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_18 (length 160)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_19 (length 463)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_20 (length 258)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_21 (length 69)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_22 (length 528)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_23 (length 199)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_24 (length 234)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_25 (length 87)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_26 (length 244)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_27 (length 139)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_28 (length 231)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_29 (length 220)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_30 (length 207)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_31 (length 177)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_32 (length 97)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_33 (length 83)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_34 (length 103)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_35 (length 286)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_36 (length 96)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_37 (length 146)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_38 (length 1061)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_39 (length 87)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_40 (length 737)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_41 (length 177)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_42 (length 635)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_43 (length 732)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_44 (length 123)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_45 (length 134)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_46 (length 241)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_47 (length 145)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_48 (length 448)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_49 (length 115)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_50 (length 239)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_51 (length 175)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_52 (length 167)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_53 (length 358)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_54 (length 259)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_55 (length 104)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_56 (length 317)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_57 (length 378)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_58 (length 257)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_59 (length 104)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_60 (length 107)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_61 (length 144)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_62 (length 116)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_63 (length 91)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_64 (length 153)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_65 (length 564)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_66 (length 120)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_67 (length 78)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_68 (length 239)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_69 (length 514)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_70 (length 504)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_71 (length 261)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_72 (length 166)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_73 (length 279)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_74 (length 115)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_75 (length 259)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_76 (length 337)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_77 (length 116)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_78 (length 186)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_79 (length 988)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_80 (length 76)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_81 (length 71)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_82 (length 77)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_83 (length 85)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_84 (length 461)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_85 (length 146)
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1_86 (length 994)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./../output/plasmids/R702/gb_match/default/pk_results/R702:AL02_R124_AD7_CIRCLE_76639_l1 (length 76639)
+

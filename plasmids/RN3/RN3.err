@@ -1,0 +1,430 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:72 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 72 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:72 features have inconsistent gene locations.
+SUSPECT_PRODUCT_NAMES:1 product_names contain suspect phrase or characters
+	May contain database identifier more appropriate in note; remove from product name
+		1 features contains three or more numbers together that may be identifiers more appropriate in note
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:2 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:73 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::72 proteins halid nvalid IDs.
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_1 (length 106)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_2 (length 59)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_3 (length 169)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_4 (length 35)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_5 (length 110)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_6 (length 94)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_7 (length 119)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_8 (length 98)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_9 (length 181)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_10 (length 51)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_11 (length 79)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_12 (length 134)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_13 (length 141)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_14 (length 146)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_15 (length 421)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_16 (length 263)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_17 (length 113)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_18 (length 239)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_19 (length 179)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_20 (length 518)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_21 (length 80)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_22 (length 234)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_23 (length 201)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_24 (length 131)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_25 (length 310)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_26 (length 303)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_27 (length 379)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_28 (length 275)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_29 (length 100)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_30 (length 158)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_31 (length 222)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_32 (length 399)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_33 (length 167)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_34 (length 234)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_35 (length 37)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_36 (length 189)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_37 (length 337)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_38 (length 259)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_39 (length 115)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_40 (length 279)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_41 (length 166)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_42 (length 254)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_43 (length 402)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_44 (length 477)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_45 (length 88)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_46 (length 68)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_47 (length 215)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_48 (length 103)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_49 (length 104)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_50 (length 114)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_51 (length 101)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_52 (length 244)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_53 (length 93)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_54 (length 97)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_55 (length 105)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_56 (length 866)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_57 (length 237)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_58 (length 75)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_59 (length 346)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_60 (length 232)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_61 (length 294)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_62 (length 386)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_63 (length 331)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_64 (length 177)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_65 (length 208)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_66 (length 1080)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_67 (length 509)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_68 (length 138)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_69 (length 139)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_70 (length 238)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_71 (length 122)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_72 (length 114)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 72 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1 (length 57533)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::72 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c401-81	BPFFEJJH_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c635-456	BPFFEJJH_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c1871-1362	BPFFEJJH_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c2746-2639	BPFFEJJH_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c3556-3224	BPFFEJJH_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c4049-3765	BPFFEJJH_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c4477-4118	BPFFEJJH_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c4770-4474	BPFFEJJH_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c5428-4883	BPFFEJJH_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c5583-5428	BPFFEJJH_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c5895-5656	BPFFEJJH_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c6309-5905	BPFFEJJH_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c6792-6367	BPFFEJJH_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Protein UmuD	AL03_RN3_AG2_CIRCLE_57585_l1:7207-7647	BPFFEJJH_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Protein UmuC	AL03_RN3_AG2_CIRCLE_57585_l1:7635-8900	BPFFEJJH_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:9051-9842	BPFFEJJH_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c10198-9857	BPFFEJJH_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Replication initiation protein	AL03_RN3_AG2_CIRCLE_57585_l1:10758-11477	BPFFEJJH_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:11522-12061	BPFFEJJH_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:12308-13864	BPFFEJJH_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:13861-14103	BPFFEJJH_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	IS6 family transposase IS26	AL03_RN3_AG2_CIRCLE_57585_l1:14115-14819	BPFFEJJH_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	C4-dicarboxylate transport protein	AL03_RN3_AG2_CIRCLE_57585_l1:14877-15482	BPFFEJJH_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	2-iminobutanoate/2-iminopropanoate deaminase	AL03_RN3_AG2_CIRCLE_57585_l1:15539-15934	BPFFEJJH_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Alanine dehydrogenase	AL03_RN3_AG2_CIRCLE_57585_l1:15974-16906	BPFFEJJH_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	HTH-type transcriptional regulator DmlR	AL03_RN3_AG2_CIRCLE_57585_l1:c17814-16903	BPFFEJJH_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	D-threo-3-hydroxyaspartate dehydratase	AL03_RN3_AG2_CIRCLE_57585_l1:17911-19050	BPFFEJJH_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Undecaprenyl-diphosphatase	AL03_RN3_AG2_CIRCLE_57585_l1:c20032-19205	BPFFEJJH_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c21239-20937	BPFFEJJH_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c22035-21559	BPFFEJJH_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Tetracycline repressor protein class A from transposon 1721	AL03_RN3_AG2_CIRCLE_57585_l1:c22935-22267	BPFFEJJH_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Tetracycline resistance protein, class C	AL03_RN3_AG2_CIRCLE_57585_l1:23036-24235	BPFFEJJH_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Quinate/shikimate dehydrogenase	AL03_RN3_AG2_CIRCLE_57585_l1:24750-25253	BPFFEJJH_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	IS6 family transposase IS26	AL03_RN3_AG2_CIRCLE_57585_l1:25290-25994	BPFFEJJH_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c26309-26196	BPFFEJJH_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	DNA-invertase hin	AL03_RN3_AG2_CIRCLE_57585_l1:c26875-26306	BPFFEJJH_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Tyrosine recombinase XerC	AL03_RN3_AG2_CIRCLE_57585_l1:c28281-27268	BPFFEJJH_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Streptomycin 3''-adenylyltransferase	AL03_RN3_AG2_CIRCLE_57585_l1:28439-29218	BPFFEJJH_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Multidrug transporter EmrE	AL03_RN3_AG2_CIRCLE_57585_l1:29382-29729	BPFFEJJH_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Dihydropteroate synthase	AL03_RN3_AG2_CIRCLE_57585_l1:29723-30562	BPFFEJJH_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:30690-31190	BPFFEJJH_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	IS6 family transposase IS6100	AL03_RN3_AG2_CIRCLE_57585_l1:31697-32461	BPFFEJJH_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Type-2 restriction enzyme EcoRII	AL03_RN3_AG2_CIRCLE_57585_l1:32728-33936	BPFFEJJH_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	DNA-cytosine methyltransferase	AL03_RN3_AG2_CIRCLE_57585_l1:c35403-33970	BPFFEJJH_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	IS1 family transposase IS1X2	AL03_RN3_AG2_CIRCLE_57585_l1:35508-35774	BPFFEJJH_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c35991-35785	BPFFEJJH_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c36643-35996	BPFFEJJH_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c37004-36693	BPFFEJJH_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c37354-37040	BPFFEJJH_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c37695-37351	BPFFEJJH_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c38016-37711	BPFFEJJH_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:38125-38859	BPFFEJJH_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:38868-39149	BPFFEJJH_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:39159-39452	BPFFEJJH_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:39502-39819	BPFFEJJH_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Type IV secretion system protein virB4	AL03_RN3_AG2_CIRCLE_57585_l1:39819-42419	BPFFEJJH_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Type IV secretion system protein virB5	AL03_RN3_AG2_CIRCLE_57585_l1:42437-43150	BPFFEJJH_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:43158-43385	BPFFEJJH_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:43401-44441	BPFFEJJH_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Type IV secretion system protein virB8	AL03_RN3_AG2_CIRCLE_57585_l1:44660-45358	BPFFEJJH_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Type IV secretion system protein virB9	AL03_RN3_AG2_CIRCLE_57585_l1:45369-46253	BPFFEJJH_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Protein virB10	AL03_RN3_AG2_CIRCLE_57585_l1:46253-47413	BPFFEJJH_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Type IV secretion system protein VirB11	AL03_RN3_AG2_CIRCLE_57585_l1:47455-48450	BPFFEJJH_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:48450-48983	BPFFEJJH_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c49783-49157	BPFFEJJH_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	ATP-dependent RecD-like DNA helicase	AL03_RN3_AG2_CIRCLE_57585_l1:c53025-49783	BPFFEJJH_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Coupling protein TraD	AL03_RN3_AG2_CIRCLE_57585_l1:c54554-53025	BPFFEJJH_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:c54972-54556	BPFFEJJH_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:55463-55882	BPFFEJJH_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:55891-56607	BPFFEJJH_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:56609-56977	BPFFEJJH_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	hypothetical protein	AL03_RN3_AG2_CIRCLE_57585_l1:57159-57503	BPFFEJJH_00072
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::1 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features contains three or more numbers together that may be identifiers more appropriate in note
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:CDS	Tetracycline repressor protein class A from transposon 1721	AL03_RN3_AG2_CIRCLE_57585_l1:c22935-22267	BPFFEJJH_00031
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::2 protein sequences are shorter than 50 aa.
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_4 (length 35)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_35 (length 37)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1 (length 57533)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1 (length 57533)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1 (length 57533)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1 (length 57533)
+
+DiscRep_ALL:MISSING_PROJECT::73 sequences do not include project.
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1 (length 57533)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_1 (length 106)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_2 (length 59)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_3 (length 169)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_4 (length 35)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_5 (length 110)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_6 (length 94)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_7 (length 119)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_8 (length 98)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_9 (length 181)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_10 (length 51)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_11 (length 79)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_12 (length 134)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_13 (length 141)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_14 (length 146)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_15 (length 421)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_16 (length 263)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_17 (length 113)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_18 (length 239)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_19 (length 179)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_20 (length 518)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_21 (length 80)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_22 (length 234)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_23 (length 201)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_24 (length 131)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_25 (length 310)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_26 (length 303)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_27 (length 379)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_28 (length 275)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_29 (length 100)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_30 (length 158)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_31 (length 222)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_32 (length 399)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_33 (length 167)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_34 (length 234)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_35 (length 37)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_36 (length 189)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_37 (length 337)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_38 (length 259)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_39 (length 115)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_40 (length 279)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_41 (length 166)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_42 (length 254)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_43 (length 402)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_44 (length 477)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_45 (length 88)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_46 (length 68)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_47 (length 215)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_48 (length 103)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_49 (length 104)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_50 (length 114)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_51 (length 101)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_52 (length 244)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_53 (length 93)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_54 (length 97)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_55 (length 105)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_56 (length 866)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_57 (length 237)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_58 (length 75)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_59 (length 346)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_60 (length 232)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_61 (length 294)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_62 (length 386)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_63 (length 331)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_64 (length 177)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_65 (length 208)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_66 (length 1080)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_67 (length 509)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_68 (length 138)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_69 (length 139)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_70 (length 238)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_71 (length 122)
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1_72 (length 114)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./../output/plasmids/RN3/gb_match/default/pk_results/RN3:AL03_RN3_AG2_CIRCLE_57585_l1 (length 57533)
+

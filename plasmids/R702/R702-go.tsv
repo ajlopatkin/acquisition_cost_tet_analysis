@@ -1,0 +1,87 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product	GO ID	Type	Function
+ACHBFCDE_00001	CDS	729		1.-.-.-	COG4221	putative oxidoreductase	GO:0005886	RC	plasma membrane-
+ACHBFCDE_00002	CDS	957	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS	GO:0005829	UC	cytosol-
+ACHBFCDE_00003	CDS	1026	namA	1.6.99.1	COG1902	NADPH dehydrogenase	GO:0009636	RP	response to toxic substance-
+ACHBFCDE_00004	CDS	909	rhaS			HTH-type transcriptional activator RhaS	GO:0045893	RP	positive regulation of transcription, DNA-templated-
+ACHBFCDE_00005	CDS	243				hypothetical protein			
+ACHBFCDE_00006	CDS	678	tetR			Tetracycline repressor protein class A from transposon 1721	GO:0045892	RP	negative regulation of transcription, DNA-templated-
+ACHBFCDE_00007	CDS	1200	tetA			Tetracycline resistance protein, class C	GO:0006811	RP	ion transport-
+ACHBFCDE_00008	CDS	477				hypothetical protein			
+ACHBFCDE_00009	CDS	1149	trfA			Plasmid replication initiator protein TrfA	GO:0006260	UP	DNA replication
+ACHBFCDE_00010	CDS	351	ssb		COG0629	Single-stranded DNA-binding protein	GO:0006310	RP	DNA recombination-
+ACHBFCDE_00011	CDS	366				hypothetical protein			
+ACHBFCDE_00012	CDS	960			COG4962	Putative conjugal transfer protein	GO:0000746	RP	conjugation
+ACHBFCDE_00013	CDS	438				hypothetical protein			
+ACHBFCDE_00014	CDS	312				hypothetical protein			
+ACHBFCDE_00015	CDS	2559	virB4		COG3451	Type IV secretion system protein virB4	GO:0005524	RF	ATP binding-
+ACHBFCDE_00016	CDS	759				hypothetical protein			
+ACHBFCDE_00017	CDS	894				hypothetical protein			
+ACHBFCDE_00018	CDS	483				hypothetical protein			
+ACHBFCDE_00019	CDS	1392				hypothetical protein			
+ACHBFCDE_00020	CDS	777				hypothetical protein			
+ACHBFCDE_00021	CDS	210				hypothetical protein			
+ACHBFCDE_00022	CDS	1587				hypothetical protein			
+ACHBFCDE_00023	CDS	600				hypothetical protein			
+ACHBFCDE_00024	CDS	705				hypothetical protein			
+ACHBFCDE_00025	CDS	264				hypothetical protein			
+ACHBFCDE_00026	CDS	735				hypothetical protein			
+ACHBFCDE_00027	CDS	420				hypothetical protein			
+ACHBFCDE_00028	CDS	696	osa			Protein osa			
+ACHBFCDE_00029	CDS	663				hypothetical protein			
+ACHBFCDE_00030	CDS	624	bin3			Putative transposon Tn552 DNA-invertase bin3	GO:0015074	UP	DNA integration-
+ACHBFCDE_00031	CDS	534				hypothetical protein			
+ACHBFCDE_00032	CDS	294				hypothetical protein			
+ACHBFCDE_00033	CDS	252	parD			Antitoxin ParD	GO:0006355	RP	regulation of transcription, DNA-templated-
+ACHBFCDE_00034	CDS	312	parE			Toxin ParE	GO:0007059	RP	chromosome segregation-
+ACHBFCDE_00035	CDS	861	neo	2.7.1.95		Aminoglycoside 3'-phosphotransferase	GO:1901158	RP	neomycin biosynthetic process-
+ACHBFCDE_00036	CDS	291				hypothetical protein			
+ACHBFCDE_00037	CDS	441	traB_1			Protein TraB	GO:0016021	UC	integral component of membrane-
+ACHBFCDE_00038	CDS	3186	traC	2.7.7.-		DNA primase TraC	GO:0000746	RP	conjugation
+ACHBFCDE_00039	CDS	264				hypothetical protein			
+ACHBFCDE_00040	CDS	2214	topB	5.6.2.1		DNA topoisomerase 3	GO:0006265	RP	DNA topological change-
+ACHBFCDE_00041	CDS	534				hypothetical protein			
+ACHBFCDE_00042	CDS	1908	traG			Conjugal transfer protein TraG	GO:0000746	RP	conjugation
+ACHBFCDE_00043	CDS	2199	traI			Protein TraI	GO:0000746	RP	conjugation
+ACHBFCDE_00044	CDS	372	traJ			Protein TraJ	GO:0000746	RP	conjugation
+ACHBFCDE_00045	CDS	405	traK			Protein TraK	GO:0000746	RP	conjugation
+ACHBFCDE_00046	CDS	726	traL			Protein TraL	GO:0000746	RP	conjugation
+ACHBFCDE_00047	CDS	438	traM			Protein TraM	GO:0000746	RP	conjugation
+ACHBFCDE_00048	CDS	1347				hypothetical protein			
+ACHBFCDE_00049	CDS	348	traB_2			Protein TraB	GO:0016021	UC	integral component of membrane-
+ACHBFCDE_00050	CDS	720				hypothetical protein			
+ACHBFCDE_00051	CDS	528				hypothetical protein			
+ACHBFCDE_00052	CDS	504				hypothetical protein			
+ACHBFCDE_00053	CDS	1077	korB			Transcriptional repressor protein KorB	GO:0045892	RP	negative regulation of transcription, DNA-templated-
+ACHBFCDE_00054	CDS	780	soj	3.6.-.-	COG1192	Chromosome-partitioning ATPase Soj	GO:0042174	RP	negative regulation of sporulation resulting in formation of a cellular spore-
+ACHBFCDE_00055	CDS	315	trfB			TrfB transcriptional repressor protein	GO:0003677	UF	DNA binding-
+ACHBFCDE_00056	CDS	954				hypothetical protein			
+ACHBFCDE_00057	CDS	1137				TelA-like protein			
+ACHBFCDE_00058	CDS	774				hypothetical protein			
+ACHBFCDE_00059	CDS	315				hypothetical protein			
+ACHBFCDE_00060	CDS	324				hypothetical protein			
+ACHBFCDE_00061	CDS	435				ISL3 family transposase ISStma11			
+ACHBFCDE_00062	CDS	351	merT			Mercuric transport protein MerT	GO:0016021	RC	integral component of membrane-
+ACHBFCDE_00063	CDS	276	merP			Mercuric transport protein periplasmic component	GO:0042597	RC	periplasmic space-
+ACHBFCDE_00064	CDS	462	merC			Mercuric transport protein MerC	GO:0016021	UC	integral component of membrane-
+ACHBFCDE_00065	CDS	1695	merA	1.16.1.1		Mercuric reductase	GO:0045454	RP	cell redox homeostasis-
+ACHBFCDE_00066	CDS	363				hypothetical protein			
+ACHBFCDE_00067	CDS	237				hypothetical protein			
+ACHBFCDE_00068	CDS	720			COG2200	putative signaling protein	GO:0071732	RP	cellular response to nitric oxide-
+ACHBFCDE_00069	CDS	1545				IS3 family transposase IS1353			
+ACHBFCDE_00070	CDS	1515				hypothetical protein			
+ACHBFCDE_00071	CDS	786				IS21 family transposase IS1326			
+ACHBFCDE_00072	CDS	501				hypothetical protein			
+ACHBFCDE_00073	CDS	840	folP	2.5.1.15	COG0294	Dihydropteroate synthase	GO:0046656	RP	folic acid biosynthetic process-
+ACHBFCDE_00074	CDS	348	emrE		COG2076	Multidrug transporter EmrE	GO:0042221	UP	response to chemical-
+ACHBFCDE_00075	CDS	780	ant1	2.7.7.47		Streptomycin 3''-adenylyltransferase	GO:0046677	UP	
+ACHBFCDE_00076	CDS	1014	xerC			Tyrosine recombinase XerC	GO:0007049	RP	cell cycle-
+ACHBFCDE_00077	CDS	351				hypothetical protein			
+ACHBFCDE_00078	CDS	561	hin		COG1961	DNA-invertase hin	GO:0015074	UP	DNA integration-
+ACHBFCDE_00079	CDS	2967				Tn3 family transposase TnAs3			
+ACHBFCDE_00080	CDS	231				hypothetical protein			
+ACHBFCDE_00081	CDS	216				hypothetical protein			
+ACHBFCDE_00082	CDS	234				hypothetical protein			
+ACHBFCDE_00083	CDS	258				hypothetical protein			
+ACHBFCDE_00084	CDS	1386	klcB			Protein KlcB	GO:0003677	UF	DNA binding-
+ACHBFCDE_00085	CDS	441	klcA			Antirestriction protein KlcA			
+ACHBFCDE_00086	CDS	2985				Tn3 family transposase ISSba14			

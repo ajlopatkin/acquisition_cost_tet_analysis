@@ -1,0 +1,132 @@
+[15:44:46] This is prokka 1.14.6
+[15:44:46] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:44:46] Homepage is https://github.com/tseemann/prokka
+[15:44:46] Local time is Sun May 22 15:44:46 2022
+[15:44:46] You are alopatki
+[15:44:46] Operating system is darwin
+[15:44:46] You have BioPerl 1.007002
+[15:44:46] System has 8 cores.
+[15:44:46] Will use maximum of 8 cores.
+[15:44:46] Annotating as >>> Bacteria <<<
+[15:44:46] Generating locus_tag from './../fastas/R100-1.fasta' contents.
+[15:44:46] Setting --locustag EAPLMMIH from MD5 ea9566215f76a985b4966ed5138ef564
+[15:44:46] Re-using existing --outdir ./../output/plasmids/R100-1/gb_match/default/pk_results
+[15:44:46] Using filename prefix: R100-1.XXX
+[15:44:46] Setting HMMER_NCPU=1
+[15:44:46] Writing log to: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.log
+[15:44:46] Command: /Users/alopatki/anaconda3/envs/prokka_env/bin/prokka --kingdom Bacteria --outdir ./../output/plasmids/R100-1/gb_match/default/pk_results --prefix R100-1 --force ./../fastas/R100-1.fasta
+[15:44:46] Appending to PATH: /Users/alopatki/anaconda3/envs/prokka_env/bin
+[15:44:46] Looking for 'aragorn' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/aragorn
+[15:44:46] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[15:44:46] Looking for 'barrnap' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/barrnap
+[15:44:46] Determined barrnap version is 000009 from 'barrnap 0.9'
+[15:44:46] Looking for 'blastp' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/blastp
+[15:44:47] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[15:44:47] Looking for 'cmpress' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/cmpress
+[15:44:47] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[15:44:47] Looking for 'cmscan' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/cmscan
+[15:44:47] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[15:44:47] Looking for 'egrep' - found /usr/bin/egrep
+[15:44:47] Looking for 'find' - found /usr/bin/find
+[15:44:47] Looking for 'grep' - found /usr/bin/grep
+[15:44:47] Looking for 'hmmpress' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/hmmpress
+[15:44:47] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[15:44:47] Looking for 'hmmscan' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/hmmscan
+[15:44:47] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[15:44:47] Looking for 'java' - found /Users/alopatki/.jenv/shims/java
+[15:44:47] Looking for 'makeblastdb' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/makeblastdb
+[15:44:47] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[15:44:47] Looking for 'minced' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/minced
+[15:44:47] Determined minced version is 004002 from 'minced 0.4.2'
+[15:44:47] Looking for 'parallel' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/parallel
+[15:44:47] Determined parallel version is 20220222 from 'GNU parallel 20220222'
+[15:44:47] Looking for 'prodigal' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/prodigal
+[15:44:47] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[15:44:47] Looking for 'prokka-genbank_to_fasta_db' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/prokka-genbank_to_fasta_db
+[15:44:47] Looking for 'sed' - found /usr/bin/sed
+[15:44:47] Looking for 'tbl2asn' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/tbl2asn
+[15:44:47] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[15:44:47] Using genetic code table 11.
+[15:44:47] Loading and checking input file: ./../fastas/R100-1.fasta
+[15:44:47] Wrote 1 contigs totalling 94282 bp.
+[15:44:47] Predicting tRNAs and tmRNAs
+[15:44:47] Running: aragorn -l -gc11  -w \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.fna
+[15:44:47] Found 0 tRNAs
+[15:44:47] Predicting Ribosomal RNAs
+[15:44:47] Running Barrnap with 8 threads
+[15:44:48] Found 0 rRNAs
+[15:44:48] Skipping ncRNA search, enable with --rfam if desired.
+[15:44:48] Total of 0 tRNA + rRNA features
+[15:44:48] Searching for CRISPR repeats
+[15:44:48] Found 0 CRISPRs
+[15:44:48] Predicting coding sequences
+[15:44:48] Contigs total 94282 bp, so using meta mode
+[15:44:48] Running: prodigal -i \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.fna -c -m -g 11 -p meta -f sco -q
+[15:44:49] Found 111 CDS
+[15:44:49] Connecting features back to sequences
+[15:44:49] Not using genus-specific database. Try --usegenus to enable it.
+[15:44:49] Annotating CDS, please be patient.
+[15:44:49] Will use 8 CPUs for similarity searching.
+[15:44:49] There are still 111 unannotated CDS left (started with 111)
+[15:44:49] Will use blast to search against /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/IS with 8 CPUs
+[15:44:49] Running: cat \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.IS\.tmp\.62810\.faa | parallel --gnu --plain -j 8 --block 1690 --recstart '>' --pipe blastp -query - -db /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.IS\.tmp\.62810\.blast 2> /dev/null
+[15:44:50] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.IS.tmp.62810.faa
+[15:44:50] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.IS.tmp.62810.blast
+[15:44:50] There are still 101 unannotated CDS left (started with 111)
+[15:44:50] Will use blast to search against /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/AMR with 8 CPUs
+[15:44:50] Running: cat \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.AMR\.tmp\.62810\.faa | parallel --gnu --plain -j 8 --block 1490 --recstart '>' --pipe blastp -query - -db /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.AMR\.tmp\.62810\.blast 2> /dev/null
+[15:44:51] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.AMR.tmp.62810.faa
+[15:44:51] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.AMR.tmp.62810.blast
+[15:44:51] There are still 101 unannotated CDS left (started with 111)
+[15:44:51] Will use blast to search against /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/sprot with 8 CPUs
+[15:44:51] Running: cat \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.sprot\.tmp\.62810\.faa | parallel --gnu --plain -j 8 --block 1490 --recstart '>' --pipe blastp -query - -db /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.sprot\.tmp\.62810\.blast 2> /dev/null
+[15:44:53] Modify product: UPF0401 protein YkfF => hypothetical protein
+[15:44:53] Modify product: Uncharacterized protein YqjZ => putative protein YqjZ
+[15:44:53] Modify product: Uncharacterized signaling protein PA1727 => putative signaling protein
+[15:44:53] Cleaned 3 /product names
+[15:44:53] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.sprot.tmp.62810.faa
+[15:44:53] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.sprot.tmp.62810.blast
+[15:44:53] There are still 60 unannotated CDS left (started with 111)
+[15:44:53] Will use hmmer3 to search against /Users/alopatki/anaconda3/envs/prokka_env/db/hmm/HAMAP.hmm with 8 CPUs
+[15:44:53] Running: cat \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.HAMAP\.hmm\.tmp\.62810\.faa | parallel --gnu --plain -j 8 --block 804 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /Users/alopatki/anaconda3/envs/prokka_env/db/hmm/HAMAP.hmm /dev/stdin > \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.HAMAP\.hmm\.tmp\.62810\.hmmer3 2> /dev/null
+[15:44:54] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.HAMAP.hmm.tmp.62810.faa
+[15:44:54] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.HAMAP.hmm.tmp.62810.hmmer3
+[15:44:54] Labelling remaining 58 proteins as 'hypothetical protein'
+[15:44:54] Possible /pseudo 'Fertility inhibition protein' at AL22_R100_1_ND10_CIRCLE_94334_p1 position 85763
+[15:44:54] Found 40 unique /gene codes.
+[15:44:54] Fixed 2 duplicate /gene - finO_1 finO_2
+[15:44:54] Fixed 1 colliding /gene names.
+[15:44:54] Adding /locus_tag identifiers
+[15:44:54] Assigned 111 locus_tags to CDS and RNA features.
+[15:44:54] Writing outputs to ./../output/plasmids/R100-1/gb_match/default/pk_results/
+[15:44:54] Generating annotation statistics file
+[15:44:54] Generating Genbank and Sequin files
+[15:44:54] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.err -i \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.fsa 2> /dev/null
+[15:44:55] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/errorsummary.val
+[15:44:55] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.dr
+[15:44:55] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.fixedproducts
+[15:44:55] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.ecn
+[15:44:55] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.val
+[15:44:55] Repairing broken .GBK output that tbl2asn produces...
+[15:44:55] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.gbf > \.\/\.\.\/output\/plasmids\/R100\-1\/gb_match\/default\/pk_results\/R100\-1\.gbk
+[15:44:55] Deleting unwanted file: ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.gbf
+[15:44:55] Output files:
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.log
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.ffn
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.gbf-r
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.gbk
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.fsa
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.faa
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.txt
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.gff
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.sqn
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.tbl
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.fna
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.tsv
+[15:44:55] ./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1.err
+[15:44:55] Annotation finished successfully.
+[15:44:55] Walltime used: 0.15 minutes
+[15:44:55] If you use this result please cite the Prokka paper:
+[15:44:55] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[15:44:55] Type 'prokka --citation' for more details.
+[15:44:55] Share and enjoy!

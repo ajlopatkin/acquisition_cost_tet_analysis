@@ -1,0 +1,112 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product	GO ID	Type	Function
+EAPLMMIH_00001	CDS	435				ISL3 family transposase ISStma11			
+EAPLMMIH_00002	CDS	351	merT			Mercuric transport protein MerT	GO:0016021	RC	integral component of membrane-
+EAPLMMIH_00003	CDS	276	merP			Mercuric transport protein periplasmic component	GO:0042597	RC	periplasmic space-
+EAPLMMIH_00004	CDS	423	merC			Mercuric transport protein MerC	GO:0016021	UC	integral component of membrane-
+EAPLMMIH_00005	CDS	1695	merA	1.16.1.1		Mercuric reductase	GO:0045454	RP	cell redox homeostasis-
+EAPLMMIH_00006	CDS	363				hypothetical protein			
+EAPLMMIH_00007	CDS	237				hypothetical protein			
+EAPLMMIH_00008	CDS	708			COG2200	putative signaling protein	GO:0071732	RP	cellular response to nitric oxide-
+EAPLMMIH_00009	CDS	1680				hypothetical protein			
+EAPLMMIH_00010	CDS	861				hypothetical protein			
+EAPLMMIH_00011	CDS	1545				IS3 family transposase IS1353			
+EAPLMMIH_00012	CDS	1515				hypothetical protein			
+EAPLMMIH_00013	CDS	786				IS21 family transposase IS1326			
+EAPLMMIH_00014	CDS	501				hypothetical protein			
+EAPLMMIH_00015	CDS	840	folP	2.5.1.15	COG0294	Dihydropteroate synthase	GO:0046656	RP	folic acid biosynthetic process-
+EAPLMMIH_00016	CDS	348	emrE		COG2076	Multidrug transporter EmrE	GO:0042221	UP	response to chemical-
+EAPLMMIH_00017	CDS	780	ant1	2.7.7.47		Streptomycin 3''-adenylyltransferase	GO:0046677	UP	
+EAPLMMIH_00018	CDS	1014	xerC			Tyrosine recombinase XerC	GO:0007049	RP	cell cycle-
+EAPLMMIH_00019	CDS	201				hypothetical protein			
+EAPLMMIH_00020	CDS	561	hin		COG1961	DNA-invertase hin	GO:0015074	UP	DNA integration-
+EAPLMMIH_00021	CDS	2967				Tn3 family transposase TnAs3			
+EAPLMMIH_00022	CDS	378				hypothetical protein			
+EAPLMMIH_00023	CDS	660	cat	2.3.1.28		Chloramphenicol acetyltransferase	GO:0046677	RP	
+EAPLMMIH_00024	CDS	276			COG1662	IS1 family transposase IS1D			
+EAPLMMIH_00025	CDS	378			COG1662	IS1 family transposase IS1R			
+EAPLMMIH_00026	CDS	237				hypothetical protein			
+EAPLMMIH_00027	CDS	282				hypothetical protein			
+EAPLMMIH_00028	CDS	354	stbB			Protein StbB	GO:0000287	UF	magnesium ion binding-
+EAPLMMIH_00029	CDS	963	parM			Plasmid segregation protein ParM	GO:0030541	UP	plasmid partitioning
+EAPLMMIH_00030	CDS	684	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ	GO:0008080	UF	N-acetyltransferase activity-
+EAPLMMIH_00031	CDS	222				hypothetical protein			
+EAPLMMIH_00032	CDS	435				hypothetical protein			
+EAPLMMIH_00033	CDS	828				hypothetical protein			
+EAPLMMIH_00034	CDS	426	klcA			Antirestriction protein KlcA			
+EAPLMMIH_00035	CDS	423				hypothetical protein			
+EAPLMMIH_00036	CDS	192				hypothetical protein			
+EAPLMMIH_00037	CDS	231				hypothetical protein			
+EAPLMMIH_00038	CDS	1362				hypothetical protein			
+EAPLMMIH_00039	CDS	564				hypothetical protein			
+EAPLMMIH_00040	CDS	261				hypothetical protein			
+EAPLMMIH_00041	CDS	528	ssb			Plasmid-derived single-stranded DNA-binding protein	GO:0006310	RP	DNA recombination-
+EAPLMMIH_00042	CDS	234				hypothetical protein			
+EAPLMMIH_00043	CDS	1422	noc			Nucleoid occlusion protein			
+EAPLMMIH_00044	CDS	1209			COG3385	IS4 family transposase ISVsa5			
+EAPLMMIH_00045	CDS	126				hypothetical protein			
+EAPLMMIH_00046	CDS	105				hypothetical protein			
+EAPLMMIH_00047	CDS	1206	gltS		COG0786	Sodium/glutamate symporter	GO:0015813	RP	L-glutamate transmembrane transport-
+EAPLMMIH_00048	CDS	321	yqjZ		COG2329	putative protein YqjZ			
+EAPLMMIH_00049	CDS	387				hypothetical protein			
+EAPLMMIH_00050	CDS	624				hypothetical protein			
+EAPLMMIH_00051	CDS	624	tetR			Tetracycline repressor protein class B from transposon Tn10	GO:0045892	RP	negative regulation of transcription, DNA-templated-
+EAPLMMIH_00052	CDS	1206	tetA			Tetracycline resistance protein, class B	GO:0006811	RP	ion transport-
+EAPLMMIH_00053	CDS	594	tetC			Transposon Tn10 TetC protein	GO:0010468	UP	regulation of gene expression-
+EAPLMMIH_00054	CDS	417	tetD			Transposon Tn10 TetD protein	GO:0003700	UF	DNA-binding transcription factor activity-
+EAPLMMIH_00055	CDS	1209			COG3385	IS4 family transposase ISVsa5			
+EAPLMMIH_00056	CDS	576				hypothetical protein			
+EAPLMMIH_00057	CDS	435	psiB			Protein PsiB			
+EAPLMMIH_00058	CDS	720				hypothetical protein			
+EAPLMMIH_00059	CDS	213	flmC			Protein FlmC			
+EAPLMMIH_00060	CDS	297				hypothetical protein			
+EAPLMMIH_00061	CDS	822				hypothetical protein			
+EAPLMMIH_00062	CDS	510				hypothetical protein			
+EAPLMMIH_00063	CDS	384	traM			Relaxosome protein TraM	GO:0000746	RP	conjugation
+EAPLMMIH_00064	CDS	672	traJ			Protein TraJ	GO:0000746	RP	conjugation
+EAPLMMIH_00065	CDS	360	traA			Pilin	GO:0000746	RP	conjugation
+EAPLMMIH_00066	CDS	312				hypothetical protein			
+EAPLMMIH_00067	CDS	567				hypothetical protein			
+EAPLMMIH_00068	CDS	729				hypothetical protein			
+EAPLMMIH_00069	CDS	1452				hypothetical protein			
+EAPLMMIH_00070	CDS	567				hypothetical protein			
+EAPLMMIH_00071	CDS	369				hypothetical protein			
+EAPLMMIH_00072	CDS	516	traV			Protein TraV	GO:0000746	UP	conjugation
+EAPLMMIH_00073	CDS	414				hypothetical protein			
+EAPLMMIH_00074	CDS	474				hypothetical protein			
+EAPLMMIH_00075	CDS	219				hypothetical protein			
+EAPLMMIH_00076	CDS	348				hypothetical protein			
+EAPLMMIH_00077	CDS	2631	traC			Protein TraC	GO:0000746	RP	conjugation
+EAPLMMIH_00078	CDS	387				hypothetical protein			
+EAPLMMIH_00079	CDS	633				hypothetical protein			
+EAPLMMIH_00080	CDS	993				hypothetical protein			
+EAPLMMIH_00081	CDS	306				hypothetical protein			
+EAPLMMIH_00082	CDS	639				hypothetical protein			
+EAPLMMIH_00083	CDS	1851	traN			Mating pair stabilization protein TraN	GO:0009116	UP	nucleoside metabolic process
+EAPLMMIH_00084	CDS	258				hypothetical protein			
+EAPLMMIH_00085	CDS	744				hypothetical protein			
+EAPLMMIH_00086	CDS	345				hypothetical protein			
+EAPLMMIH_00087	CDS	285	traQ			Protein TraQ	GO:0016021	UC	integral component of membrane-
+EAPLMMIH_00088	CDS	546				hypothetical protein			
+EAPLMMIH_00089	CDS	393				hypothetical protein			
+EAPLMMIH_00090	CDS	1374				hypothetical protein			
+EAPLMMIH_00091	CDS	2823				hypothetical protein			
+EAPLMMIH_00092	CDS	480				hypothetical protein			
+EAPLMMIH_00093	CDS	732	ylpA			Lipoprotein YlpA	GO:0046999	UP	regulation of conjugation
+EAPLMMIH_00094	CDS	738				hypothetical protein			
+EAPLMMIH_00095	CDS	2217	traD			Coupling protein TraD	GO:0000746	RP	conjugation
+EAPLMMIH_00096	CDS	5271	traI			Multifunctional conjugation protein TraI	GO:0000746	RP	conjugation
+EAPLMMIH_00097	CDS	747				hypothetical protein			
+EAPLMMIH_00098	CDS	861	aidA			Quorum-quenching protein AidA	GO:0016787	UF	hydrolase activity-
+EAPLMMIH_00099	CDS	225	finO_1			Fertility inhibition protein	GO:0000746	UP	conjugation
+EAPLMMIH_00100	CDS	333	finO_2			Fertility inhibition protein	GO:0000746	UP	conjugation
+EAPLMMIH_00101	CDS	462	yhcR	3.1.31.-	COG0737	Endonuclease YhcR	GO:0009166	UP	nucleotide catabolic process-
+EAPLMMIH_00102	CDS	210	hha			Hemolysin expression-modulating protein Hha	GO:1900191	RP	negative regulation of single-species biofilm formation-
+EAPLMMIH_00103	CDS	591				hypothetical protein			
+EAPLMMIH_00104	CDS	255				hypothetical protein			
+EAPLMMIH_00105	CDS	858				hypothetical protein			
+EAPLMMIH_00106	CDS	654				hypothetical protein			
+EAPLMMIH_00107	CDS	258	pemI			Antitoxin PemI	GO:0003677	UF	DNA binding-
+EAPLMMIH_00108	CDS	333	pemK	3.1.-.-		Endoribonuclease PemK	GO:0003677	UF	DNA binding-
+EAPLMMIH_00109	CDS	1311				hypothetical protein			
+EAPLMMIH_00110	CDS	276			COG1662	IS1 family transposase IS1D			
+EAPLMMIH_00111	CDS	378			COG1662	IS1 family transposase IS1R			

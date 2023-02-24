@@ -1,0 +1,144 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GADIBNOC_00001	CDS	978	repB			RepFIB replication protein A
+GADIBNOC_00002	CDS	120				hypothetical protein
+GADIBNOC_00003	CDS	741	xerC			Tyrosine recombinase XerC
+GADIBNOC_00004	CDS	903				hypothetical protein
+GADIBNOC_00005	CDS	1110				hypothetical protein
+GADIBNOC_00006	CDS	954	ompT	3.4.23.49	COG4571	Protease 7
+GADIBNOC_00007	CDS	102				hypothetical protein
+GADIBNOC_00008	CDS	264				hypothetical protein
+GADIBNOC_00009	CDS	327				IS3 family transposase IS629
+GADIBNOC_00010	CDS	888				IS3 family transposase IS629
+GADIBNOC_00011	CDS	174				hypothetical protein
+GADIBNOC_00012	CDS	291				hypothetical protein
+GADIBNOC_00013	CDS	1182	macA		COG0845	Macrolide export protein MacA
+GADIBNOC_00014	CDS	1941	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+GADIBNOC_00015	CDS	1308	tdeA		COG1538	Toxin and drug export protein A
+GADIBNOC_00016	CDS	189				hypothetical protein
+GADIBNOC_00017	CDS	228				hypothetical protein
+GADIBNOC_00018	CDS	942				hypothetical protein
+GADIBNOC_00019	CDS	387				hypothetical protein
+GADIBNOC_00020	CDS	867				ISNCY family transposase ISBcen27
+GADIBNOC_00021	CDS	312				hypothetical protein
+GADIBNOC_00022	CDS	1242	yciC		COG0523	Putative metal chaperone YciC
+GADIBNOC_00023	CDS	906				IS3 family transposase IS2
+GADIBNOC_00024	CDS	366				hypothetical protein
+GADIBNOC_00025	CDS	294				hypothetical protein
+GADIBNOC_00026	CDS	291				IS481 family transposase ISKpn28
+GADIBNOC_00027	CDS	561				hypothetical protein
+GADIBNOC_00028	CDS	1116	elmGT	2.4.1.331		Elloramycin glycosyltransferase ElmGT
+GADIBNOC_00029	CDS	3660		3.6.3.-	COG1132	Multidrug efflux ATP-binding/permease protein
+GADIBNOC_00030	CDS	1230	fes		COG2382	Enterochelin esterase
+GADIBNOC_00031	CDS	957				hypothetical protein
+GADIBNOC_00032	CDS	2178	pfeA		COG4771	Ferric enterobactin receptor
+GADIBNOC_00033	CDS	1035	aroH	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive
+GADIBNOC_00034	CDS	294				hypothetical protein
+GADIBNOC_00035	CDS	183				hypothetical protein
+GADIBNOC_00036	CDS	198				hypothetical protein
+GADIBNOC_00037	CDS	96				hypothetical protein
+GADIBNOC_00038	CDS	1275	cvaA		COG0845	Colicin V secretion protein CvaA
+GADIBNOC_00039	CDS	2097	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+GADIBNOC_00040	CDS	312	cvaC			Colicin-V
+GADIBNOC_00041	CDS	207				hypothetical protein
+GADIBNOC_00042	CDS	408	ntdC	1.1.1.361	COG0673	Glucose-6-phosphate 3-dehydrogenase
+GADIBNOC_00043	CDS	405				hypothetical protein
+GADIBNOC_00044	CDS	270				Sugar transporter SemiSWEET
+GADIBNOC_00045	CDS	267				hypothetical protein
+GADIBNOC_00046	CDS	453	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+GADIBNOC_00047	CDS	261				hypothetical protein
+GADIBNOC_00048	CDS	591				hypothetical protein
+GADIBNOC_00049	CDS	1578	aer		COG0840	Aerotaxis receptor
+GADIBNOC_00050	CDS	561	hin		COG1961	DNA-invertase hin
+GADIBNOC_00051	CDS	2967				Tn3 family transposase TnAs1
+GADIBNOC_00052	CDS	243				hypothetical protein
+GADIBNOC_00053	CDS	678	tetR			Tetracycline repressor protein class A from transposon 1721
+GADIBNOC_00054	CDS	1200	tetA			Tetracycline resistance protein, class C
+GADIBNOC_00055	CDS	885				hypothetical protein
+GADIBNOC_00056	CDS	1146				Tn3 family transposase TnAs1
+GADIBNOC_00057	CDS	861	bla	3.5.2.6		Beta-lactamase TEM
+GADIBNOC_00058	CDS	558	tnpR			Transposon Tn3 resolvase
+GADIBNOC_00059	CDS	3135				Tn3 family transposase Tn2
+GADIBNOC_00060	CDS	576				hypothetical protein
+GADIBNOC_00061	CDS	219				hypothetical protein
+GADIBNOC_00062	CDS	336				hypothetical protein
+GADIBNOC_00063	CDS	1881	cia			Colicin-Ia
+GADIBNOC_00064	CDS	849	dinG	3.1.-.-		3'-5' exonuclease DinG
+GADIBNOC_00065	CDS	261				hypothetical protein
+GADIBNOC_00066	CDS	270				hypothetical protein
+GADIBNOC_00067	CDS	858				hypothetical protein
+GADIBNOC_00068	CDS	261				hypothetical protein
+GADIBNOC_00069	CDS	591				hypothetical protein
+GADIBNOC_00070	CDS	210	hha			Hemolysin expression-modulating protein Hha
+GADIBNOC_00071	CDS	462	yhcR	3.1.31.-	COG0737	Endonuclease YhcR
+GADIBNOC_00072	CDS	213				hypothetical protein
+GADIBNOC_00073	CDS	561	finO			Fertility inhibition protein
+GADIBNOC_00074	CDS	861	aidA			Quorum-quenching protein AidA
+GADIBNOC_00075	CDS	747				hypothetical protein
+GADIBNOC_00076	CDS	5271	traI			Multifunctional conjugation protein TraI
+GADIBNOC_00077	CDS	2154	traD			Coupling protein TraD
+GADIBNOC_00078	CDS	732	ylpA			Lipoprotein YlpA
+GADIBNOC_00079	CDS	510	traS			Protein TraS
+GADIBNOC_00080	CDS	2826				hypothetical protein
+GADIBNOC_00081	CDS	1377				hypothetical protein
+GADIBNOC_00082	CDS	303				hypothetical protein
+GADIBNOC_00083	CDS	546				hypothetical protein
+GADIBNOC_00084	CDS	285	traQ			Protein TraQ
+GADIBNOC_00085	CDS	348				hypothetical protein
+GADIBNOC_00086	CDS	744				hypothetical protein
+GADIBNOC_00087	CDS	258				hypothetical protein
+GADIBNOC_00088	CDS	1809	traN			Mating pair stabilization protein TraN
+GADIBNOC_00089	CDS	639				hypothetical protein
+GADIBNOC_00090	CDS	993				hypothetical protein
+GADIBNOC_00091	CDS	633				hypothetical protein
+GADIBNOC_00092	CDS	387				hypothetical protein
+GADIBNOC_00093	CDS	2628	traC			Protein TraC
+GADIBNOC_00094	CDS	222	traR			Protein TraR
+GADIBNOC_00095	CDS	516	traV			Protein TraV
+GADIBNOC_00096	CDS	252				hypothetical protein
+GADIBNOC_00097	CDS	198				hypothetical protein
+GADIBNOC_00098	CDS	591				hypothetical protein
+GADIBNOC_00099	CDS	1428				hypothetical protein
+GADIBNOC_00100	CDS	729				hypothetical protein
+GADIBNOC_00101	CDS	567				hypothetical protein
+GADIBNOC_00102	CDS	312				hypothetical protein
+GADIBNOC_00103	CDS	366	traA			Pilin
+GADIBNOC_00104	CDS	396	traY			Relaxosome protein TraY
+GADIBNOC_00105	CDS	690	traJ			Protein TraJ
+GADIBNOC_00106	CDS	384	traM			Relaxosome protein TraM
+GADIBNOC_00107	CDS	510				hypothetical protein
+GADIBNOC_00108	CDS	822				hypothetical protein
+GADIBNOC_00109	CDS	288				hypothetical protein
+GADIBNOC_00110	CDS	216	flmC			Protein FlmC
+GADIBNOC_00111	CDS	720				hypothetical protein
+GADIBNOC_00112	CDS	435	psiB			Protein PsiB
+GADIBNOC_00113	CDS	1959	noc			Nucleoid occlusion protein
+GADIBNOC_00114	CDS	234				hypothetical protein
+GADIBNOC_00115	CDS	864				Single-stranded DNA-binding protein
+GADIBNOC_00116	CDS	564				hypothetical protein
+GADIBNOC_00117	CDS	1362				hypothetical protein
+GADIBNOC_00118	CDS	231				hypothetical protein
+GADIBNOC_00119	CDS	258				hypothetical protein
+GADIBNOC_00120	CDS	183				hypothetical protein
+GADIBNOC_00121	CDS	372				hypothetical protein
+GADIBNOC_00122	CDS	426	klcA			Antirestriction protein KlcA
+GADIBNOC_00123	CDS	972				IS110 family transposase ISEc32
+GADIBNOC_00124	CDS	213				hypothetical protein
+GADIBNOC_00125	CDS	576				hypothetical protein
+GADIBNOC_00126	CDS	339				hypothetical protein
+GADIBNOC_00127	CDS	972	sopB			Protein SopB
+GADIBNOC_00128	CDS	1167				hypothetical protein
+GADIBNOC_00129	CDS	2199	iutA			Ferric aerobactin receptor
+GADIBNOC_00130	CDS	1278	iucD	1.14.13.59	COG3486	L-lysine N6-monooxygenase
+GADIBNOC_00131	CDS	1743	iucC	6.3.2.39	COG4264	Aerobactin synthase
+GADIBNOC_00132	CDS	948	iucB	2.3.1.102		N(6)-hydroxylysine O-acetyltransferase
+GADIBNOC_00133	CDS	1725	iucA	6.3.2.38		N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase
+GADIBNOC_00134	CDS	1194				hypothetical protein
+GADIBNOC_00135	CDS	381	crcB		COG0239	Putative fluoride ion transporter CrcB
+GADIBNOC_00136	CDS	216				hypothetical protein
+GADIBNOC_00137	CDS	435	eno	4.2.1.11	COG0148	Enolase
+GADIBNOC_00138	CDS	858	mntB_1			Manganese transport system membrane protein MntB
+GADIBNOC_00139	CDS	858	mntB_2			Manganese transport system membrane protein MntB
+GADIBNOC_00140	CDS	828	mntB_3		COG1121	Manganese transport system ATP-binding protein MntB
+GADIBNOC_00141	CDS	915			COG0803	putative periplasmic iron-binding protein
+GADIBNOC_00142	CDS	390	umuC		COG0389	Protein UmuC
+GADIBNOC_00143	CDS	333				hypothetical protein

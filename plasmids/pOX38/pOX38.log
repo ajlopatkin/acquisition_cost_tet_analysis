@@ -1,0 +1,128 @@
+[18:40:54] This is prokka 1.14.6
+[18:40:54] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[18:40:54] Homepage is https://github.com/tseemann/prokka
+[18:40:54] Local time is Sun May 22 18:40:54 2022
+[18:40:54] You are alopatki
+[18:40:54] Operating system is darwin
+[18:40:54] You have BioPerl 1.007002
+[18:40:54] System has 8 cores.
+[18:40:54] Will use maximum of 8 cores.
+[18:40:54] Annotating as >>> Bacteria <<<
+[18:40:54] Generating locus_tag from './../fastas/pOX38.fasta' contents.
+[18:40:54] Setting --locustag GGKCFMKK from MD5 004cf644e98b853d48c4f1b9dac5c488
+[18:40:54] Re-using existing --outdir ./../output/plasmids/pOX38/gb_match/default/pk_results
+[18:40:54] Using filename prefix: pOX38.XXX
+[18:40:54] Setting HMMER_NCPU=1
+[18:40:54] Writing log to: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.log
+[18:40:54] Command: /Users/alopatki/anaconda3/envs/prokka_env/bin/prokka --kingdom Bacteria --outdir ./../output/plasmids/pOX38/gb_match/default/pk_results --prefix pOX38 --force ./../fastas/pOX38.fasta
+[18:40:54] Appending to PATH: /Users/alopatki/anaconda3/envs/prokka_env/bin
+[18:40:54] Looking for 'aragorn' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/aragorn
+[18:40:54] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[18:40:54] Looking for 'barrnap' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/barrnap
+[18:40:54] Determined barrnap version is 000009 from 'barrnap 0.9'
+[18:40:54] Looking for 'blastp' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/blastp
+[18:40:54] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[18:40:54] Looking for 'cmpress' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/cmpress
+[18:40:54] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[18:40:54] Looking for 'cmscan' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/cmscan
+[18:40:54] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[18:40:54] Looking for 'egrep' - found /usr/bin/egrep
+[18:40:54] Looking for 'find' - found /usr/bin/find
+[18:40:54] Looking for 'grep' - found /usr/bin/grep
+[18:40:54] Looking for 'hmmpress' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/hmmpress
+[18:40:54] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[18:40:54] Looking for 'hmmscan' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/hmmscan
+[18:40:54] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[18:40:54] Looking for 'java' - found /Users/alopatki/.jenv/shims/java
+[18:40:54] Looking for 'makeblastdb' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/makeblastdb
+[18:40:55] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[18:40:55] Looking for 'minced' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/minced
+[18:40:55] Determined minced version is 004002 from 'minced 0.4.2'
+[18:40:55] Looking for 'parallel' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/parallel
+[18:40:55] Determined parallel version is 20220222 from 'GNU parallel 20220222'
+[18:40:55] Looking for 'prodigal' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/prodigal
+[18:40:55] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[18:40:55] Looking for 'prokka-genbank_to_fasta_db' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/prokka-genbank_to_fasta_db
+[18:40:55] Looking for 'sed' - found /usr/bin/sed
+[18:40:55] Looking for 'tbl2asn' - found /Users/alopatki/anaconda3/envs/prokka_env/bin/tbl2asn
+[18:40:55] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[18:40:55] Using genetic code table 11.
+[18:40:55] Loading and checking input file: ./../fastas/pOX38.fasta
+[18:40:55] Wrote 1 contigs totalling 60270 bp.
+[18:40:55] Predicting tRNAs and tmRNAs
+[18:40:55] Running: aragorn -l -gc11  -w \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.fna
+[18:40:55] Found 0 tRNAs
+[18:40:55] Predicting Ribosomal RNAs
+[18:40:55] Running Barrnap with 8 threads
+[18:40:55] Found 0 rRNAs
+[18:40:55] Skipping ncRNA search, enable with --rfam if desired.
+[18:40:55] Total of 0 tRNA + rRNA features
+[18:40:55] Searching for CRISPR repeats
+[18:40:56] Found 0 CRISPRs
+[18:40:56] Predicting coding sequences
+[18:40:56] Contigs total 60270 bp, so using meta mode
+[18:40:56] Running: prodigal -i \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.fna -c -m -g 11 -p meta -f sco -q
+[18:40:56] Found 69 CDS
+[18:40:56] Connecting features back to sequences
+[18:40:56] Not using genus-specific database. Try --usegenus to enable it.
+[18:40:56] Annotating CDS, please be patient.
+[18:40:56] Will use 8 CPUs for similarity searching.
+[18:40:56] There are still 69 unannotated CDS left (started with 69)
+[18:40:56] Will use blast to search against /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/IS with 8 CPUs
+[18:40:56] Running: cat \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.IS\.tmp\.16394\.faa | parallel --gnu --plain -j 8 --block 1090 --recstart '>' --pipe blastp -query - -db /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.IS\.tmp\.16394\.blast 2> /dev/null
+[18:40:57] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.IS.tmp.16394.faa
+[18:40:57] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.IS.tmp.16394.blast
+[18:40:57] There are still 69 unannotated CDS left (started with 69)
+[18:40:57] Will use blast to search against /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/AMR with 8 CPUs
+[18:40:57] Running: cat \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.AMR\.tmp\.16394\.faa | parallel --gnu --plain -j 8 --block 1090 --recstart '>' --pipe blastp -query - -db /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.AMR\.tmp\.16394\.blast 2> /dev/null
+[18:40:58] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.AMR.tmp.16394.faa
+[18:40:58] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.AMR.tmp.16394.blast
+[18:40:58] There are still 69 unannotated CDS left (started with 69)
+[18:40:58] Will use blast to search against /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/sprot with 8 CPUs
+[18:40:58] Running: cat \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.sprot\.tmp\.16394\.faa | parallel --gnu --plain -j 8 --block 1090 --recstart '>' --pipe blastp -query - -db /Users/alopatki/anaconda3/envs/prokka_env/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.sprot\.tmp\.16394\.blast 2> /dev/null
+[18:40:59] Modify product: UPF0401 protein YkfF => hypothetical protein
+[18:40:59] Cleaned 1 /product names
+[18:40:59] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.sprot.tmp.16394.faa
+[18:40:59] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.sprot.tmp.16394.blast
+[18:40:59] There are still 39 unannotated CDS left (started with 69)
+[18:40:59] Will use hmmer3 to search against /Users/alopatki/anaconda3/envs/prokka_env/db/hmm/HAMAP.hmm with 8 CPUs
+[18:40:59] Running: cat \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.HAMAP\.hmm\.tmp\.16394\.faa | parallel --gnu --plain -j 8 --block 536 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /Users/alopatki/anaconda3/envs/prokka_env/db/hmm/HAMAP.hmm /dev/stdin > \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.HAMAP\.hmm\.tmp\.16394\.hmmer3 2> /dev/null
+[18:41:00] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.HAMAP.hmm.tmp.16394.faa
+[18:41:00] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.HAMAP.hmm.tmp.16394.hmmer3
+[18:41:00] Labelling remaining 37 proteins as 'hypothetical protein'
+[18:41:00] Found 31 unique /gene codes.
+[18:41:00] Fixed 0 colliding /gene names.
+[18:41:00] Adding /locus_tag identifiers
+[18:41:00] Assigned 69 locus_tags to CDS and RNA features.
+[18:41:00] Writing outputs to ./../output/plasmids/pOX38/gb_match/default/pk_results/
+[18:41:00] Generating annotation statistics file
+[18:41:00] Generating Genbank and Sequin files
+[18:41:00] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.err -i \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.fsa 2> /dev/null
+[18:41:01] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/errorsummary.val
+[18:41:01] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.dr
+[18:41:01] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.fixedproducts
+[18:41:01] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.ecn
+[18:41:01] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.val
+[18:41:01] Repairing broken .GBK output that tbl2asn produces...
+[18:41:01] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.gbf > \.\/\.\.\/output\/plasmids\/pOX38\/gb_match\/default\/pk_results\/pOX38\.gbk
+[18:41:01] Deleting unwanted file: ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.gbf
+[18:41:01] Output files:
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.gff
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.tbl
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.sqn
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.tsv
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.fna
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.err
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.txt
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.fsa
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.faa
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.gbf-r
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.log
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.ffn
+[18:41:01] ./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38.gbk
+[18:41:01] Annotation finished successfully.
+[18:41:01] Walltime used: 0.12 minutes
+[18:41:01] If you use this result please cite the Prokka paper:
+[18:41:01] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[18:41:01] Type 'prokka --citation' for more details.
+[18:41:01] Share and enjoy!

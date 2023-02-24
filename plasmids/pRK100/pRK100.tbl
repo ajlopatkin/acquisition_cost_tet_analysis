@@ -1,0 +1,739 @@
+>Feature pRK100
+1	978	CDS
+			gene	repB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q57154
+			locus_tag	GADIBNOC_00001
+			product	RepFIB replication protein A
+1173	1054	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00002
+			product	hypothetical protein
+2003	1263	CDS
+			gene	xerC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01808
+			locus_tag	GADIBNOC_00003
+			product	Tyrosine recombinase XerC
+3588	2686	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00004
+			product	hypothetical protein
+4766	3657	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00005
+			product	hypothetical protein
+6152	5199	CDS
+			EC_number	3.4.23.49
+			db_xref	COG:COG4571
+			gene	ompT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09169
+			locus_tag	GADIBNOC_00006
+			product	Protease 7
+6885	6784	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00007
+			product	hypothetical protein
+7275	7012	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00008
+			product	hypothetical protein
+7767	8093	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:IS629
+			locus_tag	GADIBNOC_00009
+			product	IS3 family transposase IS629
+8093	8980	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:IS629
+			locus_tag	GADIBNOC_00010
+			product	IS3 family transposase IS629
+9301	9128	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00011
+			product	hypothetical protein
+9540	9250	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00012
+			product	hypothetical protein
+10440	11621	CDS
+			db_xref	COG:COG0845
+			gene	macA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75830
+			locus_tag	GADIBNOC_00013
+			product	Macrolide export protein MacA
+11618	13558	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG0577
+			gene	macB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75831
+			locus_tag	GADIBNOC_00014
+			product	Macrolide export ATP-binding/permease protein MacB
+13625	14932	CDS
+			db_xref	COG:COG1538
+			gene	tdeA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2EHL7
+			locus_tag	GADIBNOC_00015
+			product	Toxin and drug export protein A
+15261	15449	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00016
+			product	hypothetical protein
+15406	15633	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00017
+			product	hypothetical protein
+16670	15729	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00018
+			product	hypothetical protein
+17291	16905	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00019
+			product	hypothetical protein
+18294	17428	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISBcen27
+			locus_tag	GADIBNOC_00020
+			product	ISNCY family transposase ISBcen27
+18792	18481	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00021
+			product	hypothetical protein
+20172	18931	CDS
+			db_xref	COG:COG0523
+			gene	yciC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P94400
+			locus_tag	GADIBNOC_00022
+			product	Putative metal chaperone YciC
+22253	21348	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:IS2
+			locus_tag	GADIBNOC_00023
+			product	IS3 family transposase IS2
+22576	22211	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00024
+			product	hypothetical protein
+23203	23496	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00025
+			product	hypothetical protein
+24371	24661	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISKpn28
+			locus_tag	GADIBNOC_00026
+			product	IS481 family transposase ISKpn28
+24846	25406	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00027
+			product	hypothetical protein
+26642	27757	CDS
+			EC_number	2.4.1.331
+			gene	elmGT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9F2F9
+			locus_tag	GADIBNOC_00028
+			product	Elloramycin glycosyltransferase ElmGT
+27897	31556	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O53645
+			locus_tag	GADIBNOC_00029
+			product	Multidrug efflux ATP-binding/permease protein
+31660	32889	CDS
+			db_xref	COG:COG2382
+			gene	fes
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P13039
+			locus_tag	GADIBNOC_00030
+			product	Enterochelin esterase
+32974	33930	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00031
+			product	hypothetical protein
+36152	33975	CDS
+			db_xref	COG:COG4771
+			gene	pfeA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q05098
+			locus_tag	GADIBNOC_00032
+			product	Ferric enterobactin receptor
+38041	37007	CDS
+			EC_number	2.5.1.54
+			db_xref	COG:COG0722
+			gene	aroH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00887
+			locus_tag	GADIBNOC_00033
+			product	Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive
+38894	38601	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00034
+			product	hypothetical protein
+39190	39008	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00035
+			product	hypothetical protein
+39384	39187	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00036
+			product	hypothetical protein
+39537	39442	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00037
+			product	hypothetical protein
+40066	41340	CDS
+			db_xref	COG:COG0845
+			gene	cvaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22519
+			locus_tag	GADIBNOC_00038
+			product	Colicin V secretion protein CvaA
+41333	43429	CDS
+			db_xref	COG:COG2274
+			gene	apxIB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P26760
+			locus_tag	GADIBNOC_00039
+			product	Toxin RTX-I translocation ATP-binding protein
+43910	43599	CDS
+			gene	cvaC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22522
+			locus_tag	GADIBNOC_00040
+			product	Colicin-V
+44006	44212	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00041
+			product	hypothetical protein
+44279	44686	CDS
+			EC_number	1.1.1.361
+			db_xref	COG:COG0673
+			gene	ntdC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07564
+			locus_tag	GADIBNOC_00042
+			product	Glucose-6-phosphate 3-dehydrogenase
+44658	45062	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00043
+			product	hypothetical protein
+45064	45333	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0DMV3
+			locus_tag	GADIBNOC_00044
+			product	Sugar transporter SemiSWEET
+45330	45596	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00045
+			product	hypothetical protein
+46104	45652	CDS
+			EC_number	2.3.1.197
+			gene	fdtC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6T1W7
+			locus_tag	GADIBNOC_00046
+			product	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+46397	46657	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00047
+			product	hypothetical protein
+46654	47244	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00048
+			product	hypothetical protein
+49159	47582	CDS
+			db_xref	COG:COG0840
+			gene	aer
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P50466
+			locus_tag	GADIBNOC_00049
+			product	Aerotaxis receptor
+49469	50029	CDS
+			db_xref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	GADIBNOC_00050
+			product	DNA-invertase hin
+50033	52999	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:TnAs1
+			locus_tag	GADIBNOC_00051
+			product	Tn3 family transposase TnAs1
+53057	53299	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00052
+			product	hypothetical protein
+54008	53331	CDS
+			gene	tetR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03038
+			locus_tag	GADIBNOC_00053
+			product	Tetracycline repressor protein class A from transposon 1721
+54087	55286	CDS
+			gene	tetA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02981
+			locus_tag	GADIBNOC_00054
+			product	Tetracycline resistance protein, class C
+56202	55318	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00055
+			product	hypothetical protein
+56667	57812	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:TnAs1
+			locus_tag	GADIBNOC_00056
+			product	Tn3 family transposase TnAs1
+58783	57923	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62593
+			locus_tag	GADIBNOC_00057
+			product	Beta-lactamase TEM
+59523	58966	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	GADIBNOC_00058
+			product	Transposon Tn3 resolvase
+59558	62692	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:Tn2
+			locus_tag	GADIBNOC_00059
+			product	Tn3 family transposase Tn2
+63352	62777	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00060
+			product	hypothetical protein
+63542	63760	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00061
+			product	hypothetical protein
+63738	64073	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00062
+			product	hypothetical protein
+65975	64095	CDS
+			gene	cia
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06716
+			locus_tag	GADIBNOC_00063
+			product	Colicin-Ia
+67009	66161	CDS
+			EC_number	3.1.-.-
+			gene	dinG
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02206
+			locus_tag	GADIBNOC_00064
+			product	3'-5' exonuclease DinG
+67315	67055	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00065
+			product	hypothetical protein
+67602	67333	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00066
+			product	hypothetical protein
+69375	68518	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00067
+			product	hypothetical protein
+69927	69667	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00068
+			product	hypothetical protein
+70757	70167	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00069
+			product	hypothetical protein
+71005	70796	CDS
+			gene	hha
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACE3
+			locus_tag	GADIBNOC_00070
+			product	Hemolysin expression-modulating protein Hha
+71512	71051	CDS
+			EC_number	3.1.31.-
+			db_xref	COG:COG0737
+			gene	yhcR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54602
+			locus_tag	GADIBNOC_00071
+			product	Endonuclease YhcR
+71969	71757	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00072
+			product	hypothetical protein
+72662	72102	CDS
+			gene	finO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29367
+			locus_tag	GADIBNOC_00073
+			product	Fertility inhibition protein
+73625	72765	CDS
+			gene	aidA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:G2JHL6
+			locus_tag	GADIBNOC_00074
+			product	Quorum-quenching protein AidA
+74430	73684	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00075
+			product	hypothetical protein
+79720	74450	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	GADIBNOC_00076
+			product	Multifunctional conjugation protein TraI
+81873	79720	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	GADIBNOC_00077
+			product	Coupling protein TraD
+82857	82126	CDS
+			gene	ylpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27461
+			locus_tag	GADIBNOC_00078
+			product	Lipoprotein YlpA
+83380	82871	CDS
+			gene	traS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09129
+			locus_tag	GADIBNOC_00079
+			product	Protein TraS
+86202	83377	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00080
+			product	hypothetical protein
+87575	86199	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00081
+			product	hypothetical protein
+87874	87572	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00082
+			product	hypothetical protein
+88409	87864	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00083
+			product	hypothetical protein
+88680	88396	CDS
+			gene	traQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18033
+			locus_tag	GADIBNOC_00084
+			product	Protein TraQ
+89146	88799	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00085
+			product	hypothetical protein
+89905	89162	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00086
+			product	hypothetical protein
+90155	89898	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00087
+			product	hypothetical protein
+91990	90182	CDS
+			gene	traN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24082
+			locus_tag	GADIBNOC_00088
+			product	Mating pair stabilization protein TraN
+92625	91987	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00089
+			product	hypothetical protein
+93626	92634	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00090
+			product	hypothetical protein
+94255	93623	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00091
+			product	hypothetical protein
+94638	94252	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00092
+			product	hypothetical protein
+97262	94635	CDS
+			gene	traC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18004
+			locus_tag	GADIBNOC_00093
+			product	Protein TraC
+97643	97422	CDS
+			gene	traR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P41065
+			locus_tag	GADIBNOC_00094
+			product	Protein TraR
+98293	97778	CDS
+			gene	traV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P41069
+			locus_tag	GADIBNOC_00095
+			product	Protein TraV
+98541	98290	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00096
+			product	hypothetical protein
+98750	98553	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00097
+			product	hypothetical protein
+99327	98737	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00098
+			product	hypothetical protein
+100744	99317	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00099
+			product	hypothetical protein
+101472	100744	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00100
+			product	hypothetical protein
+102025	101459	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00101
+			product	hypothetical protein
+102358	102047	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00102
+			product	hypothetical protein
+102738	102373	CDS
+			gene	traA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04737
+			locus_tag	GADIBNOC_00103
+			product	Pilin
+103166	102771	CDS
+			gene	traY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06627
+			locus_tag	GADIBNOC_00104
+			product	Relaxosome protein TraY
+103954	103265	CDS
+			gene	traJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06626
+			locus_tag	GADIBNOC_00105
+			product	Protein TraJ
+104524	104141	CDS
+			gene	traM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10026
+			locus_tag	GADIBNOC_00106
+			product	Relaxosome protein TraM
+104939	105448	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00107
+			product	hypothetical protein
+106565	105744	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00108
+			product	hypothetical protein
+106971	106684	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00109
+			product	hypothetical protein
+108089	107874	CDS
+			gene	flmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11519
+			locus_tag	GADIBNOC_00110
+			product	Protein FlmC
+109026	108307	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00111
+			product	hypothetical protein
+109457	109023	CDS
+			gene	psiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	GADIBNOC_00112
+			product	Protein PsiB
+111470	109512	CDS
+			gene	noc
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02015
+			locus_tag	GADIBNOC_00113
+			product	Nucleoid occlusion protein
+111767	111534	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	GADIBNOC_00114
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+112593	111730	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00984
+			locus_tag	GADIBNOC_00115
+			product	Single-stranded DNA-binding protein
+113731	113168	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00116
+			product	hypothetical protein
+115140	113779	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00117
+			product	hypothetical protein
+115422	115192	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00118
+			product	hypothetical protein
+115685	115942	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00119
+			product	hypothetical protein
+116598	116416	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00120
+			product	hypothetical protein
+116969	116598	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00121
+			product	hypothetical protein
+117484	117059	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	GADIBNOC_00122
+			product	Antirestriction protein KlcA
+117886	118857	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISEc32
+			locus_tag	GADIBNOC_00123
+			product	IS110 family transposase ISEc32
+119330	119118	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00124
+			product	hypothetical protein
+119918	119343	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00125
+			product	hypothetical protein
+120325	119987	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00126
+			product	hypothetical protein
+121936	120965	CDS
+			gene	sopB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62558
+			locus_tag	GADIBNOC_00127
+			product	Protein SopB
+123102	121936	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00128
+			product	hypothetical protein
+126822	124624	CDS
+			gene	iutA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6U607
+			locus_tag	GADIBNOC_00129
+			product	Ferric aerobactin receptor
+128184	126907	CDS
+			EC_number	1.14.13.59
+			db_xref	COG:COG3486
+			gene	iucD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11295
+			locus_tag	GADIBNOC_00130
+			product	L-lysine N6-monooxygenase
+129923	128181	CDS
+			EC_number	6.3.2.39
+			db_xref	COG:COG4264
+			gene	iucC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q47318
+			locus_tag	GADIBNOC_00131
+			product	Aerobactin synthase
+130870	129923	CDS
+			EC_number	2.3.1.102
+			gene	iucB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q47317
+			locus_tag	GADIBNOC_00132
+			product	N(6)-hydroxylysine O-acetyltransferase
+132595	130871	CDS
+			EC_number	6.3.2.38
+			gene	iucA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q47316
+			locus_tag	GADIBNOC_00133
+			product	N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase
+132731	133924	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00134
+			product	hypothetical protein
+134684	134304	CDS
+			db_xref	COG:COG0239
+			gene	crcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37002
+			locus_tag	GADIBNOC_00135
+			product	Putative fluoride ion transporter CrcB
+134971	134756	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00136
+			product	hypothetical protein
+135459	135025	CDS
+			EC_number	4.2.1.11
+			db_xref	COG:COG0148
+			gene	eno
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A9WCM4
+			locus_tag	GADIBNOC_00137
+			product	Enolase
+136784	135927	CDS
+			gene	mntB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q55282
+			locus_tag	GADIBNOC_00138
+			product	Manganese transport system membrane protein MntB
+137638	136781	CDS
+			gene	mntB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q55282
+			locus_tag	GADIBNOC_00139
+			product	Manganese transport system membrane protein MntB
+138462	137635	CDS
+			db_xref	COG:COG1121
+			gene	mntB_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34338
+			locus_tag	GADIBNOC_00140
+			product	Manganese transport system ATP-binding protein MntB
+139376	138462	CDS
+			db_xref	COG:COG0803
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q57449
+			locus_tag	GADIBNOC_00141
+			product	putative periplasmic iron-binding protein
+140998	140609	CDS
+			db_xref	COG:COG0389
+			gene	umuC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	GADIBNOC_00142
+			product	Protein UmuC
+141588	141256	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GADIBNOC_00143
+			product	hypothetical protein

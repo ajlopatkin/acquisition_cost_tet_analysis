@@ -1,0 +1,310 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:49 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 49 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:49 features have inconsistent gene locations.
+SUSPECT_PRODUCT_NAMES:1 product_names contain suspect phrase or characters
+	May contain database identifier more appropriate in note; remove from product name
+		1 features contains three or more numbers together that may be identifiers more appropriate in note
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:50 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::49 proteins halid nvalid IDs.
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_1 (length 79)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_2 (length 134)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_3 (length 141)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_4 (length 146)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_5 (length 421)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_6 (length 263)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_7 (length 113)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_8 (length 239)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_9 (length 278)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_10 (length 169)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_11 (length 98)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_12 (length 94)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_13 (length 59)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_14 (length 106)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_15 (length 114)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_16 (length 122)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_17 (length 238)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_18 (length 139)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_19 (length 138)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_20 (length 509)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_21 (length 1078)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_22 (length 208)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_23 (length 82)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_24 (length 598)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_25 (length 294)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_26 (length 399)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_27 (length 225)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_28 (length 125)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_29 (length 331)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_30 (length 386)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_31 (length 294)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_32 (length 232)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_33 (length 346)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_34 (length 75)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_35 (length 237)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_36 (length 866)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_37 (length 105)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_38 (length 97)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_39 (length 93)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_40 (length 244)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_41 (length 101)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_42 (length 125)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_43 (length 104)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_44 (length 103)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_45 (length 213)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_46 (length 65)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_47 (length 477)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_48 (length 404)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_49 (length 198)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 49 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1 (length 42161)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::49 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c740-501	GNHEAOBH_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c1154-750	GNHEAOBH_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Antirestriction protein KlcA	AL01_RIP113_AD6_CIRCLE_42213_p1:c1637-1212	GNHEAOBH_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Protein UmuD	AL01_RIP113_AD6_CIRCLE_42213_p1:2050-2490	GNHEAOBH_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Protein UmuC	AL01_RIP113_AD6_CIRCLE_42213_p1:2478-3743	GNHEAOBH_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:3894-4685	GNHEAOBH_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c5041-4700	GNHEAOBH_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Replication initiation protein	AL01_RIP113_AD6_CIRCLE_42213_p1:5601-6320	GNHEAOBH_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c7089-6253	GNHEAOBH_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:7553-8062	GNHEAOBH_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:8894-9190	GNHEAOBH_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:9323-9607	GNHEAOBH_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:10103-10282	GNHEAOBH_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:10337-10657	GNHEAOBH_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c11112-10768	GNHEAOBH_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c11662-11294	GNHEAOBH_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c12380-11664	GNHEAOBH_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c12808-12389	GNHEAOBH_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:13321-13737	GNHEAOBH_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Coupling protein TraD	AL01_RIP113_AD6_CIRCLE_42213_p1:13739-15268	GNHEAOBH_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	ATP-dependent RecD-like DNA helicase	AL01_RIP113_AD6_CIRCLE_42213_p1:15268-18504	GNHEAOBH_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:18504-19130	GNHEAOBH_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c19552-19304	GNHEAOBH_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Tn3 family transposase TnAs1	AL01_RIP113_AD6_CIRCLE_42213_p1:c21426-19630	GNHEAOBH_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:21915-22799	GNHEAOBH_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Tetracycline resistance protein, class C	AL01_RIP113_AD6_CIRCLE_42213_p1:c24030-22831	GNHEAOBH_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Tetracycline repressor protein class A from transposon 1721	AL01_RIP113_AD6_CIRCLE_42213_p1:24109-24786	GNHEAOBH_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c25287-24910	GNHEAOBH_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Type IV secretion system protein VirB11	AL01_RIP113_AD6_CIRCLE_42213_p1:c26282-25287	GNHEAOBH_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Protein virB10	AL01_RIP113_AD6_CIRCLE_42213_p1:c27484-26324	GNHEAOBH_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Type IV secretion system protein virB9	AL01_RIP113_AD6_CIRCLE_42213_p1:c28368-27484	GNHEAOBH_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Type IV secretion system protein virB8	AL01_RIP113_AD6_CIRCLE_42213_p1:c29077-28379	GNHEAOBH_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c30336-29296	GNHEAOBH_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c30579-30352	GNHEAOBH_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Type IV secretion system protein virB5	AL01_RIP113_AD6_CIRCLE_42213_p1:c31300-30587	GNHEAOBH_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Type IV secretion system protein virB4	AL01_RIP113_AD6_CIRCLE_42213_p1:c33918-31318	GNHEAOBH_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c34235-33918	GNHEAOBH_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c34578-34285	GNHEAOBH_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c34869-34588	GNHEAOBH_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:c35612-34878	GNHEAOBH_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:35721-36026	GNHEAOBH_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:36042-36419	GNHEAOBH_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:36382-36696	GNHEAOBH_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:36732-37043	GNHEAOBH_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:37099-37740	GNHEAOBH_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	hypothetical protein	AL01_RIP113_AD6_CIRCLE_42213_p1:37745-37942	GNHEAOBH_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	DNA-cytosine methyltransferase	AL01_RIP113_AD6_CIRCLE_42213_p1:38328-39761	GNHEAOBH_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Type-2 restriction enzyme EcoRII	AL01_RIP113_AD6_CIRCLE_42213_p1:c41009-39795	GNHEAOBH_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	DNA-invertase hin	AL01_RIP113_AD6_CIRCLE_42213_p1:41248-41844	GNHEAOBH_00049
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::1 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features contains three or more numbers together that may be identifiers more appropriate in note
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:CDS	Tetracycline repressor protein class A from transposon 1721	AL01_RIP113_AD6_CIRCLE_42213_p1:24109-24786	GNHEAOBH_00027
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1 (length 42161)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1 (length 42161)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1 (length 42161)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1 (length 42161)
+
+DiscRep_ALL:MISSING_PROJECT::50 sequences do not include project.
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1 (length 42161)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_1 (length 79)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_2 (length 134)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_3 (length 141)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_4 (length 146)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_5 (length 421)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_6 (length 263)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_7 (length 113)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_8 (length 239)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_9 (length 278)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_10 (length 169)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_11 (length 98)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_12 (length 94)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_13 (length 59)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_14 (length 106)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_15 (length 114)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_16 (length 122)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_17 (length 238)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_18 (length 139)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_19 (length 138)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_20 (length 509)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_21 (length 1078)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_22 (length 208)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_23 (length 82)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_24 (length 598)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_25 (length 294)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_26 (length 399)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_27 (length 225)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_28 (length 125)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_29 (length 331)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_30 (length 386)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_31 (length 294)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_32 (length 232)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_33 (length 346)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_34 (length 75)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_35 (length 237)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_36 (length 866)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_37 (length 105)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_38 (length 97)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_39 (length 93)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_40 (length 244)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_41 (length 101)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_42 (length 125)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_43 (length 104)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_44 (length 103)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_45 (length 213)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_46 (length 65)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_47 (length 477)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_48 (length 404)
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1_49 (length 198)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./../output/plasmids/RIP113/gb_match/default/pk_results/RIP113:AL01_RIP113_AD6_CIRCLE_42213_p1 (length 42161)
+

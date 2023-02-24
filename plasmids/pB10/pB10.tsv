@@ -1,0 +1,72 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NEMDMBIO_00001	CDS	363				hypothetical protein
+NEMDMBIO_00002	CDS	963				hypothetical protein
+NEMDMBIO_00003	CDS	465				hypothetical protein
+NEMDMBIO_00004	CDS	312				hypothetical protein
+NEMDMBIO_00005	CDS	2559				hypothetical protein
+NEMDMBIO_00006	CDS	783				hypothetical protein
+NEMDMBIO_00007	CDS	900				hypothetical protein
+NEMDMBIO_00008	CDS	489				hypothetical protein
+NEMDMBIO_00009	CDS	1422				hypothetical protein
+NEMDMBIO_00010	CDS	765				hypothetical protein
+NEMDMBIO_00011	CDS	228				hypothetical protein
+NEMDMBIO_00012	CDS	1719				hypothetical protein
+NEMDMBIO_00013	CDS	588				hypothetical protein
+NEMDMBIO_00014	CDS	636				hypothetical protein
+NEMDMBIO_00015	CDS	267				hypothetical protein
+NEMDMBIO_00016	CDS	699				hypothetical protein
+NEMDMBIO_00017	CDS	432				hypothetical protein
+NEMDMBIO_00018	CDS	501				hypothetical protein
+NEMDMBIO_00019	CDS	840	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+NEMDMBIO_00020	CDS	828	bla	3.5.2.6		Beta-lactamase OXA-2
+NEMDMBIO_00021	CDS	1014	xerC			Tyrosine recombinase XerC
+NEMDMBIO_00022	CDS	720				hypothetical protein
+NEMDMBIO_00023	CDS	4347	traC	2.7.7.-		DNA primase TraC
+NEMDMBIO_00024	CDS	390	traD			Protein TraD
+NEMDMBIO_00025	CDS	2064	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+NEMDMBIO_00026	CDS	537				hypothetical protein
+NEMDMBIO_00027	CDS	1914	traG			Conjugal transfer protein TraG
+NEMDMBIO_00028	CDS	2241	traI			Protein TraI
+NEMDMBIO_00029	CDS	375	traJ			Protein TraJ
+NEMDMBIO_00030	CDS	399	traK			Protein TraK
+NEMDMBIO_00031	CDS	726	traL			Protein TraL
+NEMDMBIO_00032	CDS	441	traM			Protein TraM
+NEMDMBIO_00033	CDS	654				hypothetical protein
+NEMDMBIO_00034	CDS	348	traB			Protein TraB
+NEMDMBIO_00035	CDS	1032	smc			Chromosome partition protein Smc
+NEMDMBIO_00036	CDS	1050	korB			Transcriptional repressor protein KorB
+NEMDMBIO_00037	CDS	765				hypothetical protein
+NEMDMBIO_00038	CDS	309	trfB			TrfB transcriptional repressor protein
+NEMDMBIO_00039	CDS	330				hypothetical protein
+NEMDMBIO_00040	CDS	327				hypothetical protein
+NEMDMBIO_00041	CDS	237				hypothetical protein
+NEMDMBIO_00042	CDS	258				hypothetical protein
+NEMDMBIO_00043	CDS	1209	klcB			Protein KlcB
+NEMDMBIO_00044	CDS	264				hypothetical protein
+NEMDMBIO_00045	CDS	429	klcA			Antirestriction protein KlcA
+NEMDMBIO_00046	CDS	264				hypothetical protein
+NEMDMBIO_00047	CDS	282	yafQ	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+NEMDMBIO_00048	CDS	201				Tn3 family transposase TnAs2
+NEMDMBIO_00049	CDS	2091				Tn3 family transposase IS1071
+NEMDMBIO_00050	CDS	801				Tn3 family transposase TnAs1
+NEMDMBIO_00051	CDS	243				hypothetical protein
+NEMDMBIO_00052	CDS	678	tetR			Tetracycline repressor protein class A from transposon 1721
+NEMDMBIO_00053	CDS	1275	tetA			Tetracycline resistance protein, class C
+NEMDMBIO_00054	CDS	885				hypothetical protein
+NEMDMBIO_00055	CDS	1797				Tn3 family transposase TnAs1
+NEMDMBIO_00056	CDS	384				Tn3 family transposase IS1071
+NEMDMBIO_00057	CDS	1860				Tn3 family transposase
+NEMDMBIO_00058	CDS	615	hin_1		COG1961	DNA-invertase hin
+NEMDMBIO_00059	CDS	804	neo	2.7.1.95		Aminoglycoside 3'-phosphotransferase
+NEMDMBIO_00060	CDS	837				hypothetical protein
+NEMDMBIO_00061	CDS	399				hypothetical protein
+NEMDMBIO_00062	CDS	561	hin_2		COG1961	DNA-invertase hin
+NEMDMBIO_00063	CDS	990				hypothetical protein
+NEMDMBIO_00064	CDS	237				hypothetical protein
+NEMDMBIO_00065	CDS	366				hypothetical protein
+NEMDMBIO_00066	CDS	1686	merA	1.16.1.1		Mercuric reductase
+NEMDMBIO_00067	CDS	276	merP			Mercuric transport protein periplasmic component
+NEMDMBIO_00068	CDS	351	merT			Mercuric transport protein MerT
+NEMDMBIO_00069	CDS	435				ISL3 family transposase ISStma11
+NEMDMBIO_00070	CDS	1221	trfA			Plasmid replication initiator protein TrfA
+NEMDMBIO_00071	CDS	342	ssb		COG0629	Single-stranded DNA-binding protein

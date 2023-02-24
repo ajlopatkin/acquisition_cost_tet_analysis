@@ -1,0 +1,70 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GGKCFMKK_00001	CDS	117				hypothetical protein
+GGKCFMKK_00002	CDS	399	finO			Fertility inhibition protein
+GGKCFMKK_00003	CDS	747				hypothetical protein
+GGKCFMKK_00004	CDS	5271	traI			Multifunctional conjugation protein TraI
+GGKCFMKK_00005	CDS	228	vapB		COG4456	Antitoxin VapB
+GGKCFMKK_00006	CDS	399	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+GGKCFMKK_00007	CDS	2154	traD			Coupling protein TraD
+GGKCFMKK_00008	CDS	735	ylpA			Lipoprotein YlpA
+GGKCFMKK_00009	CDS	522	traS			Protein TraS
+GGKCFMKK_00010	CDS	2817				hypothetical protein
+GGKCFMKK_00011	CDS	1374				hypothetical protein
+GGKCFMKK_00012	CDS	381				hypothetical protein
+GGKCFMKK_00013	CDS	282				hypothetical protein
+GGKCFMKK_00014	CDS	546				hypothetical protein
+GGKCFMKK_00015	CDS	285	traQ			Protein TraQ
+GGKCFMKK_00016	CDS	315				hypothetical protein
+GGKCFMKK_00017	CDS	348				hypothetical protein
+GGKCFMKK_00018	CDS	744				hypothetical protein
+GGKCFMKK_00019	CDS	258				hypothetical protein
+GGKCFMKK_00020	CDS	1809	traN			Mating pair stabilization protein TraN
+GGKCFMKK_00021	CDS	639				hypothetical protein
+GGKCFMKK_00022	CDS	993				hypothetical protein
+GGKCFMKK_00023	CDS	633				hypothetical protein
+GGKCFMKK_00024	CDS	387				hypothetical protein
+GGKCFMKK_00025	CDS	2628	traC			Protein TraC
+GGKCFMKK_00026	CDS	105				hypothetical protein
+GGKCFMKK_00027	CDS	516	traV			Protein TraV
+GGKCFMKK_00028	CDS	252				hypothetical protein
+GGKCFMKK_00029	CDS	198				hypothetical protein
+GGKCFMKK_00030	CDS	591				hypothetical protein
+GGKCFMKK_00031	CDS	1428				hypothetical protein
+GGKCFMKK_00032	CDS	729				hypothetical protein
+GGKCFMKK_00033	CDS	567				hypothetical protein
+GGKCFMKK_00034	CDS	312				hypothetical protein
+GGKCFMKK_00035	CDS	366	traA			Pilin
+GGKCFMKK_00036	CDS	396	traY			Relaxosome protein TraY
+GGKCFMKK_00037	CDS	690	traJ			Protein TraJ
+GGKCFMKK_00038	CDS	384	traM			Relaxosome protein TraM
+GGKCFMKK_00039	CDS	510				hypothetical protein
+GGKCFMKK_00040	CDS	822				hypothetical protein
+GGKCFMKK_00041	CDS	288				hypothetical protein
+GGKCFMKK_00042	CDS	213	flmC			Protein FlmC
+GGKCFMKK_00043	CDS	720				hypothetical protein
+GGKCFMKK_00044	CDS	435	psiB			Protein PsiB
+GGKCFMKK_00045	CDS	1959	noc			Nucleoid occlusion protein
+GGKCFMKK_00046	CDS	234				hypothetical protein
+GGKCFMKK_00047	CDS	540	ssb			Plasmid-derived single-stranded DNA-binding protein
+GGKCFMKK_00048	CDS	192				hypothetical protein
+GGKCFMKK_00049	CDS	423				hypothetical protein
+GGKCFMKK_00050	CDS	426	klcA			Antirestriction protein KlcA
+GGKCFMKK_00051	CDS	165				hypothetical protein
+GGKCFMKK_00052	CDS	777				hypothetical protein
+GGKCFMKK_00053	CDS	435				hypothetical protein
+GGKCFMKK_00054	CDS	222				hypothetical protein
+GGKCFMKK_00055	CDS	684	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+GGKCFMKK_00056	CDS	438				hypothetical protein
+GGKCFMKK_00057	CDS	507				hypothetical protein
+GGKCFMKK_00058	CDS	972	sopB			Protein SopB
+GGKCFMKK_00059	CDS	1167				hypothetical protein
+GGKCFMKK_00060	CDS	756	repE			Replication initiation protein
+GGKCFMKK_00061	CDS	807	xerC			Tyrosine recombinase XerC
+GGKCFMKK_00062	CDS	306	ccdB			Toxin CcdB
+GGKCFMKK_00063	CDS	219	ccdA			Antitoxin CcdA
+GGKCFMKK_00064	CDS	462	tetC			Transposon Tn10 TetC protein
+GGKCFMKK_00065	CDS	1206	tetA			Tetracycline resistance protein, class B
+GGKCFMKK_00066	CDS	624	tetR			Tetracycline repressor protein class B from transposon Tn10
+GGKCFMKK_00067	CDS	1443	luxC	1.2.1.50		Long-chain acyl-protein thioester reductase
+GGKCFMKK_00068	CDS	924	luxD	2.3.1.-		Acyl transferase
+GGKCFMKK_00069	CDS	1113				hypothetical protein

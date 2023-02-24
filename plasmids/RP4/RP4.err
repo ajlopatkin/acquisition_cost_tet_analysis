@@ -1,0 +1,416 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:70 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 70 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:70 features have inconsistent gene locations.
+SUSPECT_PRODUCT_NAMES:2 product_names contain suspect phrase or characters
+	May contain database identifier more appropriate in note; remove from product name
+		2 features contains three or more numbers together that may be identifiers more appropriate in note
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:71 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::70 proteins halid nvalid IDs.
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_1 (length 378)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_2 (length 257)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_3 (length 104)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_4 (length 107)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_5 (length 66)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_6 (length 76)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_7 (length 71)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_8 (length 77)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_9 (length 85)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_10 (length 236)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_11 (length 286)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_12 (length 185)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_13 (length 1001)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_14 (length 273)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_15 (length 146)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_16 (length 80)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_17 (length 225)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_18 (length 399)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_19 (length 222)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_20 (length 382)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_21 (length 116)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_22 (length 121)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_23 (length 319)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_24 (length 145)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_25 (length 103)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_26 (length 852)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_27 (length 252)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_28 (length 297)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_29 (length 160)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_30 (length 463)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_31 (length 258)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_32 (length 69)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_33 (length 528)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_34 (length 199)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_35 (length 234)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_36 (length 87)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_37 (length 244)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_38 (length 139)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_39 (length 231)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_40 (length 220)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_41 (length 207)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_42 (length 177)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_43 (length 97)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_44 (length 83)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_45 (length 103)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_46 (length 154)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_47 (length 390)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_48 (length 265)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_49 (length 271)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_50 (length 96)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_51 (length 146)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_52 (length 1061)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_53 (length 87)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_54 (length 737)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_55 (length 177)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_56 (length 635)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_57 (length 732)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_58 (length 123)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_59 (length 134)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_60 (length 241)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_61 (length 145)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_62 (length 448)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_63 (length 115)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_64 (length 308)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_65 (length 175)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_66 (length 173)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_67 (length 358)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_68 (length 259)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_69 (length 104)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_70 (length 185)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 70 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1 (length 60096)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::70 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	TelA-like protein	BN000925.1:c1502-366	IBMHIKJI_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c2293-1520	IBMHIKJI_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c2730-2416	IBMHIKJI_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c3081-2758	IBMHIKJI_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c3393-3193	IBMHIKJI_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c3657-3427	IBMHIKJI_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c4025-3810	IBMHIKJI_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c4307-4074	IBMHIKJI_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c4790-4533	IBMHIKJI_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein KlcB	BN000925.1:c5523-4813	IBMHIKJI_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Beta-lactamase TEM	BN000925.1:c6499-5639	IBMHIKJI_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Transposon Tn3 resolvase	BN000925.1:c7239-6682	IBMHIKJI_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Tn3 family transposase Tn2	BN000925.1:7402-10407	IBMHIKJI_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein KlcB	BN000925.1:c11152-10331	IBMHIKJI_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Antirestriction protein KlcA	BN000925.1:c11638-11198	IBMHIKJI_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:13020-13262	IBMHIKJI_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Tetracycline repressor protein class A from transposon 1721	BN000925.1:c13971-13294	IBMHIKJI_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Tetracycline resistance protein, class C	BN000925.1:14050-15249	IBMHIKJI_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c16549-15881	IBMHIKJI_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Plasmid replication initiator protein TrfA	BN000925.1:c17669-16521	IBMHIKJI_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Single-stranded DNA-binding protein	BN000925.1:c18068-17718	IBMHIKJI_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:18189-18554	IBMHIKJI_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Putative conjugal transfer protein	BN000925.1:18825-19784	IBMHIKJI_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:19797-20234	IBMHIKJI_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:20237-20548	IBMHIKJI_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Type IV secretion system protein virB4	BN000925.1:20545-23103	IBMHIKJI_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:23100-23858	IBMHIKJI_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:23870-24763	IBMHIKJI_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:24767-25249	IBMHIKJI_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:25254-26645	IBMHIKJI_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:26662-27438	IBMHIKJI_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:27450-27659	IBMHIKJI_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:27666-29252	IBMHIKJI_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:29276-29875	IBMHIKJI_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:29891-30595	IBMHIKJI_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:30626-30889	IBMHIKJI_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:30926-31660	IBMHIKJI_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:31677-32096	IBMHIKJI_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein osa	BN000925.1:32111-32806	IBMHIKJI_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:32842-33504	IBMHIKJI_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Putative transposon Tn552 DNA-invertase bin3	BN000925.1:c34151-33528	IBMHIKJI_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c34681-34148	IBMHIKJI_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c34971-34678	IBMHIKJI_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Antitoxin ParD	BN000925.1:35122-35373	IBMHIKJI_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Toxin ParE	BN000925.1:35370-35681	IBMHIKJI_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:35759-36223	IBMHIKJI_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:36310-37482	IBMHIKJI_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	IS21 family transposase IS21	BN000925.1:37482-38279	IBMHIKJI_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Aminoglycoside 3'-phosphotransferase	BN000925.1:38716-39531	IBMHIKJI_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c39905-39615	IBMHIKJI_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein TraB	BN000925.1:c40353-39913	IBMHIKJI_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	DNA primase TraC	BN000925.1:c43554-40369	IBMHIKJI_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c43824-43561	IBMHIKJI_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	DNA topoisomerase 3	BN000925.1:c46043-43830	IBMHIKJI_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c46591-46058	IBMHIKJI_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Conjugal transfer protein TraG	BN000925.1:c48495-46588	IBMHIKJI_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein TraI	BN000925.1:c50690-48492	IBMHIKJI_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein TraJ	BN000925.1:c51096-50725	IBMHIKJI_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein TraK	BN000925.1:51464-51868	IBMHIKJI_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein TraL	BN000925.1:51868-52593	IBMHIKJI_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein TraM	BN000925.1:52590-53027	IBMHIKJI_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c54425-53079	IBMHIKJI_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Protein TraB	BN000925.1:c54801-54454	IBMHIKJI_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c55886-54960	IBMHIKJI_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c56599-56072	IBMHIKJI_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c57113-56592	IBMHIKJI_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Transcriptional repressor protein KorB	BN000925.1:c58260-57184	IBMHIKJI_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Chromosome-partitioning ATPase Soj	BN000925.1:c59036-58257	IBMHIKJI_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	TrfB transcriptional repressor protein	BN000925.1:c59347-59033	IBMHIKJI_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	hypothetical protein	BN000925.1:c60069-59512	IBMHIKJI_00070
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::2 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::2 features contains three or more numbers together that may be identifiers more appropriate in note
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Tetracycline repressor protein class A from transposon 1721	BN000925.1:c13971-13294	IBMHIKJI_00017
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:CDS	Putative transposon Tn552 DNA-invertase bin3	BN000925.1:c34151-33528	IBMHIKJI_00041
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1 (length 60096)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1 (length 60096)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1 (length 60096)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1 (length 60096)
+
+DiscRep_ALL:MISSING_PROJECT::71 sequences do not include project.
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1 (length 60096)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_1 (length 378)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_2 (length 257)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_3 (length 104)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_4 (length 107)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_5 (length 66)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_6 (length 76)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_7 (length 71)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_8 (length 77)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_9 (length 85)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_10 (length 236)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_11 (length 286)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_12 (length 185)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_13 (length 1001)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_14 (length 273)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_15 (length 146)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_16 (length 80)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_17 (length 225)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_18 (length 399)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_19 (length 222)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_20 (length 382)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_21 (length 116)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_22 (length 121)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_23 (length 319)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_24 (length 145)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_25 (length 103)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_26 (length 852)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_27 (length 252)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_28 (length 297)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_29 (length 160)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_30 (length 463)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_31 (length 258)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_32 (length 69)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_33 (length 528)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_34 (length 199)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_35 (length 234)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_36 (length 87)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_37 (length 244)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_38 (length 139)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_39 (length 231)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_40 (length 220)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_41 (length 207)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_42 (length 177)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_43 (length 97)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_44 (length 83)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_45 (length 103)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_46 (length 154)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_47 (length 390)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_48 (length 265)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_49 (length 271)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_50 (length 96)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_51 (length 146)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_52 (length 1061)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_53 (length 87)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_54 (length 737)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_55 (length 177)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_56 (length 635)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_57 (length 732)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_58 (length 123)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_59 (length 134)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_60 (length 241)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_61 (length 145)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_62 (length 448)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_63 (length 115)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_64 (length 308)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_65 (length 175)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_66 (length 173)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_67 (length 358)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_68 (length 259)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_69 (length 104)
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1_70 (length 185)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./../output/plasmids/RP4/gb_match/default/pk_results/RP4:BN000925.1 (length 60096)
+

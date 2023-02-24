@@ -1,0 +1,71 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product	GO ID	Type	Function
+IBMHIKJI_00001	CDS	1137				TelA-like protein			
+IBMHIKJI_00002	CDS	774				hypothetical protein			
+IBMHIKJI_00003	CDS	315				hypothetical protein			
+IBMHIKJI_00004	CDS	324				hypothetical protein			
+IBMHIKJI_00005	CDS	201				hypothetical protein			
+IBMHIKJI_00006	CDS	231				hypothetical protein			
+IBMHIKJI_00007	CDS	216				hypothetical protein			
+IBMHIKJI_00008	CDS	234				hypothetical protein			
+IBMHIKJI_00009	CDS	258				hypothetical protein			
+IBMHIKJI_00010	CDS	711	klcB_1			Protein KlcB	GO:0003677	RF	DNA binding-
+IBMHIKJI_00011	CDS	861	bla	3.5.2.6		Beta-lactamase TEM	GO:0030655	RP	
+IBMHIKJI_00012	CDS	558	tnpR			Transposon Tn3 resolvase	GO:0015074	RP	DNA integration-
+IBMHIKJI_00013	CDS	3006				Tn3 family transposase Tn2			
+IBMHIKJI_00014	CDS	822	klcB_2			Protein KlcB	GO:0003677	RF	DNA binding-
+IBMHIKJI_00015	CDS	441	klcA			Antirestriction protein KlcA			
+IBMHIKJI_00016	CDS	243				hypothetical protein			
+IBMHIKJI_00017	CDS	678	tetR			Tetracycline repressor protein class A from transposon 1721	GO:0045892	RP	negative regulation of transcription, DNA-templated-
+IBMHIKJI_00018	CDS	1200	tetA			Tetracycline resistance protein, class C	GO:0006811	RP	ion transport-
+IBMHIKJI_00019	CDS	669				hypothetical protein			
+IBMHIKJI_00020	CDS	1149	trfA			Plasmid replication initiator protein TrfA	GO:0006260	UP	DNA replication
+IBMHIKJI_00021	CDS	351	ssb		COG0629	Single-stranded DNA-binding protein	GO:0006310	RP	DNA recombination-
+IBMHIKJI_00022	CDS	366				hypothetical protein			
+IBMHIKJI_00023	CDS	960			COG4962	Putative conjugal transfer protein	GO:0000746	RP	conjugation
+IBMHIKJI_00024	CDS	438				hypothetical protein			
+IBMHIKJI_00025	CDS	312				hypothetical protein			
+IBMHIKJI_00026	CDS	2559	virB4		COG3451	Type IV secretion system protein virB4	GO:0005524	RF	ATP binding-
+IBMHIKJI_00027	CDS	759				hypothetical protein			
+IBMHIKJI_00028	CDS	894				hypothetical protein			
+IBMHIKJI_00029	CDS	483				hypothetical protein			
+IBMHIKJI_00030	CDS	1392				hypothetical protein			
+IBMHIKJI_00031	CDS	777				hypothetical protein			
+IBMHIKJI_00032	CDS	210				hypothetical protein			
+IBMHIKJI_00033	CDS	1587				hypothetical protein			
+IBMHIKJI_00034	CDS	600				hypothetical protein			
+IBMHIKJI_00035	CDS	705				hypothetical protein			
+IBMHIKJI_00036	CDS	264				hypothetical protein			
+IBMHIKJI_00037	CDS	735				hypothetical protein			
+IBMHIKJI_00038	CDS	420				hypothetical protein			
+IBMHIKJI_00039	CDS	696	osa			Protein osa			
+IBMHIKJI_00040	CDS	663				hypothetical protein			
+IBMHIKJI_00041	CDS	624	bin3			Putative transposon Tn552 DNA-invertase bin3	GO:0015074	UP	DNA integration-
+IBMHIKJI_00042	CDS	534				hypothetical protein			
+IBMHIKJI_00043	CDS	294				hypothetical protein			
+IBMHIKJI_00044	CDS	252	parD			Antitoxin ParD	GO:0006355	RP	regulation of transcription, DNA-templated-
+IBMHIKJI_00045	CDS	312	parE			Toxin ParE	GO:0007059	RP	chromosome segregation-
+IBMHIKJI_00046	CDS	465				hypothetical protein			
+IBMHIKJI_00047	CDS	1173				hypothetical protein			
+IBMHIKJI_00048	CDS	798				IS21 family transposase IS21			
+IBMHIKJI_00049	CDS	816	neo	2.7.1.95		Aminoglycoside 3'-phosphotransferase	GO:1901158	RP	neomycin biosynthetic process-
+IBMHIKJI_00050	CDS	291				hypothetical protein			
+IBMHIKJI_00051	CDS	441	traB_1			Protein TraB	GO:0016021	UC	integral component of membrane-
+IBMHIKJI_00052	CDS	3186	traC	2.7.7.-		DNA primase TraC	GO:0000746	RP	conjugation
+IBMHIKJI_00053	CDS	264				hypothetical protein			
+IBMHIKJI_00054	CDS	2214	topB	5.6.2.1		DNA topoisomerase 3	GO:0006265	RP	DNA topological change-
+IBMHIKJI_00055	CDS	534				hypothetical protein			
+IBMHIKJI_00056	CDS	1908	traG			Conjugal transfer protein TraG	GO:0000746	RP	conjugation
+IBMHIKJI_00057	CDS	2199	traI			Protein TraI	GO:0000746	RP	conjugation
+IBMHIKJI_00058	CDS	372	traJ			Protein TraJ	GO:0000746	RP	conjugation
+IBMHIKJI_00059	CDS	405	traK			Protein TraK	GO:0000746	RP	conjugation
+IBMHIKJI_00060	CDS	726	traL			Protein TraL	GO:0000746	RP	conjugation
+IBMHIKJI_00061	CDS	438	traM			Protein TraM	GO:0000746	RP	conjugation
+IBMHIKJI_00062	CDS	1347				hypothetical protein			
+IBMHIKJI_00063	CDS	348	traB_2			Protein TraB	GO:0016021	UC	integral component of membrane-
+IBMHIKJI_00064	CDS	927				hypothetical protein			
+IBMHIKJI_00065	CDS	528				hypothetical protein			
+IBMHIKJI_00066	CDS	522				hypothetical protein			
+IBMHIKJI_00067	CDS	1077	korB			Transcriptional repressor protein KorB	GO:0045892	RP	negative regulation of transcription, DNA-templated-
+IBMHIKJI_00068	CDS	780	soj	3.6.-.-	COG1192	Chromosome-partitioning ATPase Soj	GO:0042174	RP	negative regulation of sporulation resulting in formation of a cellular spore-
+IBMHIKJI_00069	CDS	315	trfB			TrfB transcriptional repressor protein	GO:0003677	UF	DNA binding-
+IBMHIKJI_00070	CDS	558				hypothetical protein			

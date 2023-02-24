@@ -1,0 +1,131 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product	GO ID	Type	Function
+OIFEMJME_00001	CDS	1077	repA			Replication initiation protein	GO:0006260	RP	DNA replication
+OIFEMJME_00002	CDS	348				hypothetical protein			
+OIFEMJME_00003	CDS	354				hypothetical protein			
+OIFEMJME_00004	CDS	363	arsD_1			Arsenical resistance operon trans-acting repressor ArsD	GO:0045892	UP	negative regulation of transcription, DNA-templated-
+OIFEMJME_00005	CDS	381				IS3 family transposase IS2			
+OIFEMJME_00006	CDS	2886				Tn3 family transposase			
+OIFEMJME_00007	CDS	624	hin		COG1961	DNA-invertase hin	GO:0015074	UP	DNA integration-
+OIFEMJME_00008	CDS	276				IS3 family transposase IS1133			
+OIFEMJME_00009	CDS	858				IS3 family transposase IS1133			
+OIFEMJME_00010	CDS	1209			COG3385	IS4 family transposase ISVsa5			
+OIFEMJME_00011	CDS	417	tetD			Transposon Tn10 TetD protein	GO:0003700	UF	DNA-binding transcription factor activity-
+OIFEMJME_00012	CDS	669	tetC			Transposon Tn10 TetC protein	GO:0010468	UP	regulation of gene expression-
+OIFEMJME_00013	CDS	1206	tetA			Tetracycline resistance protein, class B	GO:0006811	RP	ion transport-
+OIFEMJME_00014	CDS	624	tetR			Tetracycline repressor protein class B from transposon Tn10	GO:0045892	RP	negative regulation of transcription, DNA-templated-
+OIFEMJME_00015	CDS	687				hypothetical protein			
+OIFEMJME_00016	CDS	387				hypothetical protein			
+OIFEMJME_00017	CDS	321	yqjZ		COG2329	putative protein YqjZ			
+OIFEMJME_00018	CDS	1206	gltS		COG0786	Sodium/glutamate symporter	GO:0015813	RP	L-glutamate transmembrane transport-
+OIFEMJME_00019	CDS	1209			COG3385	IS4 family transposase ISVsa5			
+OIFEMJME_00020	CDS	804	neo	2.7.1.95		Aminoglycoside 3'-phosphotransferase	GO:1901158	RP	neomycin biosynthetic process-
+OIFEMJME_00021	CDS	837				hypothetical protein			
+OIFEMJME_00022	CDS	507				hypothetical protein			
+OIFEMJME_00023	CDS	366				hypothetical protein			
+OIFEMJME_00024	CDS	1782	arsA_1	7.3.2.7		Arsenical pump-driving ATPase	GO:0005524	UF	ATP binding-
+OIFEMJME_00025	CDS	1290	arsB		COG1055	Arsenical pump membrane protein	GO:0046685	RP	response to arsenic-containing substance-
+OIFEMJME_00026	CDS	426	arsC	1.20.4.1		Arsenate reductase	GO:0046685	RP	response to arsenic-containing substance-
+OIFEMJME_00027	CDS	537	mnaT	2.3.1.-	COG1247	L-amino acid N-acyltransferase MnaT	GO:0008080	UF	N-acetyltransferase activity-
+OIFEMJME_00028	CDS	813				hypothetical protein			
+OIFEMJME_00029	CDS	369				hypothetical protein			
+OIFEMJME_00030	CDS	1758	arsA_2	7.3.2.7		Arsenical pump-driving ATPase	GO:0005524	UF	ATP binding-
+OIFEMJME_00031	CDS	363	arsD_2			Arsenical resistance operon trans-acting repressor ArsD	GO:0045892	UP	negative regulation of transcription, DNA-templated-
+OIFEMJME_00032	CDS	546	sigL		COG1595	ECF RNA polymerase sigma factor SigL	GO:0006352	RP	DNA-templated transcription, initiation-
+OIFEMJME_00033	CDS	651	arsH	1.-.-.-	COG0431	NADPH-dependent FMN reductase ArsH	GO:0051289	RP	protein homotetramerization-
+OIFEMJME_00034	CDS	324				hypothetical protein			
+OIFEMJME_00035	CDS	1134				hypothetical protein			
+OIFEMJME_00036	CDS	618				hypothetical protein			
+OIFEMJME_00037	CDS	1557				hypothetical protein			
+OIFEMJME_00038	CDS	591				hypothetical protein			
+OIFEMJME_00039	CDS	258				hypothetical protein			
+OIFEMJME_00040	CDS	2139				hypothetical protein			
+OIFEMJME_00041	CDS	402	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC	GO:0000287	RF	magnesium ion binding-
+OIFEMJME_00042	CDS	231				hypothetical protein			
+OIFEMJME_00043	CDS	291				hypothetical protein			
+OIFEMJME_00044	CDS	900				hypothetical protein			
+OIFEMJME_00045	CDS	2226				hypothetical protein			
+OIFEMJME_00046	CDS	1089	pifC			Transcriptional repressor PifC	GO:0003677	UF	DNA binding-
+OIFEMJME_00047	CDS	414				hypothetical protein			
+OIFEMJME_00048	CDS	780	xerC_1			Tyrosine recombinase XerC	GO:0015074	UP	DNA integration-
+OIFEMJME_00049	CDS	645				hypothetical protein			
+OIFEMJME_00050	CDS	309				hypothetical protein			
+OIFEMJME_00051	CDS	981	parM			Plasmid segregation protein ParM	GO:0030541	UP	plasmid partitioning
+OIFEMJME_00052	CDS	417				hypothetical protein			
+OIFEMJME_00053	CDS	1275	umuC		COG0389	Protein UmuC	GO:0042276	UP	error-prone translesion synthesis-
+OIFEMJME_00054	CDS	438	umuD	3.4.21.-	COG1974	Protein UmuD	GO:0006281	RP	DNA repair-
+OIFEMJME_00055	CDS	249				hypothetical protein			
+OIFEMJME_00056	CDS	927				hypothetical protein			
+OIFEMJME_00057	CDS	684	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ	GO:0008080	UF	N-acetyltransferase activity-
+OIFEMJME_00058	CDS	222				hypothetical protein			
+OIFEMJME_00059	CDS	435				hypothetical protein			
+OIFEMJME_00060	CDS	822				hypothetical protein			
+OIFEMJME_00061	CDS	426	klcA			Antirestriction protein KlcA			
+OIFEMJME_00062	CDS	423				hypothetical protein			
+OIFEMJME_00063	CDS	192				hypothetical protein			
+OIFEMJME_00064	CDS	528	ssb			Plasmid-derived single-stranded DNA-binding protein	GO:0006310	RP	DNA recombination-
+OIFEMJME_00065	CDS	234				hypothetical protein			
+OIFEMJME_00066	CDS	2049	noc			Nucleoid occlusion protein			
+OIFEMJME_00067	CDS	435	psiB			Protein PsiB			
+OIFEMJME_00068	CDS	720				hypothetical protein			
+OIFEMJME_00069	CDS	597				hypothetical protein			
+OIFEMJME_00070	CDS	501				hypothetical protein			
+OIFEMJME_00071	CDS	435				hypothetical protein			
+OIFEMJME_00072	CDS	267				hypothetical protein			
+OIFEMJME_00073	CDS	942				ISNCY family transposase ISSen7			
+OIFEMJME_00074	CDS	171				hypothetical protein			
+OIFEMJME_00075	CDS	252				hypothetical protein			
+OIFEMJME_00076	CDS	849				hypothetical protein			
+OIFEMJME_00077	CDS	336				hypothetical protein			
+OIFEMJME_00078	CDS	333				hypothetical protein			
+OIFEMJME_00079	CDS	2700				hypothetical protein			
+OIFEMJME_00080	CDS	2292				hypothetical protein			
+OIFEMJME_00081	CDS	1071				hypothetical protein			
+OIFEMJME_00082	CDS	1209				hypothetical protein			
+OIFEMJME_00083	CDS	153	pndA			Protein PndA	GO:0016021	UC	integral component of membrane-
+OIFEMJME_00084	CDS	252				hypothetical protein			
+OIFEMJME_00085	CDS	177				hypothetical protein			
+OIFEMJME_00086	CDS	210				hypothetical protein			
+OIFEMJME_00087	CDS	663				hypothetical protein			
+OIFEMJME_00088	CDS	2169				hypothetical protein			
+OIFEMJME_00089	CDS	585				hypothetical protein			
+OIFEMJME_00090	CDS	1203				hypothetical protein			
+OIFEMJME_00091	CDS	615				hypothetical protein			
+OIFEMJME_00092	CDS	3045				hypothetical protein			
+OIFEMJME_00093	CDS	801				hypothetical protein			
+OIFEMJME_00094	CDS	189				hypothetical protein			
+OIFEMJME_00095	CDS	405				hypothetical protein			
+OIFEMJME_00096	CDS	528				hypothetical protein			
+OIFEMJME_00097	CDS	705				hypothetical protein			
+OIFEMJME_00098	CDS	1290				hypothetical protein			
+OIFEMJME_00099	CDS	984				hypothetical protein			
+OIFEMJME_00100	CDS	693				hypothetical protein			
+OIFEMJME_00101	CDS	348				hypothetical protein			
+OIFEMJME_00102	CDS	3768				hypothetical protein			
+OIFEMJME_00103	CDS	552	pld	3.1.4.4		Phospholipase D	GO:0016042	RP	lipid catabolic process-
+OIFEMJME_00104	CDS	291				hypothetical protein			
+OIFEMJME_00105	CDS	1149	yggR		COG2805	putative protein YggR	GO:0005524	UF	ATP binding-
+OIFEMJME_00106	CDS	819				hypothetical protein			
+OIFEMJME_00107	CDS	459				hypothetical protein			
+OIFEMJME_00108	CDS	582	ais	3.1.3.-		Lipopolysaccharide core heptose(II)-phosphate phosphatase	GO:0008653	RP	lipopolysaccharide metabolic process
+OIFEMJME_00109	CDS	1200				hypothetical protein			
+OIFEMJME_00110	CDS	825				hypothetical protein			
+OIFEMJME_00111	CDS	1155	xerC_2			Tyrosine recombinase XerC	GO:0015074	UP	DNA integration-
+OIFEMJME_00112	CDS	99				hypothetical protein			
+OIFEMJME_00113	CDS	1371				hypothetical protein			
+OIFEMJME_00114	CDS	657				hypothetical protein			
+OIFEMJME_00115	CDS	561				hypothetical protein			
+OIFEMJME_00116	CDS	615				hypothetical protein			
+OIFEMJME_00117	CDS	1098				hypothetical protein			
+OIFEMJME_00118	CDS	1554				hypothetical protein			
+OIFEMJME_00119	CDS	453				hypothetical protein			
+OIFEMJME_00120	CDS	1296				hypothetical protein			
+OIFEMJME_00121	CDS	1683				hypothetical protein			
+OIFEMJME_00122	CDS	438				hypothetical protein			
+OIFEMJME_00123	CDS	1068				hypothetical protein			
+OIFEMJME_00124	CDS	591				hypothetical protein			
+OIFEMJME_00125	CDS	453				hypothetical protein			
+OIFEMJME_00126	CDS	255				hypothetical protein			
+OIFEMJME_00127	CDS	567				hypothetical protein			
+OIFEMJME_00128	CDS	684				hypothetical protein			
+OIFEMJME_00129	CDS	534	rfaH			Transcription antitermination protein RfaH	GO:0003677	RF	DNA binding-
+OIFEMJME_00130	CDS	177				hypothetical protein			

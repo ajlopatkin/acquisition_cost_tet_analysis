@@ -1,0 +1,73 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BPFFEJJH_00001	CDS	321				hypothetical protein
+BPFFEJJH_00002	CDS	180				hypothetical protein
+BPFFEJJH_00003	CDS	510				hypothetical protein
+BPFFEJJH_00004	CDS	108				hypothetical protein
+BPFFEJJH_00005	CDS	333				hypothetical protein
+BPFFEJJH_00006	CDS	285				hypothetical protein
+BPFFEJJH_00007	CDS	360				hypothetical protein
+BPFFEJJH_00008	CDS	297				hypothetical protein
+BPFFEJJH_00009	CDS	546				hypothetical protein
+BPFFEJJH_00010	CDS	156				hypothetical protein
+BPFFEJJH_00011	CDS	240				hypothetical protein
+BPFFEJJH_00012	CDS	405				hypothetical protein
+BPFFEJJH_00013	CDS	426				hypothetical protein
+BPFFEJJH_00014	CDS	441	umuD	3.4.21.-	COG1974	Protein UmuD
+BPFFEJJH_00015	CDS	1266	umuC		COG0389	Protein UmuC
+BPFFEJJH_00016	CDS	792				hypothetical protein
+BPFFEJJH_00017	CDS	342				hypothetical protein
+BPFFEJJH_00018	CDS	720	repE			Replication initiation protein
+BPFFEJJH_00019	CDS	540				hypothetical protein
+BPFFEJJH_00020	CDS	1557				hypothetical protein
+BPFFEJJH_00021	CDS	243				hypothetical protein
+BPFFEJJH_00022	CDS	705				IS6 family transposase IS26
+BPFFEJJH_00023	CDS	606	dctA			C4-dicarboxylate transport protein
+BPFFEJJH_00024	CDS	396	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+BPFFEJJH_00025	CDS	933	ala	1.4.1.1		Alanine dehydrogenase
+BPFFEJJH_00026	CDS	912	dmlR			HTH-type transcriptional regulator DmlR
+BPFFEJJH_00027	CDS	1140	dthadh	4.3.1.27		D-threo-3-hydroxyaspartate dehydratase
+BPFFEJJH_00028	CDS	828	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+BPFFEJJH_00029	CDS	303				hypothetical protein
+BPFFEJJH_00030	CDS	477				hypothetical protein
+BPFFEJJH_00031	CDS	669	tetR			Tetracycline repressor protein class A from transposon 1721
+BPFFEJJH_00032	CDS	1200	tetA			Tetracycline resistance protein, class C
+BPFFEJJH_00033	CDS	504	ydiB	1.1.1.282	COG0169	Quinate/shikimate dehydrogenase
+BPFFEJJH_00034	CDS	705				IS6 family transposase IS26
+BPFFEJJH_00035	CDS	114				hypothetical protein
+BPFFEJJH_00036	CDS	570	hin		COG1961	DNA-invertase hin
+BPFFEJJH_00037	CDS	1014	xerC			Tyrosine recombinase XerC
+BPFFEJJH_00038	CDS	780	ant1	2.7.7.47		Streptomycin 3''-adenylyltransferase
+BPFFEJJH_00039	CDS	348	emrE		COG2076	Multidrug transporter EmrE
+BPFFEJJH_00040	CDS	840	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+BPFFEJJH_00041	CDS	501				hypothetical protein
+BPFFEJJH_00042	CDS	765				IS6 family transposase IS6100
+BPFFEJJH_00043	CDS	1209	ecoRIIR	3.1.21.4		Type-2 restriction enzyme EcoRII
+BPFFEJJH_00044	CDS	1434	dcm	2.1.1.37	COG0270	DNA-cytosine methyltransferase
+BPFFEJJH_00045	CDS	267			COG1662	IS1 family transposase IS1X2
+BPFFEJJH_00046	CDS	207				hypothetical protein
+BPFFEJJH_00047	CDS	648				hypothetical protein
+BPFFEJJH_00048	CDS	312				hypothetical protein
+BPFFEJJH_00049	CDS	315				hypothetical protein
+BPFFEJJH_00050	CDS	345				hypothetical protein
+BPFFEJJH_00051	CDS	306				hypothetical protein
+BPFFEJJH_00052	CDS	735				hypothetical protein
+BPFFEJJH_00053	CDS	282				hypothetical protein
+BPFFEJJH_00054	CDS	294				hypothetical protein
+BPFFEJJH_00055	CDS	318				hypothetical protein
+BPFFEJJH_00056	CDS	2601	virB4			Type IV secretion system protein virB4
+BPFFEJJH_00057	CDS	714	virB5			Type IV secretion system protein virB5
+BPFFEJJH_00058	CDS	228				hypothetical protein
+BPFFEJJH_00059	CDS	1041				hypothetical protein
+BPFFEJJH_00060	CDS	699	virB8			Type IV secretion system protein virB8
+BPFFEJJH_00061	CDS	885	virB9			Type IV secretion system protein virB9
+BPFFEJJH_00062	CDS	1161				Protein virB10
+BPFFEJJH_00063	CDS	996			COG0630	Type IV secretion system protein VirB11
+BPFFEJJH_00064	CDS	534				hypothetical protein
+BPFFEJJH_00065	CDS	627				hypothetical protein
+BPFFEJJH_00066	CDS	3243	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+BPFFEJJH_00067	CDS	1530	traD			Coupling protein TraD
+BPFFEJJH_00068	CDS	417				hypothetical protein
+BPFFEJJH_00069	CDS	420				hypothetical protein
+BPFFEJJH_00070	CDS	717				hypothetical protein
+BPFFEJJH_00071	CDS	369				hypothetical protein
+BPFFEJJH_00072	CDS	345				hypothetical protein

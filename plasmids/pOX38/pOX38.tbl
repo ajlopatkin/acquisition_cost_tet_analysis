@@ -1,0 +1,348 @@
+>Feature pox38-tc
+584	468	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00001
+			product	hypothetical protein
+1045	647	CDS
+			gene	finO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29367
+			locus_tag	GGKCFMKK_00002
+			product	Fertility inhibition protein
+1846	1100	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00003
+			product	hypothetical protein
+7136	1866	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	GGKCFMKK_00004
+			product	Multifunctional conjugation protein TraI
+7218	7445	CDS
+			db_xref	COG:COG4456
+			gene	vapB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O06663
+			locus_tag	GGKCFMKK_00005
+			product	Antitoxin VapB
+7445	7843	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1487
+			gene	vapC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O06662
+			locus_tag	GGKCFMKK_00006
+			product	tRNA(fMet)-specific endonuclease VapC
+10005	7852	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	GGKCFMKK_00007
+			product	Coupling protein TraD
+10992	10258	CDS
+			gene	ylpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27461
+			locus_tag	GGKCFMKK_00008
+			product	Lipoprotein YlpA
+11535	11014	CDS
+			gene	traS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09129
+			locus_tag	GGKCFMKK_00009
+			product	Protein TraS
+14384	11568	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00010
+			product	hypothetical protein
+15754	14381	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00011
+			product	hypothetical protein
+16134	15754	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00012
+			product	hypothetical protein
+16402	16121	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00013
+			product	hypothetical protein
+16937	16392	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00014
+			product	hypothetical protein
+17208	16924	CDS
+			gene	traQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18033
+			locus_tag	GGKCFMKK_00015
+			product	Protein TraQ
+17289	17603	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00016
+			product	hypothetical protein
+17952	17605	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00017
+			product	hypothetical protein
+18711	17968	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00018
+			product	hypothetical protein
+18961	18704	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00019
+			product	hypothetical protein
+20796	18988	CDS
+			gene	traN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24082
+			locus_tag	GGKCFMKK_00020
+			product	Mating pair stabilization protein TraN
+21431	20793	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00021
+			product	hypothetical protein
+22432	21440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00022
+			product	hypothetical protein
+23061	22429	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00023
+			product	hypothetical protein
+23444	23058	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00024
+			product	hypothetical protein
+26068	23441	CDS
+			gene	traC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18004
+			locus_tag	GGKCFMKK_00025
+			product	Protein TraC
+26235	26131	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00026
+			product	hypothetical protein
+27099	26584	CDS
+			gene	traV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P41069
+			locus_tag	GGKCFMKK_00027
+			product	Protein TraV
+27347	27096	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00028
+			product	hypothetical protein
+27556	27359	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00029
+			product	hypothetical protein
+28133	27543	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00030
+			product	hypothetical protein
+29550	28123	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00031
+			product	hypothetical protein
+30278	29550	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00032
+			product	hypothetical protein
+30831	30265	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00033
+			product	hypothetical protein
+31164	30853	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00034
+			product	hypothetical protein
+31544	31179	CDS
+			gene	traA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04737
+			locus_tag	GGKCFMKK_00035
+			product	Pilin
+31972	31577	CDS
+			gene	traY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06627
+			locus_tag	GGKCFMKK_00036
+			product	Relaxosome protein TraY
+32760	32071	CDS
+			gene	traJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06626
+			locus_tag	GGKCFMKK_00037
+			product	Protein TraJ
+33330	32947	CDS
+			gene	traM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10026
+			locus_tag	GGKCFMKK_00038
+			product	Relaxosome protein TraM
+33744	34253	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00039
+			product	hypothetical protein
+35370	34549	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00040
+			product	hypothetical protein
+35776	35489	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00041
+			product	hypothetical protein
+36890	36678	CDS
+			gene	flmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11519
+			locus_tag	GGKCFMKK_00042
+			product	Protein FlmC
+37826	37107	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00043
+			product	hypothetical protein
+38257	37823	CDS
+			gene	psiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	GGKCFMKK_00044
+			product	Protein PsiB
+40270	38312	CDS
+			gene	noc
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02015
+			locus_tag	GGKCFMKK_00045
+			product	Nucleoid occlusion protein
+40569	40336	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	GGKCFMKK_00046
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+41165	40626	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28044
+			locus_tag	GGKCFMKK_00047
+			product	Plasmid-derived single-stranded DNA-binding protein
+42162	41971	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00048
+			product	hypothetical protein
+42581	42159	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00049
+			product	hypothetical protein
+43053	42628	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	GGKCFMKK_00050
+			product	Antirestriction protein KlcA
+43467	43303	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00051
+			product	hypothetical protein
+44243	43467	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00052
+			product	hypothetical protein
+44723	44289	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00053
+			product	hypothetical protein
+44958	44737	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00054
+			product	hypothetical protein
+45642	44959	CDS
+			EC_number	2.1.1.72
+			db_xref	COG:COG0863
+			gene	yhdJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	GGKCFMKK_00055
+			product	DNA adenine methyltransferase YhdJ
+46465	46028	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00056
+			product	hypothetical protein
+46953	46447	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00057
+			product	hypothetical protein
+48638	47667	CDS
+			gene	sopB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62558
+			locus_tag	GGKCFMKK_00058
+			product	Protein SopB
+49804	48638	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00059
+			product	hypothetical protein
+51147	50392	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03856
+			locus_tag	GGKCFMKK_00060
+			product	Replication initiation protein
+52727	51921	CDS
+			gene	xerC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01808
+			locus_tag	GGKCFMKK_00061
+			product	Tyrosine recombinase XerC
+53033	52728	CDS
+			gene	ccdB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62554
+			locus_tag	GGKCFMKK_00062
+			product	Toxin CcdB
+53253	53035	CDS
+			gene	ccdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62552
+			locus_tag	GGKCFMKK_00063
+			product	Antitoxin CcdA
+53950	54411	CDS
+			gene	tetC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28815
+			locus_tag	GGKCFMKK_00064
+			product	Transposon Tn10 TetC protein
+55729	54524	CDS
+			gene	tetA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02980
+			locus_tag	GGKCFMKK_00065
+			product	Tetracycline resistance protein, class B
+55811	56434	CDS
+			gene	tetR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04483
+			locus_tag	GGKCFMKK_00066
+			product	Tetracycline repressor protein class B from transposon Tn10
+56594	58036	CDS
+			EC_number	1.2.1.50
+			gene	luxC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19841
+			locus_tag	GGKCFMKK_00067
+			product	Long-chain acyl-protein thioester reductase
+58049	58972	CDS
+			EC_number	2.3.1.-
+			gene	luxD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19197
+			locus_tag	GGKCFMKK_00068
+			product	Acyl transferase
+59005	60117	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGKCFMKK_00069
+			product	hypothetical protein

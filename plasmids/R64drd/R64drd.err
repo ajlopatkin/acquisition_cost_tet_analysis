@@ -1,0 +1,711 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:130 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 130 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:130 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:1 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:131 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::130 proteins halidinvalid IDs.
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_1 (length 358)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_2 (length 115)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_3 (length 117)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_4 (length 120)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_5 (length 126)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_6 (length 961)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_7 (length 207)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_8 (length 91)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_9 (length 285)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_10 (length 402)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_11 (length 138)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_12 (length 222)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_13 (length 401)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_14 (length 207)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_15 (length 228)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_16 (length 128)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_17 (length 106)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_18 (length 401)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_19 (length 402)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_20 (length 267)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_21 (length 278)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_22 (length 168)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_23 (length 121)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_24 (length 593)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_25 (length 429)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_26 (length 141)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_27 (length 178)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_28 (length 270)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_29 (length 122)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_30 (length 585)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_31 (length 120)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_32 (length 181)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_33 (length 216)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_34 (length 107)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_35 (length 377)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_36 (length 205)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_37 (length 518)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_38 (length 196)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_39 (length 85)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_40 (length 712)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_41 (length 133)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_42 (length 76)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_43 (length 96)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_44 (length 299)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_45 (length 741)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_46 (length 362)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_47 (length 137)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_48 (length 259)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_49 (length 214)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_50 (length 102)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_51 (length 326)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_52 (length 138)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_53 (length 424)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_54 (length 145)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_55 (length 82)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_56 (length 308)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_57 (length 227)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_58 (length 73)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_59 (length 144)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_60 (length 273)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_61 (length 141)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_62 (length 140)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_63 (length 63)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_64 (length 175)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_65 (length 77)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_66 (length 682)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_67 (length 144)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_68 (length 239)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_69 (length 198)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_70 (length 166)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_71 (length 144)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_72 (length 88)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_73 (length 313)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_74 (length 56)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_75 (length 83)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_76 (length 282)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_77 (length 111)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_78 (length 110)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_79 (length 899)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_80 (length 763)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_81 (length 356)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_82 (length 402)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_83 (length 50)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_84 (length 83)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_85 (length 58)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_86 (length 69)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_87 (length 220)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_88 (length 722)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_89 (length 194)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_90 (length 400)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_91 (length 204)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_92 (length 1014)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_93 (length 266)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_94 (length 62)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_95 (length 134)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_96 (length 175)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_97 (length 234)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_98 (length 429)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_99 (length 327)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_100 (length 230)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_101 (length 115)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_102 (length 1255)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_103 (length 183)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_104 (length 96)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_105 (length 382)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_106 (length 272)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_107 (length 152)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_108 (length 193)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_109 (length 399)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_110 (length 274)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_111 (length 384)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_112 (length 32)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_113 (length 456)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_114 (length 218)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_115 (length 186)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_116 (length 204)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_117 (length 365)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_118 (length 517)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_119 (length 150)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_120 (length 431)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_121 (length 560)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_122 (length 145)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_123 (length 355)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_124 (length 196)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_125 (length 150)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_126 (length 84)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_127 (length 188)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_128 (length 227)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_129 (length 177)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_130 (length 58)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 130 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1 (length 120826)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::130 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Replication initiation protein	AL27_R64drd_CH5_CIRCLE_120878_p1:410-1486	OIFEMJME_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c2550-2203	OIFEMJME_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:2762-3115	OIFEMJME_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Arsenical resistance operon trans-acting repressor ArsD	AL27_R64drd_CH5_CIRCLE_120878_p1:3163-3525	OIFEMJME_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	IS3 family transposase IS2	AL27_R64drd_CH5_CIRCLE_120878_p1:c3990-3610	OIFEMJME_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Tn3 family transposase	AL27_R64drd_CH5_CIRCLE_120878_p1:c7104-4219	OIFEMJME_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	DNA-invertase hin	AL27_R64drd_CH5_CIRCLE_120878_p1:7230-7853	OIFEMJME_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	IS3 family transposase IS1133	AL27_R64drd_CH5_CIRCLE_120878_p1:7884-8159	OIFEMJME_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	IS3 family transposase IS1133	AL27_R64drd_CH5_CIRCLE_120878_p1:8156-9013	OIFEMJME_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	IS4 family transposase ISVsa5	AL27_R64drd_CH5_CIRCLE_120878_p1:9083-10291	OIFEMJME_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Transposon Tn10 TetD protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c10717-10301	OIFEMJME_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Transposon Tn10 TetC protein	AL27_R64drd_CH5_CIRCLE_120878_p1:10730-11398	OIFEMJME_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Tetracycline resistance protein, class B	AL27_R64drd_CH5_CIRCLE_120878_p1:c12716-11511	OIFEMJME_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Tetracycline repressor protein class B from transposon Tn10	AL27_R64drd_CH5_CIRCLE_120878_p1:12798-13421	OIFEMJME_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c14085-13399	OIFEMJME_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c14479-14093	OIFEMJME_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	putative protein YqjZ	AL27_R64drd_CH5_CIRCLE_120878_p1:c14792-14472	OIFEMJME_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Sodium/glutamate symporter	AL27_R64drd_CH5_CIRCLE_120878_p1:15237-16442	OIFEMJME_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	IS4 family transposase ISVsa5	AL27_R64drd_CH5_CIRCLE_120878_p1:c18016-16808	OIFEMJME_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Aminoglycoside 3'-phosphotransferase	AL27_R64drd_CH5_CIRCLE_120878_p1:18302-19105	OIFEMJME_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:19105-19941	OIFEMJME_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c20419-19913	OIFEMJME_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c20742-20377	OIFEMJME_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Arsenical pump-driving ATPase	AL27_R64drd_CH5_CIRCLE_120878_p1:20753-22534	OIFEMJME_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Arsenical pump membrane protein	AL27_R64drd_CH5_CIRCLE_120878_p1:22583-23872	OIFEMJME_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Arsenate reductase	AL27_R64drd_CH5_CIRCLE_120878_p1:23885-24310	OIFEMJME_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	L-amino acid N-acyltransferase MnaT	AL27_R64drd_CH5_CIRCLE_120878_p1:c24881-24345	OIFEMJME_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:25093-25905	OIFEMJME_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:25968-26336	OIFEMJME_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Arsenical pump-driving ATPase	AL27_R64drd_CH5_CIRCLE_120878_p1:c28167-26410	OIFEMJME_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Arsenical resistance operon trans-acting repressor ArsD	AL27_R64drd_CH5_CIRCLE_120878_p1:c28550-28188	OIFEMJME_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	ECF RNA polymerase sigma factor SigL	AL27_R64drd_CH5_CIRCLE_120878_p1:c29171-28626	OIFEMJME_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	NADPH-dependent FMN reductase ArsH	AL27_R64drd_CH5_CIRCLE_120878_p1:c29830-29180	OIFEMJME_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c30314-29991	OIFEMJME_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:30419-31552	OIFEMJME_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c32462-31845	OIFEMJME_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c34210-32654	OIFEMJME_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c35063-34473	OIFEMJME_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c35320-35063	OIFEMJME_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:35674-37812	OIFEMJME_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	tRNA(fMet)-specific endonuclease VapC	AL27_R64drd_CH5_CIRCLE_120878_p1:c38375-37974	OIFEMJME_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c38617-38387	OIFEMJME_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:38913-39203	OIFEMJME_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:39193-40092	OIFEMJME_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c42367-40142	OIFEMJME_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Transcriptional repressor PifC	AL27_R64drd_CH5_CIRCLE_120878_p1:c43457-42369	OIFEMJME_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:44009-44422	OIFEMJME_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Tyrosine recombinase XerC	AL27_R64drd_CH5_CIRCLE_120878_p1:44424-45203	OIFEMJME_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:45382-46026	OIFEMJME_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:46113-46421	OIFEMJME_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Plasmid segregation protein ParM	AL27_R64drd_CH5_CIRCLE_120878_p1:46835-47815	OIFEMJME_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:47808-48224	OIFEMJME_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Protein UmuC	AL27_R64drd_CH5_CIRCLE_120878_p1:c49500-48226	OIFEMJME_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Protein UmuD	AL27_R64drd_CH5_CIRCLE_120878_p1:c49937-49500	OIFEMJME_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c50182-49934	OIFEMJME_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:50576-51502	OIFEMJME_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	DNA adenine methyltransferase YhdJ	AL27_R64drd_CH5_CIRCLE_120878_p1:51887-52570	OIFEMJME_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:52571-52792	OIFEMJME_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:52804-53238	OIFEMJME_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:53238-54059	OIFEMJME_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Antirestriction protein KlcA	AL27_R64drd_CH5_CIRCLE_120878_p1:54477-54902	OIFEMJME_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:54949-55371	OIFEMJME_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:55368-55559	OIFEMJME_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Plasmid-derived single-stranded DNA-binding protein	AL27_R64drd_CH5_CIRCLE_120878_p1:56329-56856	OIFEMJME_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:56914-57147	OIFEMJME_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Nucleoid occlusion protein	AL27_R64drd_CH5_CIRCLE_120878_p1:57116-59164	OIFEMJME_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Protein PsiB	AL27_R64drd_CH5_CIRCLE_120878_p1:59219-59653	OIFEMJME_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:59650-60369	OIFEMJME_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:60366-60962	OIFEMJME_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:61425-61925	OIFEMJME_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:62654-63088	OIFEMJME_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:63180-63446	OIFEMJME_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	ISNCY family transposase ISSen7	AL27_R64drd_CH5_CIRCLE_120878_p1:63511-64452	OIFEMJME_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:64514-64684	OIFEMJME_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c64966-64715	OIFEMJME_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:65546-66394	OIFEMJME_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c66814-66479	OIFEMJME_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:67048-67380	OIFEMJME_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:67391-70090	OIFEMJME_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c72418-70127	OIFEMJME_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c73481-72411	OIFEMJME_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c74708-73500	OIFEMJME_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Protein PndA	AL27_R64drd_CH5_CIRCLE_120878_p1:75000-75152	OIFEMJME_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c75475-75224	OIFEMJME_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c76310-76134	OIFEMJME_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:76702-76911	OIFEMJME_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c77645-76983	OIFEMJME_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c79884-77716	OIFEMJME_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c80565-79981	OIFEMJME_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c81796-80594	OIFEMJME_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c82377-81763	OIFEMJME_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c85421-82377	OIFEMJME_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c86311-85511	OIFEMJME_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c86483-86295	OIFEMJME_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c86951-86547	OIFEMJME_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c87529-87002	OIFEMJME_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c88233-87529	OIFEMJME_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c89522-88233	OIFEMJME_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c90508-89525	OIFEMJME_00099
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c91211-90519	OIFEMJME_00100
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c91555-91208	OIFEMJME_00101
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c95340-91573	OIFEMJME_00102
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Phospholipase D	AL27_R64drd_CH5_CIRCLE_120878_p1:c95981-95430	OIFEMJME_00103
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c96286-95996	OIFEMJME_00104
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	putative protein YggR	AL27_R64drd_CH5_CIRCLE_120878_p1:c97431-96283	OIFEMJME_00105
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c98246-97428	OIFEMJME_00106
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c98701-98243	OIFEMJME_00107
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Lipopolysaccharide core heptose(II)-phosphate phosphatase	AL27_R64drd_CH5_CIRCLE_120878_p1:c99677-99096	OIFEMJME_00108
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c100939-99740	OIFEMJME_00109
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c101851-101027	OIFEMJME_00110
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Tyrosine recombinase XerC	AL27_R64drd_CH5_CIRCLE_120878_p1:c103156-102002	OIFEMJME_00111
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:103183-103281	OIFEMJME_00112
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c106214-104844	OIFEMJME_00113
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c106870-106214	OIFEMJME_00114
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c107415-106855	OIFEMJME_00115
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c108039-107425	OIFEMJME_00116
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c109154-108057	OIFEMJME_00117
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c110720-109167	OIFEMJME_00118
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c111183-110731	OIFEMJME_00119
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c112465-111170	OIFEMJME_00120
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c114140-112458	OIFEMJME_00121
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c114591-114154	OIFEMJME_00122
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c115658-114591	OIFEMJME_00123
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c116282-115692	OIFEMJME_00124
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c116784-116332	OIFEMJME_00125
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c117081-116827	OIFEMJME_00126
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c117915-117349	OIFEMJME_00127
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c118612-117929	OIFEMJME_00128
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	Transcription antitermination protein RfaH	AL27_R64drd_CH5_CIRCLE_120878_p1:c119399-118866	OIFEMJME_00129
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:CDS	hypothetical protein	AL27_R64drd_CH5_CIRCLE_120878_p1:c120128-119952	OIFEMJME_00130
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::1 protein sequences are shorter than 50 aa.
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_112 (length 32)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1 (length 120826)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1 (length 120826)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1 (length 120826)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1 (length 120826)
+
+DiscRep_ALL:MISSING_PROJECT::131 sequences do not include project.
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1 (length 120826)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_1 (length 358)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_2 (length 115)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_3 (length 117)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_4 (length 120)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_5 (length 126)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_6 (length 961)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_7 (length 207)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_8 (length 91)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_9 (length 285)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_10 (length 402)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_11 (length 138)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_12 (length 222)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_13 (length 401)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_14 (length 207)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_15 (length 228)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_16 (length 128)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_17 (length 106)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_18 (length 401)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_19 (length 402)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_20 (length 267)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_21 (length 278)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_22 (length 168)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_23 (length 121)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_24 (length 593)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_25 (length 429)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_26 (length 141)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_27 (length 178)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_28 (length 270)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_29 (length 122)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_30 (length 585)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_31 (length 120)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_32 (length 181)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_33 (length 216)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_34 (length 107)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_35 (length 377)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_36 (length 205)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_37 (length 518)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_38 (length 196)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_39 (length 85)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_40 (length 712)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_41 (length 133)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_42 (length 76)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_43 (length 96)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_44 (length 299)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_45 (length 741)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_46 (length 362)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_47 (length 137)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_48 (length 259)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_49 (length 214)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_50 (length 102)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_51 (length 326)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_52 (length 138)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_53 (length 424)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_54 (length 145)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_55 (length 82)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_56 (length 308)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_57 (length 227)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_58 (length 73)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_59 (length 144)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_60 (length 273)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_61 (length 141)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_62 (length 140)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_63 (length 63)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_64 (length 175)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_65 (length 77)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_66 (length 682)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_67 (length 144)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_68 (length 239)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_69 (length 198)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_70 (length 166)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_71 (length 144)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_72 (length 88)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_73 (length 313)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_74 (length 56)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_75 (length 83)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_76 (length 282)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_77 (length 111)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_78 (length 110)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_79 (length 899)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_80 (length 763)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_81 (length 356)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_82 (length 402)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_83 (length 50)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_84 (length 83)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_85 (length 58)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_86 (length 69)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_87 (length 220)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_88 (length 722)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_89 (length 194)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_90 (length 400)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_91 (length 204)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_92 (length 1014)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_93 (length 266)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_94 (length 62)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_95 (length 134)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_96 (length 175)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_97 (length 234)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_98 (length 429)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_99 (length 327)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_100 (length 230)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_101 (length 115)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_102 (length 1255)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_103 (length 183)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_104 (length 96)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_105 (length 382)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_106 (length 272)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_107 (length 152)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_108 (length 193)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_109 (length 399)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_110 (length 274)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_111 (length 384)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_112 (length 32)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_113 (length 456)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_114 (length 218)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_115 (length 186)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_116 (length 204)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_117 (length 365)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_118 (length 517)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_119 (length 150)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_120 (length 431)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_121 (length 560)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_122 (length 145)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_123 (length 355)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_124 (length 196)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_125 (length 150)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_126 (length 84)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_127 (length 188)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_128 (length 227)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_129 (length 177)
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1_130 (length 58)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./../output/plasmids/R64drd/gb_match/default/pk_results/R64drd:AL27_R64drd_CH5_CIRCLE_120878_p1 (length 120826)
+

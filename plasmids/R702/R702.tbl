@@ -1,0 +1,449 @@
+>Feature AL02_R124_AD7_CIRCLE_76639_l1
+966	238	CDS
+			EC_number	1.-.-.-
+			db_xref	COG:COG4221
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WGR5
+			locus_tag	ACHBFCDE_00001
+			product	putative oxidoreductase
+1964	1008	CDS
+			EC_number	1.1.1.-
+			db_xref	COG:COG0667
+			gene	iolS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46336
+			locus_tag	ACHBFCDE_00002
+			product	Aldo-keto reductase IolS
+3297	2272	CDS
+			EC_number	1.6.99.1
+			db_xref	COG:COG1902
+			gene	namA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5KXG9
+			locus_tag	ACHBFCDE_00003
+			product	NADPH dehydrogenase
+3554	4462	CDS
+			gene	rhaS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01534
+			locus_tag	ACHBFCDE_00004
+			product	HTH-type transcriptional activator RhaS
+4652	4894	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00005
+			product	hypothetical protein
+5603	4926	CDS
+			gene	tetR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03038
+			locus_tag	ACHBFCDE_00006
+			product	Tetracycline repressor protein class A from transposon 1721
+5682	6881	CDS
+			gene	tetA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02981
+			locus_tag	ACHBFCDE_00007
+			product	Tetracycline resistance protein, class C
+7288	6812	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00008
+			product	hypothetical protein
+8592	7444	CDS
+			gene	trfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07676
+			locus_tag	ACHBFCDE_00009
+			product	Plasmid replication initiator protein TrfA
+8991	8641	CDS
+			db_xref	COG:COG0629
+			gene	ssb
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9WZ73
+			locus_tag	ACHBFCDE_00010
+			product	Single-stranded DNA-binding protein
+9112	9477	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00011
+			product	hypothetical protein
+9748	10707	CDS
+			db_xref	COG:COG4962
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WMT3
+			locus_tag	ACHBFCDE_00012
+			product	Putative conjugal transfer protein
+10720	11157	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00013
+			product	hypothetical protein
+11160	11471	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00014
+			product	hypothetical protein
+11468	14026	CDS
+			db_xref	COG:COG3451
+			gene	virB4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9R2W4
+			locus_tag	ACHBFCDE_00015
+			product	Type IV secretion system protein virB4
+14023	14781	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00016
+			product	hypothetical protein
+14793	15686	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00017
+			product	hypothetical protein
+15690	16172	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00018
+			product	hypothetical protein
+16177	17568	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00019
+			product	hypothetical protein
+17585	18361	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00020
+			product	hypothetical protein
+18373	18582	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00021
+			product	hypothetical protein
+18589	20175	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00022
+			product	hypothetical protein
+20199	20798	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00023
+			product	hypothetical protein
+20814	21518	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00024
+			product	hypothetical protein
+21549	21812	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00025
+			product	hypothetical protein
+21849	22583	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00026
+			product	hypothetical protein
+22600	23019	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00027
+			product	hypothetical protein
+23034	23729	CDS
+			gene	osa
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29772
+			locus_tag	ACHBFCDE_00028
+			product	Protein osa
+23765	24427	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00029
+			product	hypothetical protein
+25074	24451	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	ACHBFCDE_00030
+			product	Putative transposon Tn552 DNA-invertase bin3
+25604	25071	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00031
+			product	hypothetical protein
+25894	25601	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00032
+			product	hypothetical protein
+26045	26296	CDS
+			gene	parD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22995
+			locus_tag	ACHBFCDE_00033
+			product	Antitoxin ParD
+26293	26604	CDS
+			gene	parE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q79EC5
+			locus_tag	ACHBFCDE_00034
+			product	Toxin ParE
+26682	27542	CDS
+			EC_number	2.7.1.95
+			gene	neo
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00552
+			locus_tag	ACHBFCDE_00035
+			product	Aminoglycoside 3'-phosphotransferase
+27916	27626	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00036
+			product	hypothetical protein
+28364	27924	CDS
+			gene	traB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27188
+			locus_tag	ACHBFCDE_00037
+			product	Protein TraB
+31565	28380	CDS
+			EC_number	2.7.7.-
+			gene	traC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27189
+			locus_tag	ACHBFCDE_00038
+			product	DNA primase TraC
+31835	31572	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00039
+			product	hypothetical protein
+34054	31841	CDS
+			EC_number	5.6.2.1
+			gene	topB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00953
+			locus_tag	ACHBFCDE_00040
+			product	DNA topoisomerase 3
+34602	34069	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00041
+			product	hypothetical protein
+36506	34599	CDS
+			gene	traG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q00185
+			locus_tag	ACHBFCDE_00042
+			product	Conjugal transfer protein TraG
+38701	36503	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q00191
+			locus_tag	ACHBFCDE_00043
+			product	Protein TraI
+39107	38736	CDS
+			gene	traJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17909
+			locus_tag	ACHBFCDE_00044
+			product	Protein TraJ
+39475	39879	CDS
+			gene	traK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17910
+			locus_tag	ACHBFCDE_00045
+			product	Protein TraK
+39879	40604	CDS
+			gene	traL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q00188
+			locus_tag	ACHBFCDE_00046
+			product	Protein TraL
+40601	41038	CDS
+			gene	traM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q00186
+			locus_tag	ACHBFCDE_00047
+			product	Protein TraM
+42437	41091	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00048
+			product	hypothetical protein
+42813	42466	CDS
+			gene	traB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27188
+			locus_tag	ACHBFCDE_00049
+			product	Protein TraB
+43690	42971	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00050
+			product	hypothetical protein
+44582	44055	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00051
+			product	hypothetical protein
+45095	44592	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00052
+			product	hypothetical protein
+46242	45166	CDS
+			gene	korB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07674
+			locus_tag	ACHBFCDE_00053
+			product	Transcriptional repressor protein KorB
+47018	46239	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG1192
+			gene	soj
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q72H90
+			locus_tag	ACHBFCDE_00054
+			product	Chromosome-partitioning ATPase Soj
+47329	47015	CDS
+			gene	trfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03052
+			locus_tag	ACHBFCDE_00055
+			product	TrfB transcriptional repressor protein
+48447	47494	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00056
+			product	hypothetical protein
+49580	48444	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60108
+			locus_tag	ACHBFCDE_00057
+			product	TelA-like protein
+50371	49598	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00058
+			product	hypothetical protein
+50808	50494	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00059
+			product	hypothetical protein
+51159	50836	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00060
+			product	hypothetical protein
+51851	51417	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISStma11
+			locus_tag	ACHBFCDE_00061
+			product	ISL3 family transposase ISStma11
+51923	52273	CDS
+			gene	merT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04140
+			locus_tag	ACHBFCDE_00062
+			product	Mercuric transport protein MerT
+52287	52562	CDS
+			gene	merP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04129
+			locus_tag	ACHBFCDE_00063
+			product	Mercuric transport protein periplasmic component
+52559	53020	CDS
+			gene	merC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q50919
+			locus_tag	ACHBFCDE_00064
+			product	Mercuric transport protein MerC
+53072	54766	CDS
+			EC_number	1.16.1.1
+			gene	merA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00392
+			locus_tag	ACHBFCDE_00065
+			product	Mercuric reductase
+54784	55146	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00066
+			product	hypothetical protein
+55143	55379	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00067
+			product	hypothetical protein
+55376	56095	CDS
+			db_xref	COG:COG2200
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9I310
+			locus_tag	ACHBFCDE_00068
+			product	putative signaling protein
+57481	55937	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:IS1353
+			locus_tag	ACHBFCDE_00069
+			product	IS3 family transposase IS1353
+57613	59127	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00070
+			product	hypothetical protein
+59114	59899	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:IS1326
+			locus_tag	ACHBFCDE_00071
+			product	IS21 family transposase IS1326
+60575	60075	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00072
+			product	hypothetical protein
+61542	60703	CDS
+			EC_number	2.5.1.15
+			db_xref	COG:COG0294
+			gene	folP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC13
+			locus_tag	ACHBFCDE_00073
+			product	Dihydropteroate synthase
+61883	61536	CDS
+			db_xref	COG:COG2076
+			gene	emrE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23895
+			locus_tag	ACHBFCDE_00074
+			product	Multidrug transporter EmrE
+62826	62047	CDS
+			EC_number	2.7.7.47
+			gene	ant1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0D1
+			locus_tag	ACHBFCDE_00075
+			product	Streptomycin 3''-adenylyltransferase
+62987	64000	CDS
+			gene	xerC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01808
+			locus_tag	ACHBFCDE_00076
+			product	Tyrosine recombinase XerC
+64203	64553	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00077
+			product	hypothetical protein
+64679	65239	CDS
+			db_xref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	ACHBFCDE_00078
+			product	DNA-invertase hin
+65242	68208	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:TnAs3
+			locus_tag	ACHBFCDE_00079
+			product	Tn3 family transposase TnAs3
+68598	68368	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00080
+			product	hypothetical protein
+68966	68751	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00081
+			product	hypothetical protein
+69248	69015	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00082
+			product	hypothetical protein
+69731	69474	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ACHBFCDE_00083
+			product	hypothetical protein
+71139	69754	CDS
+			gene	klcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52605
+			locus_tag	ACHBFCDE_00084
+			product	Protein KlcB
+71625	71185	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	ACHBFCDE_00085
+			product	Antirestriction protein KlcA
+76006	73022	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSba14
+			locus_tag	ACHBFCDE_00086
+			product	Tn3 family transposase ISSba14

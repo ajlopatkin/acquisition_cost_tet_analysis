@@ -1,0 +1,792 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:143 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 143 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:143 features have inconsistent gene locations.
+OVERLAPPING_CDS:2 coding regions overlap another coding region with a similar or identical name.
+SUSPECT_PRODUCT_NAMES:1 product_names contain suspect phrase or characters
+	May contain database identifier more appropriate in note; remove from product name
+		1 features contains three or more numbers together that may be identifiers more appropriate in note
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:3 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:144 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::143 proteins halidinvalid IDs.
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_1 (length 325)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_2 (length 39)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_3 (length 246)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_4 (length 300)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_5 (length 369)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_6 (length 317)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_7 (length 33)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_8 (length 87)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_9 (length 108)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_10 (length 295)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_11 (length 57)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_12 (length 96)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_13 (length 393)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_14 (length 646)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_15 (length 435)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_16 (length 62)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_17 (length 75)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_18 (length 313)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_19 (length 128)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_20 (length 288)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_21 (length 103)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_22 (length 413)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_23 (length 301)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_24 (length 121)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_25 (length 97)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_26 (length 96)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_27 (length 186)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_28 (length 371)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_29 (length 1219)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_30 (length 409)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_31 (length 318)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_32 (length 725)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_33 (length 344)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_34 (length 97)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_35 (length 60)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_36 (length 65)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_37 (length 31)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_38 (length 424)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_39 (length 698)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_40 (length 103)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_41 (length 68)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_42 (length 135)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_43 (length 134)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_44 (length 89)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_45 (length 88)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_46 (length 150)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_47 (length 86)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_48 (length 196)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_49 (length 525)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_50 (length 186)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_51 (length 988)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_52 (length 80)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_53 (length 225)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_54 (length 399)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_55 (length 294)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_56 (length 381)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_57 (length 286)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_58 (length 185)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_59 (length 1044)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_60 (length 191)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_61 (length 72)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_62 (length 111)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_63 (length 626)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_64 (length 282)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_65 (length 86)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_66 (length 89)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_67 (length 285)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_68 (length 86)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_69 (length 196)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_70 (length 69)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_71 (length 153)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_72 (length 70)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_73 (length 186)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_74 (length 286)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_75 (length 248)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_76 (length 1756)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_77 (length 717)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_78 (length 243)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_79 (length 169)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_80 (length 941)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_81 (length 458)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_82 (length 100)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_83 (length 181)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_84 (length 94)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_85 (length 115)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_86 (length 247)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_87 (length 85)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_88 (length 602)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_89 (length 212)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_90 (length 330)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_91 (length 210)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_92 (length 128)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_93 (length 875)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_94 (length 73)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_95 (length 171)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_96 (length 83)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_97 (length 65)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_98 (length 196)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_99 (length 475)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_100 (length 242)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_101 (length 188)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_102 (length 103)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_103 (length 121)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_104 (length 131)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_105 (length 229)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_106 (length 127)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_107 (length 169)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_108 (length 273)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_109 (length 95)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_110 (length 71)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_111 (length 239)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_112 (length 144)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_113 (length 652)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_114 (length 77)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_115 (length 287)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_116 (length 187)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_117 (length 453)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_118 (length 76)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_119 (length 85)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_120 (length 60)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_121 (length 123)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_122 (length 141)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_123 (length 323)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_124 (length 70)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_125 (length 191)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_126 (length 112)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_127 (length 323)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_128 (length 388)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_129 (length 732)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_130 (length 425)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_131 (length 580)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_132 (length 315)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_133 (length 574)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_134 (length 397)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_135 (length 126)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_136 (length 71)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_137 (length 144)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_138 (length 285)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_139 (length 285)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_140 (length 275)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_141 (length 304)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_142 (length 129)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_143 (length 110)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 143 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100 (length 142357)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::143 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	RepFIB replication protein A	pRK100:1-978	GADIBNOC_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c1173-1054	GADIBNOC_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Tyrosine recombinase XerC	pRK100:c2003-1263	GADIBNOC_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c3588-2686	GADIBNOC_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c4766-3657	GADIBNOC_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protease 7	pRK100:c6152-5199	GADIBNOC_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c6885-6784	GADIBNOC_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c7275-7012	GADIBNOC_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	IS3 family transposase IS629	pRK100:7767-8093	GADIBNOC_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	IS3 family transposase IS629	pRK100:8093-8980	GADIBNOC_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c9301-9128	GADIBNOC_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c9540-9250	GADIBNOC_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Macrolide export protein MacA	pRK100:10440-11621	GADIBNOC_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Macrolide export ATP-binding/permease protein MacB	pRK100:11618-13558	GADIBNOC_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Toxin and drug export protein A	pRK100:13625-14932	GADIBNOC_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:15261-15449	GADIBNOC_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:15406-15633	GADIBNOC_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c16670-15729	GADIBNOC_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c17291-16905	GADIBNOC_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	ISNCY family transposase ISBcen27	pRK100:c18294-17428	GADIBNOC_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c18792-18481	GADIBNOC_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Putative metal chaperone YciC	pRK100:c20172-18931	GADIBNOC_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	IS3 family transposase IS2	pRK100:c22253-21348	GADIBNOC_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c22576-22211	GADIBNOC_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:23203-23496	GADIBNOC_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	IS481 family transposase ISKpn28	pRK100:24371-24661	GADIBNOC_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:24846-25406	GADIBNOC_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Elloramycin glycosyltransferase ElmGT	pRK100:26642-27757	GADIBNOC_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Multidrug efflux ATP-binding/permease protein	pRK100:27897-31556	GADIBNOC_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Enterochelin esterase	pRK100:31660-32889	GADIBNOC_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:32974-33930	GADIBNOC_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Ferric enterobactin receptor	pRK100:c36152-33975	GADIBNOC_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive	pRK100:c38041-37007	GADIBNOC_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c38894-38601	GADIBNOC_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c39190-39008	GADIBNOC_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c39384-39187	GADIBNOC_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c39537-39442	GADIBNOC_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Colicin V secretion protein CvaA	pRK100:40066-41340	GADIBNOC_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Toxin RTX-I translocation ATP-binding protein	pRK100:41333-43429	GADIBNOC_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Colicin-V	pRK100:c43910-43599	GADIBNOC_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:44006-44212	GADIBNOC_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Glucose-6-phosphate 3-dehydrogenase	pRK100:44279-44686	GADIBNOC_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:44658-45062	GADIBNOC_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Sugar transporter SemiSWEET	pRK100:45064-45333	GADIBNOC_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:45330-45596	GADIBNOC_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	pRK100:c46104-45652	GADIBNOC_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:46397-46657	GADIBNOC_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:46654-47244	GADIBNOC_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Aerotaxis receptor	pRK100:c49159-47582	GADIBNOC_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	DNA-invertase hin	pRK100:49469-50029	GADIBNOC_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Tn3 family transposase TnAs1	pRK100:50033-52999	GADIBNOC_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:53057-53299	GADIBNOC_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Tetracycline repressor protein class A from transposon 1721	pRK100:c54008-53331	GADIBNOC_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Tetracycline resistance protein, class C	pRK100:54087-55286	GADIBNOC_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c56202-55318	GADIBNOC_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Tn3 family transposase TnAs1	pRK100:56667-57812	GADIBNOC_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Beta-lactamase TEM	pRK100:c58783-57923	GADIBNOC_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Transposon Tn3 resolvase	pRK100:c59523-58966	GADIBNOC_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Tn3 family transposase Tn2	pRK100:59558-62692	GADIBNOC_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c63352-62777	GADIBNOC_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:63542-63760	GADIBNOC_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:63738-64073	GADIBNOC_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Colicin-Ia	pRK100:c65975-64095	GADIBNOC_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	3'-5' exonuclease DinG	pRK100:c67009-66161	GADIBNOC_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c67315-67055	GADIBNOC_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c67602-67333	GADIBNOC_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c69375-68518	GADIBNOC_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c69927-69667	GADIBNOC_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c70757-70167	GADIBNOC_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Hemolysin expression-modulating protein Hha	pRK100:c71005-70796	GADIBNOC_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Endonuclease YhcR	pRK100:c71512-71051	GADIBNOC_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c71969-71757	GADIBNOC_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Fertility inhibition protein	pRK100:c72662-72102	GADIBNOC_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Quorum-quenching protein AidA	pRK100:c73625-72765	GADIBNOC_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c74430-73684	GADIBNOC_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Multifunctional conjugation protein TraI	pRK100:c79720-74450	GADIBNOC_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Coupling protein TraD	pRK100:c81873-79720	GADIBNOC_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Lipoprotein YlpA	pRK100:c82857-82126	GADIBNOC_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein TraS	pRK100:c83380-82871	GADIBNOC_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c86202-83377	GADIBNOC_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c87575-86199	GADIBNOC_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c87874-87572	GADIBNOC_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c88409-87864	GADIBNOC_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein TraQ	pRK100:c88680-88396	GADIBNOC_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c89146-88799	GADIBNOC_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c89905-89162	GADIBNOC_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c90155-89898	GADIBNOC_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Mating pair stabilization protein TraN	pRK100:c91990-90182	GADIBNOC_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c92625-91987	GADIBNOC_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c93626-92634	GADIBNOC_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c94255-93623	GADIBNOC_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c94638-94252	GADIBNOC_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein TraC	pRK100:c97262-94635	GADIBNOC_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein TraR	pRK100:c97643-97422	GADIBNOC_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein TraV	pRK100:c98293-97778	GADIBNOC_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c98541-98290	GADIBNOC_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c98750-98553	GADIBNOC_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c99327-98737	GADIBNOC_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c100744-99317	GADIBNOC_00099
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c101472-100744	GADIBNOC_00100
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c102025-101459	GADIBNOC_00101
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c102358-102047	GADIBNOC_00102
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Pilin	pRK100:c102738-102373	GADIBNOC_00103
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Relaxosome protein TraY	pRK100:c103166-102771	GADIBNOC_00104
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein TraJ	pRK100:c103954-103265	GADIBNOC_00105
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Relaxosome protein TraM	pRK100:c104524-104141	GADIBNOC_00106
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:104939-105448	GADIBNOC_00107
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c106565-105744	GADIBNOC_00108
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c106971-106684	GADIBNOC_00109
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein FlmC	pRK100:c108089-107874	GADIBNOC_00110
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c109026-108307	GADIBNOC_00111
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein PsiB	pRK100:c109457-109023	GADIBNOC_00112
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Nucleoid occlusion protein	pRK100:c111470-109512	GADIBNOC_00113
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c111767-111534	GADIBNOC_00114
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Single-stranded DNA-binding protein	pRK100:c112593-111730	GADIBNOC_00115
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c113731-113168	GADIBNOC_00116
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c115140-113779	GADIBNOC_00117
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c115422-115192	GADIBNOC_00118
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:115685-115942	GADIBNOC_00119
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c116598-116416	GADIBNOC_00120
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c116969-116598	GADIBNOC_00121
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Antirestriction protein KlcA	pRK100:c117484-117059	GADIBNOC_00122
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	IS110 family transposase ISEc32	pRK100:117886-118857	GADIBNOC_00123
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c119330-119118	GADIBNOC_00124
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c119918-119343	GADIBNOC_00125
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c120325-119987	GADIBNOC_00126
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein SopB	pRK100:c121936-120965	GADIBNOC_00127
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c123102-121936	GADIBNOC_00128
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Ferric aerobactin receptor	pRK100:c126822-124624	GADIBNOC_00129
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	L-lysine N6-monooxygenase	pRK100:c128184-126907	GADIBNOC_00130
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Aerobactin synthase	pRK100:c129923-128181	GADIBNOC_00131
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	N(6)-hydroxylysine O-acetyltransferase	pRK100:c130870-129923	GADIBNOC_00132
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase	pRK100:c132595-130871	GADIBNOC_00133
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:132731-133924	GADIBNOC_00134
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Putative fluoride ion transporter CrcB	pRK100:c134684-134304	GADIBNOC_00135
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c134971-134756	GADIBNOC_00136
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Enolase	pRK100:c135459-135025	GADIBNOC_00137
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Manganese transport system membrane protein MntB	pRK100:c136784-135927	GADIBNOC_00138
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Manganese transport system membrane protein MntB	pRK100:c137638-136781	GADIBNOC_00139
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Manganese transport system ATP-binding protein MntB	pRK100:c138462-137635	GADIBNOC_00140
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	putative periplasmic iron-binding protein	pRK100:c139376-138462	GADIBNOC_00141
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Protein UmuC	pRK100:c140998-140609	GADIBNOC_00142
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	hypothetical protein	pRK100:c141588-141256	GADIBNOC_00143
+
+DiscRep_ALL:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name.
+DiscRep_SUB:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name that do not have the appropriate note text
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Manganese transport system membrane protein MntB	pRK100:c136784-135927	GADIBNOC_00138
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Manganese transport system membrane protein MntB	pRK100:c137638-136781	GADIBNOC_00139
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::1 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features contains three or more numbers together that may be identifiers more appropriate in note
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:CDS	Tetracycline repressor protein class A from transposon 1721	pRK100:c54008-53331	GADIBNOC_00053
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::3 protein sequences are shorter than 50 aa.
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_2 (length 39)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_7 (length 33)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_37 (length 31)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100 (length 142357)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100 (length 142357)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100 (length 142357)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100 (length 142357)
+
+DiscRep_ALL:MISSING_PROJECT::144 sequences do not include project.
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100 (length 142357)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_1 (length 325)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_2 (length 39)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_3 (length 246)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_4 (length 300)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_5 (length 369)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_6 (length 317)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_7 (length 33)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_8 (length 87)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_9 (length 108)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_10 (length 295)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_11 (length 57)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_12 (length 96)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_13 (length 393)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_14 (length 646)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_15 (length 435)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_16 (length 62)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_17 (length 75)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_18 (length 313)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_19 (length 128)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_20 (length 288)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_21 (length 103)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_22 (length 413)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_23 (length 301)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_24 (length 121)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_25 (length 97)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_26 (length 96)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_27 (length 186)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_28 (length 371)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_29 (length 1219)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_30 (length 409)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_31 (length 318)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_32 (length 725)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_33 (length 344)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_34 (length 97)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_35 (length 60)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_36 (length 65)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_37 (length 31)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_38 (length 424)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_39 (length 698)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_40 (length 103)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_41 (length 68)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_42 (length 135)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_43 (length 134)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_44 (length 89)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_45 (length 88)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_46 (length 150)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_47 (length 86)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_48 (length 196)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_49 (length 525)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_50 (length 186)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_51 (length 988)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_52 (length 80)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_53 (length 225)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_54 (length 399)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_55 (length 294)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_56 (length 381)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_57 (length 286)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_58 (length 185)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_59 (length 1044)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_60 (length 191)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_61 (length 72)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_62 (length 111)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_63 (length 626)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_64 (length 282)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_65 (length 86)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_66 (length 89)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_67 (length 285)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_68 (length 86)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_69 (length 196)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_70 (length 69)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_71 (length 153)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_72 (length 70)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_73 (length 186)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_74 (length 286)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_75 (length 248)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_76 (length 1756)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_77 (length 717)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_78 (length 243)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_79 (length 169)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_80 (length 941)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_81 (length 458)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_82 (length 100)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_83 (length 181)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_84 (length 94)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_85 (length 115)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_86 (length 247)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_87 (length 85)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_88 (length 602)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_89 (length 212)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_90 (length 330)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_91 (length 210)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_92 (length 128)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_93 (length 875)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_94 (length 73)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_95 (length 171)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_96 (length 83)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_97 (length 65)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_98 (length 196)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_99 (length 475)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_100 (length 242)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_101 (length 188)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_102 (length 103)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_103 (length 121)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_104 (length 131)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_105 (length 229)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_106 (length 127)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_107 (length 169)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_108 (length 273)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_109 (length 95)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_110 (length 71)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_111 (length 239)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_112 (length 144)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_113 (length 652)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_114 (length 77)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_115 (length 287)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_116 (length 187)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_117 (length 453)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_118 (length 76)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_119 (length 85)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_120 (length 60)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_121 (length 123)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_122 (length 141)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_123 (length 323)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_124 (length 70)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_125 (length 191)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_126 (length 112)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_127 (length 323)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_128 (length 388)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_129 (length 732)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_130 (length 425)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_131 (length 580)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_132 (length 315)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_133 (length 574)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_134 (length 397)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_135 (length 126)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_136 (length 71)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_137 (length 144)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_138 (length 285)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_139 (length 285)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_140 (length 275)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_141 (length 304)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_142 (length 129)
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100_143 (length 110)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./../output/plasmids/pRK100/gb_match/default/pk_results/pRK100:pRK100 (length 142357)
+

@@ -1,0 +1,407 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:69 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 69 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:69 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:2 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:70 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::69 proteins halid nvalid IDs.
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_1 (length 38)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_2 (length 132)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_3 (length 248)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_4 (length 1756)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_5 (length 75)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_6 (length 132)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_7 (length 717)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_8 (length 244)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_9 (length 173)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_10 (length 938)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_11 (length 457)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_12 (length 126)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_13 (length 93)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_14 (length 181)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_15 (length 94)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_16 (length 104)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_17 (length 115)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_18 (length 247)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_19 (length 85)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_20 (length 602)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_21 (length 212)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_22 (length 330)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_23 (length 210)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_24 (length 128)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_25 (length 875)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_26 (length 34)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_27 (length 171)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_28 (length 83)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_29 (length 65)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_30 (length 196)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_31 (length 475)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_32 (length 242)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_33 (length 188)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_34 (length 103)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_35 (length 121)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_36 (length 131)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_37 (length 229)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_38 (length 127)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_39 (length 169)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_40 (length 273)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_41 (length 95)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_42 (length 70)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_43 (length 239)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_44 (length 144)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_45 (length 652)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_46 (length 77)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_47 (length 179)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_48 (length 63)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_49 (length 140)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_50 (length 141)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_51 (length 54)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_52 (length 258)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_53 (length 144)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_54 (length 73)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_55 (length 227)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_56 (length 145)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_57 (length 168)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_58 (length 323)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_59 (length 388)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_60 (length 251)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_61 (length 268)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_62 (length 101)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_63 (length 72)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_64 (length 153)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_65 (length 401)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_66 (length 207)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_67 (length 480)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_68 (length 307)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_69 (length 370)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 69 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc (length 60270)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::69 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c584-468	GGKCFMKK_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Fertility inhibition protein	pox38-tc:c1045-647	GGKCFMKK_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c1846-1100	GGKCFMKK_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Multifunctional conjugation protein TraI	pox38-tc:c7136-1866	GGKCFMKK_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Antitoxin VapB	pox38-tc:7218-7445	GGKCFMKK_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	tRNA(fMet)-specific endonuclease VapC	pox38-tc:7445-7843	GGKCFMKK_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Coupling protein TraD	pox38-tc:c10005-7852	GGKCFMKK_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Lipoprotein YlpA	pox38-tc:c10992-10258	GGKCFMKK_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Protein TraS	pox38-tc:c11535-11014	GGKCFMKK_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c14384-11568	GGKCFMKK_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c15754-14381	GGKCFMKK_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c16134-15754	GGKCFMKK_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c16402-16121	GGKCFMKK_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c16937-16392	GGKCFMKK_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Protein TraQ	pox38-tc:c17208-16924	GGKCFMKK_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:17289-17603	GGKCFMKK_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c17952-17605	GGKCFMKK_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c18711-17968	GGKCFMKK_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c18961-18704	GGKCFMKK_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Mating pair stabilization protein TraN	pox38-tc:c20796-18988	GGKCFMKK_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c21431-20793	GGKCFMKK_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c22432-21440	GGKCFMKK_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c23061-22429	GGKCFMKK_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c23444-23058	GGKCFMKK_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Protein TraC	pox38-tc:c26068-23441	GGKCFMKK_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c26235-26131	GGKCFMKK_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Protein TraV	pox38-tc:c27099-26584	GGKCFMKK_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c27347-27096	GGKCFMKK_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c27556-27359	GGKCFMKK_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c28133-27543	GGKCFMKK_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c29550-28123	GGKCFMKK_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c30278-29550	GGKCFMKK_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c30831-30265	GGKCFMKK_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c31164-30853	GGKCFMKK_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Pilin	pox38-tc:c31544-31179	GGKCFMKK_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Relaxosome protein TraY	pox38-tc:c31972-31577	GGKCFMKK_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Protein TraJ	pox38-tc:c32760-32071	GGKCFMKK_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Relaxosome protein TraM	pox38-tc:c33330-32947	GGKCFMKK_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:33744-34253	GGKCFMKK_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c35370-34549	GGKCFMKK_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c35776-35489	GGKCFMKK_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Protein FlmC	pox38-tc:c36890-36678	GGKCFMKK_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c37826-37107	GGKCFMKK_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Protein PsiB	pox38-tc:c38257-37823	GGKCFMKK_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Nucleoid occlusion protein	pox38-tc:c40270-38312	GGKCFMKK_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c40569-40336	GGKCFMKK_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Plasmid-derived single-stranded DNA-binding protein	pox38-tc:c41165-40626	GGKCFMKK_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c42162-41971	GGKCFMKK_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c42581-42159	GGKCFMKK_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Antirestriction protein KlcA	pox38-tc:c43053-42628	GGKCFMKK_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c43467-43303	GGKCFMKK_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c44243-43467	GGKCFMKK_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c44723-44289	GGKCFMKK_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c44958-44737	GGKCFMKK_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	DNA adenine methyltransferase YhdJ	pox38-tc:c45642-44959	GGKCFMKK_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c46465-46028	GGKCFMKK_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c46953-46447	GGKCFMKK_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Protein SopB	pox38-tc:c48638-47667	GGKCFMKK_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:c49804-48638	GGKCFMKK_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Replication initiation protein	pox38-tc:c51147-50392	GGKCFMKK_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Tyrosine recombinase XerC	pox38-tc:c52727-51921	GGKCFMKK_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Toxin CcdB	pox38-tc:c53033-52728	GGKCFMKK_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Antitoxin CcdA	pox38-tc:c53253-53035	GGKCFMKK_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Transposon Tn10 TetC protein	pox38-tc:53950-54411	GGKCFMKK_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Tetracycline resistance protein, class B	pox38-tc:c55729-54524	GGKCFMKK_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Tetracycline repressor protein class B from transposon Tn10	pox38-tc:55811-56434	GGKCFMKK_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Long-chain acyl-protein thioester reductase	pox38-tc:56594-58036	GGKCFMKK_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	Acyl transferase	pox38-tc:58049-58972	GGKCFMKK_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:CDS	hypothetical protein	pox38-tc:59005-60117	GGKCFMKK_00069
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::2 protein sequences are shorter than 50 aa.
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_1 (length 38)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_26 (length 34)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc (length 60270)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc (length 60270)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc (length 60270)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc (length 60270)
+
+DiscRep_ALL:MISSING_PROJECT::70 sequences do not include project.
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc (length 60270)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_1 (length 38)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_2 (length 132)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_3 (length 248)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_4 (length 1756)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_5 (length 75)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_6 (length 132)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_7 (length 717)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_8 (length 244)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_9 (length 173)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_10 (length 938)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_11 (length 457)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_12 (length 126)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_13 (length 93)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_14 (length 181)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_15 (length 94)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_16 (length 104)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_17 (length 115)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_18 (length 247)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_19 (length 85)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_20 (length 602)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_21 (length 212)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_22 (length 330)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_23 (length 210)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_24 (length 128)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_25 (length 875)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_26 (length 34)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_27 (length 171)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_28 (length 83)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_29 (length 65)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_30 (length 196)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_31 (length 475)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_32 (length 242)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_33 (length 188)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_34 (length 103)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_35 (length 121)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_36 (length 131)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_37 (length 229)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_38 (length 127)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_39 (length 169)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_40 (length 273)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_41 (length 95)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_42 (length 70)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_43 (length 239)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_44 (length 144)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_45 (length 652)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_46 (length 77)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_47 (length 179)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_48 (length 63)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_49 (length 140)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_50 (length 141)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_51 (length 54)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_52 (length 258)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_53 (length 144)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_54 (length 73)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_55 (length 227)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_56 (length 145)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_57 (length 168)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_58 (length 323)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_59 (length 388)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_60 (length 251)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_61 (length 268)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_62 (length 101)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_63 (length 72)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_64 (length 153)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_65 (length 401)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_66 (length 207)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_67 (length 480)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_68 (length 307)
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc_69 (length 370)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./../output/plasmids/pOX38/gb_match/default/pk_results/pOX38:pox38-tc (length 60270)
+

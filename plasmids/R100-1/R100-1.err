@@ -1,0 +1,617 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:111 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 111 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:111 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:2 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:112 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::111 proteins halidinvalid IDs.
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_1 (length 144)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_2 (length 116)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_3 (length 91)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_4 (length 140)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_5 (length 564)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_6 (length 120)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_7 (length 78)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_8 (length 235)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_9 (length 559)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_10 (length 286)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_11 (length 514)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_12 (length 504)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_13 (length 261)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_14 (length 166)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_15 (length 279)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_16 (length 115)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_17 (length 259)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_18 (length 337)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_19 (length 66)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_20 (length 186)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_21 (length 988)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_22 (length 125)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_23 (length 219)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_24 (length 91)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_25 (length 125)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_26 (length 78)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_27 (length 93)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_28 (length 117)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_29 (length 320)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_30 (length 227)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_31 (length 73)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_32 (length 144)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_33 (length 275)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_34 (length 141)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_35 (length 140)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_36 (length 63)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_37 (length 76)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_38 (length 453)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_39 (length 187)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_40 (length 86)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_41 (length 175)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_42 (length 77)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_43 (length 473)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_44 (length 402)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_45 (length 41)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_46 (length 34)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_47 (length 401)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_48 (length 106)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_49 (length 128)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_50 (length 207)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_51 (length 207)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_52 (length 401)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_53 (length 197)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_54 (length 138)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_55 (length 402)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_56 (length 191)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_57 (length 144)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_58 (length 239)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_59 (length 70)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_60 (length 98)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_61 (length 273)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_62 (length 169)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_63 (length 127)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_64 (length 223)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_65 (length 119)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_66 (length 103)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_67 (length 188)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_68 (length 242)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_69 (length 483)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_70 (length 188)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_71 (length 122)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_72 (length 171)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_73 (length 137)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_74 (length 157)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_75 (length 72)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_76 (length 115)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_77 (length 876)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_78 (length 128)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_79 (length 210)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_80 (length 330)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_81 (length 101)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_82 (length 212)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_83 (length 616)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_84 (length 85)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_85 (length 247)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_86 (length 114)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_87 (length 94)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_88 (length 181)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_89 (length 130)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_90 (length 457)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_91 (length 940)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_92 (length 159)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_93 (length 243)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_94 (length 245)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_95 (length 738)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_96 (length 1756)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_97 (length 248)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_98 (length 286)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_99 (length 74)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_100 (length 110)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_101 (length 153)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_102 (length 69)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_103 (length 196)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_104 (length 84)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_105 (length 285)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_106 (length 217)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_107 (length 85)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_108 (length 110)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_109 (length 436)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_110 (length 91)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_111 (length 125)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 111 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1 (length 94282)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::111 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	ISL3 family transposase ISStma11	AL22_R100_1_ND10_CIRCLE_94334_p1:c536-102	EAPLMMIH_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Mercuric transport protein MerT	AL22_R100_1_ND10_CIRCLE_94334_p1:608-958	EAPLMMIH_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Mercuric transport protein periplasmic component	AL22_R100_1_ND10_CIRCLE_94334_p1:972-1247	EAPLMMIH_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Mercuric transport protein MerC	AL22_R100_1_ND10_CIRCLE_94334_p1:1283-1705	EAPLMMIH_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Mercuric reductase	AL22_R100_1_ND10_CIRCLE_94334_p1:1757-3451	EAPLMMIH_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:3469-3831	EAPLMMIH_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:3828-4064	EAPLMMIH_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	putative signaling protein	AL22_R100_1_ND10_CIRCLE_94334_p1:4061-4768	EAPLMMIH_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:4843-6522	EAPLMMIH_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:6525-7385	EAPLMMIH_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	IS3 family transposase IS1353	AL22_R100_1_ND10_CIRCLE_94334_p1:c8980-7436	EAPLMMIH_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:9112-10626	EAPLMMIH_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	IS21 family transposase IS1326	AL22_R100_1_ND10_CIRCLE_94334_p1:10613-11398	EAPLMMIH_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:c12074-11574	EAPLMMIH_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Dihydropteroate synthase	AL22_R100_1_ND10_CIRCLE_94334_p1:c13041-12202	EAPLMMIH_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Multidrug transporter EmrE	AL22_R100_1_ND10_CIRCLE_94334_p1:c13382-13035	EAPLMMIH_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Streptomycin 3''-adenylyltransferase	AL22_R100_1_ND10_CIRCLE_94334_p1:c14325-13546	EAPLMMIH_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Tyrosine recombinase XerC	AL22_R100_1_ND10_CIRCLE_94334_p1:14486-15499	EAPLMMIH_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:15852-16052	EAPLMMIH_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	DNA-invertase hin	AL22_R100_1_ND10_CIRCLE_94334_p1:16178-16738	EAPLMMIH_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Tn3 family transposase TnAs3	AL22_R100_1_ND10_CIRCLE_94334_p1:16741-19707	EAPLMMIH_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:19774-20151	EAPLMMIH_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Chloramphenicol acetyltransferase	AL22_R100_1_ND10_CIRCLE_94334_p1:c21011-20352	EAPLMMIH_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	IS1 family transposase IS1D	AL22_R100_1_ND10_CIRCLE_94334_p1:21290-21565	EAPLMMIH_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	IS1 family transposase IS1R	AL22_R100_1_ND10_CIRCLE_94334_p1:21610-21987	EAPLMMIH_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:c23769-23533	EAPLMMIH_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:23798-24079	EAPLMMIH_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Protein StbB	AL22_R100_1_ND10_CIRCLE_94334_p1:c24555-24202	EAPLMMIH_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Plasmid segregation protein ParM	AL22_R100_1_ND10_CIRCLE_94334_p1:c25517-24555	EAPLMMIH_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	DNA adenine methyltransferase YhdJ	AL22_R100_1_ND10_CIRCLE_94334_p1:26034-26717	EAPLMMIH_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:26718-26939	EAPLMMIH_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:26953-27387	EAPLMMIH_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:27387-28214	EAPLMMIH_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Antirestriction protein KlcA	AL22_R100_1_ND10_CIRCLE_94334_p1:28632-29057	EAPLMMIH_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:29104-29526	EAPLMMIH_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:29523-29714	EAPLMMIH_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:30771-31001	EAPLMMIH_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:31053-32414	EAPLMMIH_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:32461-33024	EAPLMMIH_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:33024-33284	EAPLMMIH_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Plasmid-derived single-stranded DNA-binding protein	AL22_R100_1_ND10_CIRCLE_94334_p1:33879-34406	EAPLMMIH_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:34464-34697	EAPLMMIH_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Nucleoid occlusion protein	AL22_R100_1_ND10_CIRCLE_94334_p1:34758-36179	EAPLMMIH_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	IS4 family transposase ISVsa5	AL22_R100_1_ND10_CIRCLE_94334_p1:36249-37457	EAPLMMIH_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:c37592-37467	EAPLMMIH_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:c37771-37667	EAPLMMIH_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Sodium/glutamate symporter	AL22_R100_1_ND10_CIRCLE_94334_p1:c39028-37823	EAPLMMIH_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	putative protein YqjZ	AL22_R100_1_ND10_CIRCLE_94334_p1:39472-39792	EAPLMMIH_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:39785-40171	EAPLMMIH_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:40242-40865	EAPLMMIH_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Tetracycline repressor protein class B from transposon Tn10	AL22_R100_1_ND10_CIRCLE_94334_p1:c41466-40843	EAPLMMIH_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Tetracycline resistance protein, class B	AL22_R100_1_ND10_CIRCLE_94334_p1:41548-42753	EAPLMMIH_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Transposon Tn10 TetC protein	AL22_R100_1_ND10_CIRCLE_94334_p1:c43459-42866	EAPLMMIH_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Transposon Tn10 TetD protein	AL22_R100_1_ND10_CIRCLE_94334_p1:43547-43963	EAPLMMIH_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	IS4 family transposase ISVsa5	AL22_R100_1_ND10_CIRCLE_94334_p1:c45181-43973	EAPLMMIH_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:45303-45878	EAPLMMIH_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Protein PsiB	AL22_R100_1_ND10_CIRCLE_94334_p1:45947-46381	EAPLMMIH_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:46378-47097	EAPLMMIH_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Protein FlmC	AL22_R100_1_ND10_CIRCLE_94334_p1:47319-47531	EAPLMMIH_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:48450-48746	EAPLMMIH_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:48857-49678	EAPLMMIH_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:c50484-49975	EAPLMMIH_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Relaxosome protein TraM	AL22_R100_1_ND10_CIRCLE_94334_p1:50900-51283	EAPLMMIH_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Protein TraJ	AL22_R100_1_ND10_CIRCLE_94334_p1:51477-52148	EAPLMMIH_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Pilin	AL22_R100_1_ND10_CIRCLE_94334_p1:52545-52904	EAPLMMIH_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:52919-53230	EAPLMMIH_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:53252-53818	EAPLMMIH_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:53805-54533	EAPLMMIH_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:54533-55984	EAPLMMIH_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:55974-56540	EAPLMMIH_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:56479-56847	EAPLMMIH_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Protein TraV	AL22_R100_1_ND10_CIRCLE_94334_p1:56844-57359	EAPLMMIH_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:57708-58121	EAPLMMIH_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:58114-58587	EAPLMMIH_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:58667-58885	EAPLMMIH_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:58913-59260	EAPLMMIH_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Protein TraC	AL22_R100_1_ND10_CIRCLE_94334_p1:59386-62016	EAPLMMIH_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:62013-62399	EAPLMMIH_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:62396-63028	EAPLMMIH_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:63025-64017	EAPLMMIH_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:64047-64352	EAPLMMIH_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:64361-64999	EAPLMMIH_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Mating pair stabilization protein TraN	AL22_R100_1_ND10_CIRCLE_94334_p1:64996-66846	EAPLMMIH_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:66873-67130	EAPLMMIH_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:67123-67866	EAPLMMIH_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:67880-68224	EAPLMMIH_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Protein TraQ	AL22_R100_1_ND10_CIRCLE_94334_p1:68343-68627	EAPLMMIH_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:68614-69159	EAPLMMIH_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:69417-69809	EAPLMMIH_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:69796-71169	EAPLMMIH_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:71166-73988	EAPLMMIH_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:74010-74489	EAPLMMIH_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Lipoprotein YlpA	AL22_R100_1_ND10_CIRCLE_94334_p1:74538-75269	EAPLMMIH_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:75472-76209	EAPLMMIH_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Coupling protein TraD	AL22_R100_1_ND10_CIRCLE_94334_p1:76260-78476	EAPLMMIH_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Multifunctional conjugation protein TraI	AL22_R100_1_ND10_CIRCLE_94334_p1:78476-83746	EAPLMMIH_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:83766-84512	EAPLMMIH_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Quorum-quenching protein AidA	AL22_R100_1_ND10_CIRCLE_94334_p1:84571-85431	EAPLMMIH_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Fertility inhibition protein	AL22_R100_1_ND10_CIRCLE_94334_p1:85534-85758	EAPLMMIH_00099
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Fertility inhibition protein	AL22_R100_1_ND10_CIRCLE_94334_p1:85763-86095	EAPLMMIH_00100
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Endonuclease YhcR	AL22_R100_1_ND10_CIRCLE_94334_p1:86680-87141	EAPLMMIH_00101
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Hemolysin expression-modulating protein Hha	AL22_R100_1_ND10_CIRCLE_94334_p1:87187-87396	EAPLMMIH_00102
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:87434-88024	EAPLMMIH_00103
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:88264-88518	EAPLMMIH_00104
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:88823-89680	EAPLMMIH_00105
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:90619-91272	EAPLMMIH_00106
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Antitoxin PemI	AL22_R100_1_ND10_CIRCLE_94334_p1:91365-91622	EAPLMMIH_00107
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	Endoribonuclease PemK	AL22_R100_1_ND10_CIRCLE_94334_p1:91624-91956	EAPLMMIH_00108
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	hypothetical protein	AL22_R100_1_ND10_CIRCLE_94334_p1:92241-93551	EAPLMMIH_00109
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	IS1 family transposase IS1D	AL22_R100_1_ND10_CIRCLE_94334_p1:93580-93855	EAPLMMIH_00110
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:CDS	IS1 family transposase IS1R	AL22_R100_1_ND10_CIRCLE_94334_p1:93900-94277	EAPLMMIH_00111
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::2 protein sequences are shorter than 50 aa.
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_45 (length 41)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_46 (length 34)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1 (length 94282)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1 (length 94282)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1 (length 94282)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1 (length 94282)
+
+DiscRep_ALL:MISSING_PROJECT::112 sequences do not include project.
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1 (length 94282)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_1 (length 144)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_2 (length 116)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_3 (length 91)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_4 (length 140)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_5 (length 564)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_6 (length 120)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_7 (length 78)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_8 (length 235)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_9 (length 559)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_10 (length 286)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_11 (length 514)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_12 (length 504)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_13 (length 261)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_14 (length 166)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_15 (length 279)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_16 (length 115)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_17 (length 259)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_18 (length 337)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_19 (length 66)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_20 (length 186)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_21 (length 988)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_22 (length 125)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_23 (length 219)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_24 (length 91)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_25 (length 125)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_26 (length 78)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_27 (length 93)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_28 (length 117)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_29 (length 320)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_30 (length 227)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_31 (length 73)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_32 (length 144)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_33 (length 275)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_34 (length 141)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_35 (length 140)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_36 (length 63)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_37 (length 76)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_38 (length 453)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_39 (length 187)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_40 (length 86)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_41 (length 175)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_42 (length 77)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_43 (length 473)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_44 (length 402)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_45 (length 41)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_46 (length 34)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_47 (length 401)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_48 (length 106)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_49 (length 128)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_50 (length 207)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_51 (length 207)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_52 (length 401)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_53 (length 197)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_54 (length 138)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_55 (length 402)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_56 (length 191)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_57 (length 144)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_58 (length 239)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_59 (length 70)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_60 (length 98)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_61 (length 273)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_62 (length 169)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_63 (length 127)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_64 (length 223)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_65 (length 119)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_66 (length 103)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_67 (length 188)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_68 (length 242)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_69 (length 483)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_70 (length 188)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_71 (length 122)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_72 (length 171)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_73 (length 137)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_74 (length 157)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_75 (length 72)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_76 (length 115)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_77 (length 876)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_78 (length 128)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_79 (length 210)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_80 (length 330)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_81 (length 101)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_82 (length 212)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_83 (length 616)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_84 (length 85)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_85 (length 247)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_86 (length 114)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_87 (length 94)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_88 (length 181)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_89 (length 130)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_90 (length 457)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_91 (length 940)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_92 (length 159)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_93 (length 243)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_94 (length 245)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_95 (length 738)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_96 (length 1756)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_97 (length 248)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_98 (length 286)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_99 (length 74)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_100 (length 110)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_101 (length 153)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_102 (length 69)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_103 (length 196)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_104 (length 84)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_105 (length 285)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_106 (length 217)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_107 (length 85)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_108 (length 110)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_109 (length 436)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_110 (length 91)
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1_111 (length 125)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./../output/plasmids/R100-1/gb_match/default/pk_results/R100-1:AL22_R100_1_ND10_CIRCLE_94334_p1 (length 94282)
+
